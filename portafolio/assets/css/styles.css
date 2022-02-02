@@ -296,7 +296,7 @@ img{
   width: 85%;
 }
 .skills__js{
-  width: 65%;
+  width: 70%;
 }
 .skills__sass{
   width: 60%;
@@ -316,15 +316,14 @@ img{
   box-shadow: 0 4px 25px rgba(14,36,49,.15);
   border-radius: .5rem;
   overflow: hidden;
+ 
 }
 .work__img img{
   transition: 1s;
   cursor: pointer;
 }
 .work__img img:hover{
-  transform: scale(1.1);
-}
-
+  transform: scale(1.1);}
 /* ===== Contacto =====*/
 .contact__input{
   width: 100%;
@@ -364,6 +363,9 @@ img{
   font-size: 1.5rem;
   color: #fff;
   margin: 0 var(--mb-2)
+}
+.footer__icon:hover {
+  color: var(--first-color);
 }
 #volver{
   color: rgb(94, 93, 167);
@@ -495,3 +497,4 @@ img{
   #info{
     margin-top:3cm;
 }
+
