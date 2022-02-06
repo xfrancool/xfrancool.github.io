@@ -60,6 +60,10 @@ body {
   font-size: var(--normal-font-size);
   color: var(--second-color);
 }
+body.dark {
+  background: #111111;
+  color: white;
+}
 h1,
 h2,
 p {
@@ -124,7 +128,19 @@ img {
   box-shadow: 0 1px 4px rgba(146, 161, 176, 0.15);
 }
 
-/*===== NAV =====*/
+/*===== NAV Dark=====*/
+body.dark nav {
+  background: black;
+}
+
+body.dark nav a {
+  color: #c8c8c8;
+}
+
+body.dark nav a:hover {
+  color: #fefefe;
+}
+/*===== NAV=====*/
 .nav {
   height: var(--header-height);
   display: flex;
@@ -165,6 +181,8 @@ img {
 }
 .nav__logo {
   color: var(--second-color);
+  position: relative;
+  left: 0.5cm;
 }
 .nav__toggle {
   color: var(--second-color);
@@ -222,6 +240,13 @@ img {
   bottom: 0;
   top: 5px;
   width: 295px;
+}
+/* dark icon home*/
+body.dark .home__social-icon {
+  color: white;
+}
+body.dark .home__social-icon:hover {
+  color: var(--first-color);
 }
 
 /*BUTTONS*/
@@ -318,7 +343,7 @@ img {
   border-radius: 0.5rem;
   margin-top: 0px;
 }
-.skills__img1 {
+#skills__img1 {
   border-radius: 0.5rem;
   margin-top: 0px;
 }
@@ -409,6 +434,8 @@ img {
   .nav__list {
     display: flex;
     padding-top: 0;
+    position: relative;
+    right: 1cm;
   }
   .nav__item {
     margin-left: var(--mb-6);
@@ -417,6 +444,9 @@ img {
   .nav__toggle {
     display: none;
   }
+  /* .bx {
+    color: white;
+  } */
   .nav__link {
     color: var(--second-color);
   }
@@ -476,7 +506,7 @@ img {
 @media screen and (max-width: 620px) {
   .home__img {
     position: relative;
-    width: 280px;
+    width: 300px;
   }
 
   .about__img img {
@@ -509,4 +539,52 @@ img {
   #info {
     margin-top: 3cm;
   }
+}
+/* Boton*/
+.switch {
+  background: #343d5b;
+  border-radius: 1000px;
+  border: none;
+  position: relative;
+  cursor: pointer;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  outline: none;
+}
+
+.switch::after {
+  content: "";
+  display: block;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  background: #f1f1f1;
+  top: 0;
+  left: 0;
+  right: unset;
+  border-radius: 100px;
+  -webkit-transition: 0.3s ease all;
+  transition: 0.3s ease all;
+  -webkit-box-shadow: 0px 0px 2px 2px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 0px 2px 2px rgba(0, 0, 0, 0.2);
+}
+
+.switch.active {
+  background: orange;
+  color: #000;
+}
+
+.switch.active::after {
+  right: 0;
+  left: unset;
+}
+
+.switch span {
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  display: block;
+  background: none;
+  color: #fff;
 }

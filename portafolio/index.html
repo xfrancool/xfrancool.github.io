@@ -9,16 +9,23 @@
     <!-- =====Iconos===== -->
     <link href='https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css' rel='stylesheet'>
     <script src="https://unpkg.com/boxicons@2.1.1/dist/boxicons.js"></script>
+    
     <link rel="icon" href="icono.ico" type="image/ico" />
 
     <title>Portafolio Personal</title>
   </head>
 
   <body>
-    <div class="container">
+    
+
+
+
+    <div class="container" >
+
+
       <!--===== Cabecera =====-->
       <header class="l-header">
-        <nav class="nav bd-grid">
+        <nav class="nav ">
           <div>
             <a href="#" class="nav__logo"
               >Portafolio Personal
@@ -27,7 +34,12 @@
           </div>
 
           <div class="nav__menu" id="nav-menu">
+            
             <ul class="nav__list">
+              <button class="switch" id="switch">
+                <span><i class="bx bxs-sun"></i></span>
+                <span><i class="bx bxs-moon"></i></span>
+              </button>
               <li class="nav__item">
                 <a href="#inicio" class="nav__link active">Inicio</a>
               </li>
@@ -47,7 +59,7 @@
           </div>
 
           <div class="nav__toggle" id="nav-toggle">
-            <i class="bx bx-menu"></i>
+            <i class="bx bx-menu" id="icon-nave" style="color:grey;"></i>
           </div>
         </nav>
       </header>
@@ -62,7 +74,8 @@
             </h1>
 
             <a
-              href="https://api.whatsapp.com/send?phone=+5493513532478&text=Hola Franco,mire tu portafolio y me interesa trabajar contigo en un proyecto nuevo..."
+              href="https://api.whatsapp.com/send?phone=+5493513532478&text=Hola Franco!
+              Mire tus trabajos web y estoy interesando en dialogar contigo..."
               target="_blank"
               class="button"
               >Contacto</a
@@ -92,7 +105,7 @@
               href="https://www.instagram.com/franco.ortega2/?hl=es"
               target="_blank"
               class="home__social-icon"
-              ><i class="bx bxl-instagram"></i
+              ><i class="bx bxl-instagram-alt"></i
             ></a>
           </div>
           <div class="home__img">
@@ -214,7 +227,7 @@
 
             <div>
               <img src="assets/img/work4.svg" alt="" class="skills__img" />
-              <img src="assets/img/work5.svg" alt="" class="skills__img1" />
+              <img src="assets/img/work5.svg" alt="" class="skills__img" id="skills__img1" />
 
             </div>
             
@@ -348,6 +361,9 @@
         </section>
       </main>
 
+
+
+
       <!--===== Footer =====-->
       <footer class="footer">
         <p class="footer__title">Franco Ortega</p>
@@ -381,13 +397,17 @@
           &#169; 2022 Copyright todos los derechos reservados
           <a href="#inicio" id="volver">Regresar al Inicio</a>
         </p>
+        
       </footer>
+      
     </div>
+    
 
     <!--===== Scroll reveal =====-->
     <script src="https://unpkg.com/scrollreveal"></script>
 
     <!--===== Mi archivo js =====-->
     <script src="assets/js/main.js"></script>
+    
   </body>
 </html>
