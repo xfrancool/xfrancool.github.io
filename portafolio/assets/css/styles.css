@@ -530,6 +530,9 @@ body.dark .home__social-icon:hover {
     margin-bottom: 0;
     margin-right: var(--mb-3);
   }
+  .frame {
+    width: 100%;
+  }
 }
 
 @media screen and (max-width: 393px) {

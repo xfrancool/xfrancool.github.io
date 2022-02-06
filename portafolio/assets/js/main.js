@@ -64,3 +64,14 @@ btnSwitch.addEventListener("click", () => {
   document.body.classList.toggle("dark");
   btnSwitch.classList.toggle("active");
 });
+
+/* efecto maquina*/
+
+const type = new Typed(".typing-text", {
+  strings: ["1", "Resposive Desing", "Maquetación", "SEO"],
+  startDelay: 2900,
+  backDelay: 2300,
+  backSpeed: 75,
+  typeSpeed: 200,
+  loop: true,
+});
