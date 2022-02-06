@@ -36,7 +36,7 @@
           <div class="nav__menu" id="nav-menu">
             
             <ul class="nav__list">
-              <button class="switch" id="switch">
+              <button class="switch nav__item" id="switch" >
                 <span><i class="bx bxs-sun"></i></span>
                 <span><i class="bx bxs-moon"></i></span>
               </button>
@@ -109,7 +109,7 @@
             ></a>
           </div>
           <div class="home__img">
-            <img src="assets/img/perfil.jpg" alt="" />
+            <img class="perfil" src="assets/img/perfil.jpg" alt="" />
           </div>
         </section>
 
@@ -205,6 +205,16 @@
               </div>
               <div class="skills__data">
                 <div class="skills__names">
+                  <i class="bx bxl-tailwind-css skills__icon"></i>
+                  <span class="skills__name">Tailwind</span>
+                </div>
+                <div class="skills__bar skills__tl"></div>
+                <div>
+                  <span class="skills__percentage">75%</span>
+                </div>
+              </div>
+              <div class="skills__data">
+                <div class="skills__names">
                   <i class="bx bxl-github skills__icon"></i>
                   <span class="skills__name">Github</span>
                 </div>
@@ -232,7 +242,10 @@
             </div>
             
           </div>
+
         </section>
+
+        
 
         <!--===== Trabajos =====-->
         <section class="work section" id="trabajos">
@@ -350,15 +363,32 @@
                 cols="0"
                 rows="10"
                 class="contact__input"
+                placeholder="Escribe tu mensaje..."
               ></textarea>
               <input
                 type="button"
                 value="Enviar"
                 class="contact__button button"
+                
               />
+              
             </form>
+            <iframe class="frame"
+           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d217954.93389075092!2d-64.3344309779378!3d-31.399083972440742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9432985f478f5b69%3A0xb0a24f9a5366b092!2sC%C3%B3rdoba%2C%20Cordoba%2C%20Argentina!5e0!3m2!1sen!2sin!4v1643841777104!5m2!1sen!2sin"
+           width="450"
+           height="300"
+           style="border: 0"
+           allowfullscreen=""
+           loading="lazy"
+          
+          ></iframe>
           </div>
+          
         </section>
+
+
+        
+        
       </main>
 
 

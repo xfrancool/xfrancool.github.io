@@ -238,8 +238,11 @@ body.dark nav a:hover {
   position: absolute;
   right: 0;
   bottom: 0;
-  top: 5px;
+  top: 6px;
   width: 295px;
+}
+.perfil {
+  border-radius: 10px;
 }
 /* dark icon home*/
 body.dark .home__social-icon {
@@ -274,7 +277,7 @@ body.dark .home__social-icon:hover {
   justify-self: center;
 }
 .about__img img {
-  width: 200px;
+  width: 250px;
   border-radius: 0.5rem;
 }
 
@@ -333,6 +336,9 @@ body.dark .home__social-icon:hover {
 .skills__bs {
   width: 80%;
 }
+.skills__tl {
+  width: 75%;
+}
 .skills__git {
   width: 75%;
 }
@@ -390,7 +396,8 @@ body.dark .home__social-icon:hover {
   color: #fff;
   text-align: center;
   font-weight: var(--font-semi);
-  padding: 2rem 0;
+  padding: 0.8rem 0;
+  margin-top: 0px;
 }
 .footer__title {
   font-size: 2rem;
@@ -444,9 +451,7 @@ body.dark .home__social-icon:hover {
   .nav__toggle {
     display: none;
   }
-  /* .bx {
-    color: white;
-  } */
+
   .nav__link {
     color: var(--second-color);
   }
@@ -560,7 +565,7 @@ body.dark .home__social-icon:hover {
   height: 30px;
   position: absolute;
   background: #f1f1f1;
-  top: 0;
+  top: 1px;
   left: 0;
   right: unset;
   border-radius: 100px;
@@ -587,4 +592,15 @@ body.dark .home__social-icon:hover {
   display: block;
   background: none;
   color: #fff;
+}
+
+/*section contac*/
+.frame {
+  margin-top: 10px;
+  margin-bottom: 0px;
+  border-radius: 10px;
+}
+.l-main {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
 }
