@@ -68,7 +68,7 @@ btnSwitch.addEventListener("click", () => {
 /* efecto maquina*/
 
 const type = new Typed(".typing-text", {
-  strings: ["1", "Resposive Desing", "Maquetación", "SEO"],
+  strings: ["1", "Resposive Design", "Maquetación", "SEO", "Design Frontend"],
   startDelay: 2900,
   backDelay: 2300,
   backSpeed: 75,
