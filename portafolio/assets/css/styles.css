@@ -193,7 +193,7 @@ body.dark .nav__link {
 .nav__logo {
   color: white;
   position: relative;
-  left: 1.2cm;
+  left: 0.5cm;
 }
 .nav__toggle {
   color: white;
@@ -622,9 +622,10 @@ body.dark .home__social-icon:hover {
 .l-main {
   margin-bottom: 0px;
   padding-bottom: 0px;
-  padding-left: 40px;
 }
-
+.home {
+  padding-left: 17px;
+}
 .nav__link {
   color: white;
 }
