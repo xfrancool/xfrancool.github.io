@@ -632,11 +632,11 @@ body.dark .home__social-icon:hover {
 
 /*iconos */
 #ic1 {
-  font-size: 30px;
+  font-size: 38px;
   padding-right: 3px;
 }
 #ic2 {
-  font-size: 23px;
+  font-size: 35px;
   padding-right: 3px;
 }
 #ic3 {
@@ -644,6 +644,14 @@ body.dark .home__social-icon:hover {
   padding-right: 3px;
 }
 #ic4 {
-  font-size: 20px;
+  font-size: 22px;
   padding-left: 1px;
+}
+#ic5 {
+  font-size: 35px;
+  padding-right: 3px;
+}
+#ic6 {
+  font-size: 34px;
+  padding-right: 3px;
 }
