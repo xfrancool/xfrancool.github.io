@@ -85,7 +85,7 @@ img {
 }
 
 /*===== CLASS CSS ===== */
-.section-title {
+/* .section-title {
   position: relative;
   font-size: var(--h2-font-size);
   color: var(--first-color);
@@ -103,6 +103,15 @@ img {
   margin: auto;
   top: 2rem;
   background-color: var(--first-color);
+} */
+
+.title {
+  position: relative;
+  font-size: var(--h2-font-size);
+  color: var(--first-color);
+  margin-top: var(--mb-2);
+  margin-bottom: var(--mb-4);
+  text-align: center;
 }
 .section {
   padding-top: 3rem;
