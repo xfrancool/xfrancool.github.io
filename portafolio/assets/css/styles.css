@@ -613,7 +613,7 @@ body.dark .home__social-icon:hover {
   color: #fff;
 }
 
-/*section contac*/
+/*Modificaciones Ultimas*/
 .frame {
   margin-top: 10px;
   margin-bottom: 0px;
@@ -628,4 +628,18 @@ body.dark .home__social-icon:hover {
 }
 .nav__link {
   color: white;
+}
+
+/*iconos */
+#ic1 {
+  font-size: 30px;
+  padding-right: 3px;
+}
+#ic2 {
+  font-size: 23px;
+  padding-right: 3px;
+}
+#ic3 {
+  font-size: 22px;
+  padding-right: 3px;
 }
