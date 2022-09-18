@@ -1,5 +1,5 @@
-
-  {
+[
+{
     "Nombre": "Sergio",
     "Horario": "Viernes (20hs.)",
     "Categoria": "PREMIUM",
@@ -41,3 +41,4 @@
     "Categoria": null,
     "Meet": null
   }
+]
