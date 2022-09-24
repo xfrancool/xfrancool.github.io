@@ -3,6 +3,7 @@ function login() {
 
   user = document.getElementById("usuario").value;
   pass = document.getElementById("password").value;
+  btn = document.getElementById("loading");
 
   if (user == "Sherleck" && pass == "1516") {
     window.location = "grupos/primero/grupo1.html";
@@ -18,5 +19,8 @@ function login() {
     window.location = "inicio.html";
   } else {
     alert("Por favor, ingrese usuario y contraseña corectos");
+
+    btn.classList.remove("class1");
+    btn.classList.add("class2");
   }
 }
