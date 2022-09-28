@@ -1,0 +1,254 @@
+[
+  {
+    "ID": 1,
+    "Produto": "Gluten Puro",
+    "Còdigo": 2209510000014,
+    "Gramos": null,
+    "Categoría": "Cocina"
+  },
+  {
+    "ID": 2,
+    "Produto": "Soja Text F",
+    "Còdigo": 2309910000017,
+    "Gramos": null,
+    "Categoría": "Cocina"
+  },
+  {
+    "ID": 3,
+    "Produto": "Harina de Soja",
+    "Còdigo": 2211170000013,
+    "Gramos": null,
+    "Categoría": "Cocina"
+  },
+  {
+    "ID": 4,
+    "Produto": "Azúcar Mascabo",
+    "Còdigo": 2210760000013,
+    "Gramos": null,
+    "Categoría": "Cocina"
+  },
+  {
+    "ID": 5,
+    "Produto": "Caramelos",
+    "Còdigo": 2209370000018,
+    "Gramos": null,
+    "Categoría": "Cocina"
+  },
+  {
+    "ID": 6,
+    "Produto": "Tofu Casero",
+    "Còdigo": 2200220000011,
+    "Gramos": null,
+    "Categoría": "Cocina"
+  },
+  {
+    "ID": 7,
+    "Produto": "Harina Garbanzo",
+    "Còdigo": 2204930000019,
+    "Gramos": null,
+    "Categoría": "Cocina"
+  },
+  {
+    "ID": 8,
+    "Produto": "Harina Bati",
+    "Còdigo": 2209920000017,
+    "Gramos": "200 gr.",
+    "Categoría": "Cocina"
+  },
+  {
+    "ID": 9,
+    "Produto": "Coco Rayado",
+    "Còdigo": 2209850000019,
+    "Gramos": "120 gr.",
+    "Categoría": "Cocina"
+  },
+  {
+    "ID": 10,
+    "Produto": "Harina Trigo Integral",
+    "Còdigo": 2211160000016,
+    "Gramos": null,
+    "Categoría": "Cocina"
+  },
+  {
+    "ID": 11,
+    "Produto": "Avena",
+    "Còdigo": 2212320000013,
+    "Gramos": "250 gr.",
+    "Categoría": "Cocina"
+  },
+  {
+    "ID": 12,
+    "Produto": "Soja Por",
+    "Còdigo": 2209500000017,
+    "Gramos": "175 gr.",
+    "Categoría": "Legumbres"
+  },
+  {
+    "ID": 13,
+    "Produto": "Lenteja Tup",
+    "Còdigo": 2209430000019,
+    "Gramos": "135gr.",
+    "Categoría": "Legumbres"
+  },
+  {
+    "ID": 14,
+    "Produto": "Garbanzos",
+    "Còdigo": 2209930000014,
+    "Gramos": null,
+    "Categoría": "Legumbres"
+  },
+  {
+    "ID": 15,
+    "Produto": "Lino Marr",
+    "Còdigo": 2209560000019,
+    "Gramos": "100 gr.",
+    "Categoría": "Legumbres"
+  },
+  {
+    "ID": 16,
+    "Produto": "Quinoa",
+    "Còdigo": 2209940000011,
+    "Gramos": "100 gr.",
+    "Categoría": "Legumbres"
+  },
+  {
+    "ID": 17,
+    "Produto": "Sesamo Integral",
+    "Còdigo": 2209570000016,
+    "Gramos": null,
+    "Categoría": "Legumbres"
+  },
+  {
+    "ID": 18,
+    "Produto": "Budines Veganos",
+    "Còdigo": "(05)1786743",
+    "Gramos": null,
+    "Categoría": "Varios"
+  },
+  {
+    "ID": 19,
+    "Produto": "Bolita Chocolate",
+    "Còdigo": 2209960000015,
+    "Gramos": null,
+    "Categoría": "Cereales"
+  },
+  {
+    "ID": 20,
+    "Produto": "Salvado ALM 2",
+    "Còdigo": 2209480000014,
+    "Gramos": null,
+    "Categoría": "Cereales"
+  },
+  {
+    "ID": 21,
+    "Produto": "Sorguito",
+    "Còdigo": 2209490000011,
+    "Gramos": null,
+    "Categoría": "Cereales"
+  },
+  {
+    "ID": 22,
+    "Produto": "Semilla Pop",
+    "Còdigo": 2209450000013,
+    "Gramos": null,
+    "Categoría": "Cereales"
+  },
+  {
+    "ID": 23,
+    "Produto": "Bocadito Avena",
+    "Còdigo": 2209950000018,
+    "Gramos": null,
+    "Categoría": "Cereales"
+  },
+  {
+    "ID": 24,
+    "Produto": "Agar Agar",
+    "Còdigo": 2201870000017,
+    "Gramos": "25 gr.",
+    "Categoría": "Cereales"
+  },
+  {
+    "ID": 25,
+    "Produto": "Mani Sal",
+    "Còdigo": null,
+    "Gramos": "145 gr.",
+    "Categoría": null
+  },
+  {
+    "ID": 26,
+    "Produto": "Mani Sal",
+    "Còdigo": 2209800000014,
+    "Gramos": "400 gr.",
+    "Categoría": null
+  },
+  {
+    "ID": 27,
+    "Produto": "Damaso S/Azùcar",
+    "Còdigo": 2210000000018,
+    "Gramos": null,
+    "Categoría": null
+  },
+  {
+    "ID": 28,
+    "Produto": "Mix Vitali",
+    "Còdigo": 2209990000016,
+    "Gramos": "100 gr.",
+    "Categoría": "Frutos Secos"
+  },
+  {
+    "ID": 29,
+    "Produto": "Mix Antioxi",
+    "Còdigo": 2210010000015,
+    "Gramos": "100 gr.",
+    "Categoría": null
+  },
+  {
+    "ID": 30,
+    "Produto": "Arandano",
+    "Còdigo": 2211380000018,
+    "Gramos": null,
+    "Categoría": null
+  },
+  {
+    "ID": 31,
+    "Produto": "Chip Banana",
+    "Còdigo": 2205390000012,
+    "Gramos": null,
+    "Categoría": null
+  },
+  {
+    "ID": 32,
+    "Produto": "Pasa Uva S/Sem",
+    "Còdigo": 2209970000012,
+    "Gramos": null,
+    "Categoría": null
+  },
+  {
+    "ID": 33,
+    "Produto": "Mortero Chico",
+    "Còdigo": 2212920000017,
+    "Gramos": null,
+    "Categoría": null
+  },
+  {
+    "ID": 34,
+    "Produto": "Nuez Dorada",
+    "Còdigo": 2209980000019,
+    "Gramos": "100 gr.",
+    "Categoría": null
+  },
+  {
+    "ID": 35,
+    "Produto": "Galleton Vegano",
+    "Còdigo": 2206360000010,
+    "Gramos": null,
+    "Categoría": "Varios"
+  },
+  {
+    "ID": 36,
+    "Produto": "Te Verde",
+    "Còdigo": 2210930000010,
+    "Gramos": "100gr.",
+    "Categoría": "Varios"
+  }
+]
