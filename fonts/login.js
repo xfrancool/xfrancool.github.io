@@ -13,7 +13,7 @@ function login() {
     window.location = "grupos/sergio/sergio.html";
   } else if (user == "EricLista" && pass == "1518") {
     window.location = "grupos/eric/eric.html";
-  } else if (user == "Hernan" && pass == "kant187im") {
+  } else if (user == "Hernann" && pass == "kant187im") {
     window.location = "grupos/hernan/hernan.html";
   } else if (user == "Mateo1" && pass == "1519") {
     window.location = "grupos/mateo/mateo.html";
