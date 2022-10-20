@@ -1,0 +1,837 @@
+[
+  {
+    "Moto": "CECCATO 60 SERIE RD/T",
+    "Precio": 443790,
+    "Marca": "ZANELLA"
+  },
+  {
+    "Moto": "CECCATO R150",
+    "Precio": 443290,
+    "Marca": "ZANELLA"
+  },
+  {
+    "Moto": "PATAGONIA EAGLE ST 150",
+    "Precio": 385990,
+    "Marca": "ZANELLA"
+  },
+  {
+    "Moto": "PATAGONIA EAGLE 250 SHADOW",
+    "Precio": 1106990,
+    "Marca": "ZANELLA"
+  },
+  {
+    "Moto": "PATAGONIA EAGLE 250",
+    "Precio": 880150,
+    "Marca": "ZANELLA"
+  },
+  {
+    "Moto": "RX 150 Z7",
+    "Precio": 386690,
+    "Marca": "ZANELLA"
+  },
+  {
+    "Moto": "ZB 110 LT BASE",
+    "Precio": 221590,
+    "Marca": "ZANELLA"
+  },
+  {
+    "Moto": "ZB 110 LT FULL",
+    "Precio": 245390,
+    "Marca": "ZANELLA"
+  },
+  {
+    "Moto": "ZT 150 R D/T",
+    "Precio": 394490,
+    "Marca": "ZANELLA"
+  },
+  {
+    "Moto": "DUE 110 CLASSIC RTT",
+    "Precio": 236390,
+    "Marca": "ZANELLA"
+  },
+  {
+    "Moto": "ZR 150 LTE",
+    "Precio": 364200,
+    "Marca": "ZANELLA"
+  },
+  {
+    "Moto": "ZR 250 GTA - (C/Bauleras)",
+    "Precio": 707690,
+    "Marca": "ZANELLA"
+  },
+  {
+    "Moto": "EXCLUSIVE 150  Z3 (C/Baulera)",
+    "Precio": 510190,
+    "Marca": "ZANELLA"
+  },
+  {
+    "Moto": "STYLER 150 RT (C/Baulera)",
+    "Precio": 403790,
+    "Marca": "ZANELLA"
+  },
+  {
+    "Moto": "STYLER 150 RS",
+    "Precio": 480200,
+    "Marca": "ZANELLA"
+  },
+  {
+    "Moto": "HOT 90 SHOT",
+    "Precio": 323890,
+    "Marca": "ZANELLA"
+  },
+  {
+    "Moto": "EXCLUSIVE 150 EDIZIONE",
+    "Precio": 582990,
+    "Marca": "ZANELLA"
+  },
+  {
+    "Moto": "MOD 150",
+    "Precio": 531990,
+    "Marca": "ZANELLA"
+  },
+  {
+    "Moto": "SAPUCAI 150 Z3 - FULL RDT",
+    "Precio": 338790,
+    "Marca": "ZANELLA"
+  },
+  {
+    "Moto": "DOMINAR 400",
+    "Precio": 1356990,
+    "Marca": "BAJAJ"
+  },
+  {
+    "Moto": "DOMINAR 400 UG",
+    "Precio": 1446990,
+    "Marca": "BAJAJ"
+  },
+  {
+    "Moto": "DOMINAR 250",
+    "Precio": 1006990,
+    "Marca": "BAJAJ"
+  },
+  {
+    "Moto": "BAJAJ V 15",
+    "Precio": 527290,
+    "Marca": "BAJAJ"
+  },
+  {
+    "Moto": "BOXER BM 150 AT UG",
+    "Precio": 351390,
+    "Marca": "BAJAJ"
+  },
+  {
+    "Moto": "ROUSER NS 125",
+    "Precio": 407490,
+    "Marca": "BAJAJ"
+  },
+  {
+    "Moto": "ROUSER NS 200 FI",
+    "Precio": 866990,
+    "Marca": "BAJAJ"
+  },
+  {
+    "Moto": "ROUSER NS 200 Nueva MOD",
+    "Precio": 721490,
+    "Marca": "BAJAJ"
+  },
+  {
+    "Moto": "CRONO CLASSIC PLUS 110",
+    "Precio": 215690,
+    "Marca": "KELLER"
+  },
+  {
+    "Moto": "CRONO CLASSIC FULL 110",
+    "Precio": 238890,
+    "Marca": "KELLER"
+  },
+  {
+    "Moto": "STRATUS 150 FULL",
+    "Precio": 328090,
+    "Marca": "KELLER"
+  },
+  {
+    "Moto": "STRATUS 150 BASE",
+    "Precio": 308190,
+    "Marca": "KELLER"
+  },
+  {
+    "Moto": "KEEWAY TARGET 125",
+    "Precio": 248690,
+    "Marca": "KEEWAY"
+  },
+  {
+    "Moto": "DX 70",
+    "Precio": 295990,
+    "Marca": "CORVEN"
+  },
+  {
+    "Moto": "ENERGY 110 TUNNING",
+    "Precio": 293190,
+    "Marca": "CORVEN"
+  },
+  {
+    "Moto": "MIRAGE 110 BASE",
+    "Precio": 228990,
+    "Marca": "CORVEN"
+  },
+  {
+    "Moto": "MIRAGE 110 FULL",
+    "Precio": 259390,
+    "Marca": "CORVEN"
+  },
+  {
+    "Moto": "EXPERT 150 DOT",
+    "Precio": 485790,
+    "Marca": "CORVEN"
+  },
+  {
+    "Moto": "EXPERT 150 MILANO",
+    "Precio": 498890,
+    "Marca": "CORVEN"
+  },
+  {
+    "Moto": "EXPERT 80",
+    "Precio": 383290,
+    "Marca": "CORVEN"
+  },
+  {
+    "Moto": "HUNTER 150 BASE",
+    "Precio": 322390,
+    "Marca": "CORVEN"
+  },
+  {
+    "Moto": "HUNTER 150 FULL",
+    "Precio": 356290,
+    "Marca": "CORVEN"
+  },
+  {
+    "Moto": "INDIANA 256 ADT",
+    "Precio": 835390,
+    "Marca": "CORVEN"
+  },
+  {
+    "Moto": "TRIAX 150 - R3",
+    "Precio": 418890,
+    "Marca": "CORVEN"
+  },
+  {
+    "Moto": "TRIAX 200 - R3",
+    "Precio": 485990,
+    "Marca": "CORVEN"
+  },
+  {
+    "Moto": "TRIAX 250 - R3",
+    "Precio": 534590,
+    "Marca": "CORVEN"
+  },
+  {
+    "Moto": "TRIAX 250 TOURING",
+    "Precio": 1376690,
+    "Marca": "CORVEN"
+  },
+  {
+    "Moto": "TRIAX TXR 250 L",
+    "Precio": 774290,
+    "Marca": "CORVEN"
+  },
+  {
+    "Moto": "BLITZ V8 110 - BASE",
+    "Precio": 203000,
+    "Marca": "MOTOMEL"
+  },
+  {
+    "Moto": "BLITZ V8  110 - FULL ADT",
+    "Precio": 225290,
+    "Marca": "MOTOMEL"
+  },
+  {
+    "Moto": "SIRIUS II 250",
+    "Precio": 504490,
+    "Marca": "MOTOMEL"
+  },
+  {
+    "Moto": "SKUA - CX 150 (V6)",
+    "Precio": 401790,
+    "Marca": "MOTOMEL"
+  },
+  {
+    "Moto": "CG 150  S2 (FULL -RTT)",
+    "Precio": 290090,
+    "Marca": "MOTOMEL"
+  },
+  {
+    "Moto": "DLX 110 DELUXE",
+    "Precio": 198490,
+    "Marca": "MOTOMEL"
+  },
+  {
+    "Moto": "STRATO EURO 150",
+    "Precio": 442290,
+    "Marca": "MOTOMEL"
+  },
+  {
+    "Moto": "STRATO ALPINO 150",
+    "Precio": 489390,
+    "Marca": "MOTOMEL"
+  },
+  {
+    "Moto": "SKUA SILVER 150",
+    "Precio": 447490,
+    "Marca": "MOTOMEL"
+  },
+  {
+    "Moto": "SIRIUS 190 Cc",
+    "Precio": 434090,
+    "Marca": "MOTOMEL"
+  },
+  {
+    "Moto": "SKUA 250  ADVENTUR",
+    "Precio": 775890,
+    "Marca": "MOTOMEL"
+  },
+  {
+    "Moto": "SKUA 250 BASE NEW",
+    "Precio": 440790,
+    "Marca": "MOTOMEL"
+  },
+  {
+    "Moto": "EN 125 2A",
+    "Precio": 450290,
+    "Marca": "SUZUKI"
+  },
+  {
+    "Moto": "GN 125 F",
+    "Precio": 452190,
+    "Marca": "SUZUKI"
+  },
+  {
+    "Moto": "AX 100",
+    "Precio": 280000,
+    "Marca": "SUZUKI"
+  },
+  {
+    "Moto": "ALTINO 180 A D/T",
+    "Precio": 345090,
+    "Marca": "BRAVA"
+  },
+  {
+    "Moto": "ALTINO 150 BASE",
+    "Precio": 284590,
+    "Marca": "BRAVA"
+  },
+  {
+    "Moto": "ELEKTRA 150",
+    "Precio": 404490,
+    "Marca": "BRAVA"
+  },
+  {
+    "Moto": "NEVADA 110 BASE",
+    "Precio": 202790,
+    "Marca": "BRAVA"
+  },
+  {
+    "Moto": "NEVADA 110 FULL",
+    "Precio": 226790,
+    "Marca": "BRAVA"
+  },
+  {
+    "Moto": "NEVADA 125 BASE",
+    "Precio": 225190,
+    "Marca": "BRAVA"
+  },
+  {
+    "Moto": "TEXANA HS  200",
+    "Precio": 436890,
+    "Marca": "BRAVA"
+  },
+  {
+    "Moto": "LAZER 70",
+    "Precio": 235990,
+    "Marca": "BRAVA"
+  },
+  {
+    "Moto": "TEXANA HS 250",
+    "Precio": 526490,
+    "Marca": "BRAVA"
+  },
+  {
+    "Moto": "CF NK250",
+    "Precio": "SIN STOCK",
+    "Marca": "CF MOTOS BY ZANELLA"
+  },
+  {
+    "Moto": "RZ300",
+    "Precio": 972000,
+    "Marca": "CF MOTOS BY ZANELLA"
+  },
+  {
+    "Moto": "RZ400",
+    "Precio": 1340000,
+    "Marca": "CF MOTOS BY ZANELLA"
+  },
+  {
+    "Moto": "RZ650 MT",
+    "Precio": 2553000,
+    "Marca": "CF MOTOS BY ZANELLA"
+  },
+  {
+    "Moto": "DUKE 200",
+    "Precio": 1050000,
+    "Marca": "KTM"
+  },
+  {
+    "Moto": "DUKE 200 NG - ABS",
+    "Precio": 5300,
+    "Marca": "KTM"
+  },
+  {
+    "Moto": "DUKE 250",
+    "Precio": 6500,
+    "Marca": "KTM"
+  },
+  {
+    "Moto": "DUKE 250 ADVENTURE",
+    "Precio": 8800,
+    "Marca": "KTM"
+  },
+  {
+    "Moto": "DUKE 390",
+    "Precio": 9730,
+    "Marca": "KTM"
+  },
+  {
+    "Moto": "RC 390",
+    "Precio": 9700,
+    "Marca": "KTM"
+  },
+  {
+    "Moto": "DAX 70",
+    "Precio": 288290,
+    "Marca": "MONDIAL"
+  },
+  {
+    "Moto": "HD 250",
+    "Precio": 864390,
+    "Marca": "MONDIAL"
+  },
+  {
+    "Moto": "LD 110 MAX BASE",
+    "Precio": 241190,
+    "Marca": "MONDIAL"
+  },
+  {
+    "Moto": "LD 110 MAX FULL",
+    "Precio": 253490,
+    "Marca": "MONDIAL"
+  },
+  {
+    "Moto": "150 ALLEGRO",
+    "Precio": 526490,
+    "Marca": "MONDIAL"
+  },
+  {
+    "Moto": "DAX 125 RV (RUEDA ANCHA)",
+    "Precio": 480290,
+    "Marca": "MONDIAL"
+  },
+  {
+    "Moto": "LD 110 BASE",
+    "Precio": 216090,
+    "Marca": "MONDIAL"
+  },
+  {
+    "Moto": "MD 150",
+    "Precio": 458690,
+    "Marca": "MONDIAL"
+  },
+  {
+    "Moto": "MD 150 ALLEGRO",
+    "Precio": 472890,
+    "Marca": "MONDIAL"
+  },
+  {
+    "Moto": "TD 150 RDT",
+    "Precio": 380290,
+    "Marca": "MONDIAL"
+  },
+  {
+    "Moto": "TD 250 RDD",
+    "Precio": 516490,
+    "Marca": "MONDIAL"
+  },
+  {
+    "Moto": "NEW RD 150 FULL",
+    "Precio": 329290,
+    "Marca": "MONDIAL"
+  },
+  {
+    "Moto": "NEW RD 150 BASE",
+    "Precio": 311490,
+    "Marca": "MONDIAL"
+  },
+  {
+    "Moto": "RD 150 CLASSIC RDT",
+    "Precio": 343790,
+    "Marca": "MONDIAL"
+  },
+  {
+    "Moto": "W150 CAFÉ RACER",
+    "Precio": 333090,
+    "Marca": "MONDIAL"
+  },
+  {
+    "Moto": "Crypton 110",
+    "Precio": 423200,
+    "Marca": "YAMAHA"
+  },
+  {
+    "Moto": "YBR 125",
+    "Precio": 532000,
+    "Marca": "YAMAHA"
+  },
+  {
+    "Moto": "RAY scotter ZR",
+    "Precio": "Consultar",
+    "Marca": "YAMAHA"
+  },
+  {
+    "Moto": "NM-X 150 scooter",
+    "Precio": "Consultar",
+    "Marca": "YAMAHA"
+  },
+  {
+    "Moto": "SZ-RR 2.0",
+    "Precio": "Consultar",
+    "Marca": "YAMAHA"
+  },
+  {
+    "Moto": "Fz 16 NAKED",
+    "Precio": 640000,
+    "Marca": "YAMAHA"
+  },
+  {
+    "Moto": "FZ 250",
+    "Precio": 1230900,
+    "Marca": "YAMAHA"
+  },
+  {
+    "Moto": "XTZ 125",
+    "Precio": 803300,
+    "Marca": "YAMAHA"
+  },
+  {
+    "Moto": "XTZ 150",
+    "Precio": 1104000,
+    "Marca": "YAMAHA"
+  },
+  {
+    "Moto": "XTZ 250 ABS",
+    "Precio": 1810000,
+    "Marca": "YAMAHA"
+  },
+  {
+    "Moto": "TZ 250 TENERE",
+    "Precio": 2100000,
+    "Marca": "YAMAHA"
+  },
+  {
+    "Moto": "MT 03",
+    "Precio": 12200,
+    "Marca": "YAMAHA"
+  },
+  {
+    "Moto": "CB 125F TWISTER",
+    "Precio": 458990,
+    "Marca": "HONDA"
+  },
+  {
+    "Moto": "CB 250 TWISTER",
+    "Precio": 1067790,
+    "Marca": "HONDA"
+  },
+  {
+    "Moto": "WAVE 110 S",
+    "Precio": 334790,
+    "Marca": "HONDA"
+  },
+  {
+    "Moto": "WAVE 110 S CAST DISK",
+    "Precio": 399590,
+    "Marca": "HONDA"
+  },
+  {
+    "Moto": "NEW ELITE 125",
+    "Precio": 751590,
+    "Marca": "HONDA"
+  },
+  {
+    "Moto": "GLH 150",
+    "Precio": 454990,
+    "Marca": "HONDA"
+  },
+  {
+    "Moto": "XR 150 L",
+    "Precio": 698990,
+    "Marca": "HONDA"
+  },
+  {
+    "Moto": "XRE 300",
+    "Precio": 2136290,
+    "Marca": "HONDA"
+  },
+  {
+    "Moto": "CG 150 TITAN",
+    "Precio": "NO SE FABRICA",
+    "Marca": "HONDA"
+  },
+  {
+    "Moto": "XR 190 L",
+    "Precio": 799390,
+    "Marca": "HONDA"
+  },
+  {
+    "Moto": "XR 250 TORNADO",
+    "Precio": 1363490,
+    "Marca": "HONDA"
+  },
+  {
+    "Moto": "CZ 250 L",
+    "Precio": 498000,
+    "Marca": "JAWA"
+  },
+  {
+    "Moto": "CZ 250 R",
+    "Precio": 1450000,
+    "Marca": "JAWA"
+  },
+  {
+    "Moto": "CZ 250 TURISMO",
+    "Precio": 710000,
+    "Marca": "JAWA"
+  },
+  {
+    "Moto": "CUSTOM 250",
+    "Precio": 850000,
+    "Marca": "JAWA"
+  },
+  {
+    "Moto": "CUSTOM 350",
+    "Precio": 1150000,
+    "Marca": "JAWA"
+  },
+  {
+    "Moto": "DAYTONA 350",
+    "Precio": "SIN STOCK",
+    "Marca": "JAWA"
+  },
+  {
+    "Moto": "CAFÉ RACER 400",
+    "Precio": "SIN STOCK",
+    "Marca": "JAWA"
+  },
+  {
+    "Moto": "F5 223cc",
+    "Precio": 600990,
+    "Marca": "JAWA"
+  },
+  {
+    "Moto": "F4 250cc",
+    "Precio": "SIN STOCK",
+    "Marca": "JAWA"
+  },
+  {
+    "Moto": "TEKKEN 250",
+    "Precio": 719000,
+    "Marca": "JAWA"
+  },
+  {
+    "Moto": "TEKKEN 500",
+    "Precio": 2455000,
+    "Marca": "JAWA"
+  },
+  {
+    "Moto": "RUTA 40 350",
+    "Precio": "SIN STOCK",
+    "Marca": "JAWA"
+  },
+  {
+    "Moto": "BOBBER 350",
+    "Precio": "SIN STOCK",
+    "Marca": "JAWA"
+  },
+  {
+    "Moto": "TNT 135",
+    "Precio": 580000,
+    "Marca": "BENELLI"
+  },
+  {
+    "Moto": "TNT 15",
+    "Precio": 348000,
+    "Marca": "BENELLI"
+  },
+  {
+    "Moto": "180 S",
+    "Precio": 700000,
+    "Marca": "BENELLI"
+  },
+  {
+    "Moto": "TNT 25",
+    "Precio": 690000,
+    "Marca": "BENELLI"
+  },
+  {
+    "Moto": "302 S (EX TNT 300)",
+    "Precio": 1499000,
+    "Marca": "BENELLI"
+  },
+  {
+    "Moto": "TNT 600i",
+    "Precio": 2900000,
+    "Marca": "BENELLI"
+  },
+  {
+    "Moto": "302 R",
+    "Precio": "SIN STOCK",
+    "Marca": "BENELLI"
+  },
+  {
+    "Moto": "502 C",
+    "Precio": "SIN STOCK",
+    "Marca": "BENELLI"
+  },
+  {
+    "Moto": "TRK 251",
+    "Precio": 1251000,
+    "Marca": "BENELLI"
+  },
+  {
+    "Moto": "TRK 502",
+    "Precio": 2605000,
+    "Marca": "BENELLI"
+  },
+  {
+    "Moto": "TRK 502 X",
+    "Precio": 2955000,
+    "Marca": "BENELLI"
+  },
+  {
+    "Moto": "IMPERIALE 400",
+    "Precio": 1230000,
+    "Marca": "BENELLI"
+  },
+  {
+    "Moto": "LEONCINO 250",
+    "Precio": 1120000,
+    "Marca": "BENELLI"
+  },
+  {
+    "Moto": "LEONCINO 500",
+    "Precio": 2155000,
+    "Marca": "BENELLI"
+  },
+  {
+    "Moto": "SETA 125",
+    "Precio": "SIN STOCK",
+    "Marca": "BENELLI"
+  },
+  {
+    "Moto": "ZAFFERANO 250",
+    "Precio": "SIN STOCK",
+    "Marca": "BENELLI"
+  },
+  {
+    "Moto": "GILERA SMASH VERY",
+    "Precio": 234000,
+    "Marca": "GILERA"
+  },
+  {
+    "Moto": "GILERA SMASH FULL/AUTOM",
+    "Precio": 241600,
+    "Marca": "GILERA"
+  },
+  {
+    "Moto": "GILERA SMASH R FULL",
+    "Precio": 275600,
+    "Marca": "GILERA"
+  },
+  {
+    "Moto": "GILERA SMASH X 125",
+    "Precio": "SIN STOCK",
+    "Marca": "GILERA"
+  },
+  {
+    "Moto": "GILERA SMASH TUNNING",
+    "Precio": "SIN STOCK",
+    "Marca": "GILERA"
+  },
+  {
+    "Moto": "SMASH R TUNNING",
+    "Precio": "SIN STOCK",
+    "Marca": "GILERA"
+  },
+  {
+    "Moto": "VC TIPO DAX 70",
+    "Precio": 259800,
+    "Marca": "GILERA"
+  },
+  {
+    "Moto": "VC 150 Vs Freno a disco y Baul trasero",
+    "Precio": 312600,
+    "Marca": "GILERA"
+  },
+  {
+    "Moto": "VC 200 New PISTERA",
+    "Precio": 598500,
+    "Marca": "GILERA"
+  },
+  {
+    "Moto": "VC 200 NACKED Sii",
+    "Precio": 262590,
+    "Marca": "GILERA"
+  },
+  {
+    "Moto": "VC250 Prova",
+    "Precio": 625000,
+    "Marca": "GILERA"
+  },
+  {
+    "Moto": "AC 1 150 New",
+    "Precio": 371000,
+    "Marca": "GILERA"
+  },
+  {
+    "Moto": "AC 4 250 NEW",
+    "Precio": 703000,
+    "Marca": "GILERA"
+  },
+  {
+    "Moto": "SHAEL 150 New",
+    "Precio": 397400,
+    "Marca": "GILERA"
+  },
+  {
+    "Moto": "SMX 200",
+    "Precio": 456000,
+    "Marca": "GILERA"
+  },
+  {
+    "Moto": "SMX200 Adventure New",
+    "Precio": 569000,
+    "Marca": "GILERA"
+  },
+  {
+    "Moto": "SMX250 Adventure New",
+    "Precio": 780000,
+    "Marca": "GILERA"
+  },
+  {
+    "Moto": "Scooter Picola SG 150",
+    "Precio": 449000,
+    "Marca": "GILERA"
+  },
+  {
+    "Moto": "Cuatri FR150 Gilera",
+    "Precio": 680000,
+    "Marca": "GILERA"
+  }
+]
