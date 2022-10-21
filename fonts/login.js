@@ -7,8 +7,6 @@ function login() {
 
   if (user == "Sherleck" && pass == "1516") {
     window.location = "grupos/primero/grupo1.html";
-  } else if (user == "Hernan" && pass == "kant187im") {
-    window.location = "grupos/hernan/hernan.html";
   } else if (user == "Joshua" && pass == "1517") {
     window.location = "grupos/primeroA/grupoA.html";
   } else if (user == "Sergio29m" && pass == "5445") {
