@@ -35,39 +35,32 @@
     "Dias": "Miércoles",
     "Horario": "18 a 20hs."
   },
- 
   {
-    "ID": 8,
+    "ID": 7,
     "Nombre": "Valentina",
     "Dias": "Jueves",
     "Horario": "14hs."
   },
   {
-    "ID": 9,
-    "Nombre": "Ezequiel & Jose maria",
-    "Dias": "Jueves",
-    "Horario": "15hs."
-  },
-  {
-    "ID": 10,
+    "ID": 8,
     "Nombre": "Mateo",
     "Dias": "Jueves",
     "Horario": "19hs."
   },
   {
-    "ID": 11,
+    "ID": 9,
     "Nombre": "Jero & Fausti",
     "Dias": "Viernes",
     "Horario": "16:30hs."
   },
   {
-    "ID": 12,
+    "ID": 10,
     "Nombre": "Sergio",
     "Dias": "Viernes",
     "Horario": "20:30hs."
   },
   {
-    "ID": 13,
+    "ID": 11,
     "Nombre": "Eric",
     "Dias": "Viernes",
     "Horario": "21hs."
