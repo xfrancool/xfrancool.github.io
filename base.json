@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "user": "ortegafr",
+    "pass": "d%&&w&56*",
+    "plataforma": "Escritorio"
+  },
+  {
+    "id": 2,
+    "user": "franco.ortega@apexamerica.com",
+    "pass": "user & pass",
+    "plataforma": "Email"
+  },
+  {
+    "id": 3,
+    "user": "virtualapp.telecom.com.ar",
+    "pass": "user & pass",
+    "plataforma": "Remoto"
+  },
+  {
+    "id": 4,
+    "user": "u930669",
+    "pass": "Pv435845",
+    "plataforma": "Remoto"
+  },
+  {
+    "id": 5,
+    "user": "u930669",
+    "pass": "Clable123",
+    "plataforma": "Base "
+  },
+  {
+    "id": 6,
+    "user": "u930669",
+    "pass": 123456,
+    "plataforma": "Memo"
+  },
+  {
+    "id": 7,
+    "user": "u613859",
+    "pass": "Teco123",
+    "plataforma": "Base Demo"
+  }
+]
