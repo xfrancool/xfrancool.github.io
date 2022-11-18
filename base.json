@@ -26,7 +26,7 @@
   {
     "id": 5,
     "user": "u930669",
-    "pass": "Clable123",
+    "pass": "Cable123",
     "plataforma": "Base "
   },
   {
@@ -40,5 +40,11 @@
     "user": "u613859",
     "pass": "Teco123",
     "plataforma": "Base Demo"
+  },
+{
+    "id": 8,
+    "user": "OP_APEX",
+    "pass": "Capa2022 / opcap",
+    "plataforma": "Open Demo"
   }
 ]
