@@ -7,12 +7,9 @@ function login() {
 
   if (user == "xfrancool" && pass == "230596") {
     window.location = "assets/inicio.html";
-  } 
-  if else (user == "prueba" && pass == "1234") {
+  } else if (user == "prueba" && pass == "1234") {
     window.location = "assets/user/prueba/prueba.html";
-  } 
-  
-  else {
+  } else {
     alert("Por favor, ingrese usuario y contraseña corectos");
 
     btn.classList.remove("class1");
