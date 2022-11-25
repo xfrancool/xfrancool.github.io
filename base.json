@@ -65,9 +65,9 @@
     "user": "OP_CCENTER",
     "pass": "Capa2020 / opcap"
   },
-{
+   {
     "id": 12,
-    "plataforma": "PCI <a href="http://mimundo-prod1.corp.cablevision.com.ar/IDPAdmin/#/Login/MGUAdmin">Link<a>",
+    "plataforma": "PCI",
     "user": "gestionduplicate@cablevision.com.ar",
     "pass": "duplicate123"
   }
