@@ -37,7 +37,7 @@
   },
   {
     "id": 7,
-    "plataforma": "Memo",
+    "plataforma": "E-Memo",
     "user": "u930669",
     "pass": 123456
   },
@@ -67,8 +67,14 @@
   },
    {
     "id": 12,
-    "plataforma": "PCI",
+    "plataforma": "TEC",
     "user": "gestionduplicate@cablevision.com.ar",
     "pass": "duplicate123"
-  }
+  },
+{
+    "id": 13,
+    "plataforma": "HUB",
+    "user": "u930669",
+    "pass": "Apex1700*"
+  },
 ]
