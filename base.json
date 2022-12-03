@@ -3,7 +3,7 @@
     "id": 1,
     "plataforma": "Escritorio",
     "user": "ortegafr",
-    "pass": "d%&&w&56*"
+    "pass": "password"
   },
   {
     "id": 2,
@@ -15,17 +15,11 @@
     "id": 3,
     "plataforma": "Remoto Virtual",
     "user": "virtualapp.telecom.com.ar",
-    "pass": "user & pass"
+    "pass": "U.."
   },
   {
     "id": 4,
-    "plataforma": "Remoto v1",
-    "user": "u930669",
-    "pass": "Pv435845"
-  },
-  {
-    "id": 9,
-    "plataforma": "Remoto v2",
+    "plataforma": "Remoto",
     "user": "u930669",
     "pass": "Apex1700*"
   },
@@ -36,45 +30,33 @@
     "pass": "Cable123"
   },
   {
-    "id": 7,
+    "id": 6,
     "plataforma": "E-Memo",
     "user": "u930669",
     "pass": 123456
   },
   {
-    "id": 12,
+    "id": 7,
     "plataforma": "Watchdog",
     "user": "u930669",
     "pass": "E2305"
   },
   {
     "id": 8,
-    "plataforma": "Base Demo",
-    "user": "u613859",
-    "pass": "Teco123"
+    "plataforma": "HUB/ Codi",
+    "user": "u930669",
+    "pass": "Apex1700*"
+  },
+  {
+    "id": 9,
+    "plataforma": "TEC",
+    "user": "gestionduplicate@cablevision.com.ar",
+    "pass": "duplicate123"
   },
   {
     "id": 10,
     "plataforma": "Open Demo v1",
     "user": "OP_APEX",
     "pass": "Capa2022 / opcap"
-  },
-  {
-    "id": 11,
-    "plataforma": "Open Demo v2",
-    "user": "OP_CCENTER",
-    "pass": "Capa2020 / opcap"
-  },
-   {
-    "id": 12,
-    "plataforma": "TEC",
-    "user": "gestionduplicate@cablevision.com.ar",
-    "pass": "duplicate123"
-  },
- {
-    "id": 13,
-    "plataforma": "HUB",
-    "user": "u930669",
-    "pass": "Apex1700*"
   }
 ]
