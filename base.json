@@ -43,18 +43,30 @@
   },
   {
     "id": 8,
-    "plataforma": "HUB/ Codi",
+    "plataforma": "CCIP",
     "user": "u930669",
     "pass": "Apex1700*"
   },
   {
     "id": 9,
-    "plataforma": "TEC",
+    "plataforma": "HUB/ Codi",
+    "user": "u930669",
+    "pass": "Apex1700*"
+  },
+  {
+    "id": 10,
+    "plataforma": "Tec-Data",
     "user": "gestionduplicate@cablevision.com.ar",
     "pass": "duplicate123"
   },
   {
-    "id": 10,
+    "id": 11,
+    "plataforma": "Open",
+    "user": "u930669",
+    "pass": "pass/op"
+  },
+  {
+    "id": 12,
     "plataforma": "Open Demo v1",
     "user": "OP_APEX",
     "pass": "Capa2022 / opcap"
