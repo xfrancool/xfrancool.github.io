@@ -8,9 +8,7 @@ function login() {
   if (user == "xfrancool" && pass == "230596") {
     window.location = "assets/inicio.html";
   } else if (user == "elimaryarg" && pass == "hola12") {
-    window.location = "assets/user/invitado/invitado.html";
-  } else if (user == "invitado" && pass == "capa2022") {
-    window.location = "assets/user/invitado/invitado.html";
+    window.location = "assets/inicio.html";
   } else {
     alert("Por favor, ingrese usuario y contraseña corectos");
 
