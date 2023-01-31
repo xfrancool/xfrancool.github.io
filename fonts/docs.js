@@ -1,83 +1,82 @@
-function _0x2aaf(_0x19b129, _0x961dfe) {
-  var _0x19d85d = _0x19d8();
+function _0x37b6(_0x4895f0, _0x432bfa) {
+  var _0x2e8e60 = _0x2e8e();
   return (
-    (_0x2aaf = function (_0x2aaf95, _0x2e567b) {
-      _0x2aaf95 = _0x2aaf95 - 0x1e1;
-      var _0x2c8e69 = _0x19d85d[_0x2aaf95];
-      return _0x2c8e69;
+    (_0x37b6 = function (_0x37b6e0, _0xd9339c) {
+      _0x37b6e0 = _0x37b6e0 - 0x6c;
+      var _0x1b8b9c = _0x2e8e60[_0x37b6e0];
+      return _0x1b8b9c;
     }),
-    _0x2aaf(_0x19b129, _0x961dfe)
+    _0x37b6(_0x4895f0, _0x432bfa)
   );
 }
-function _0x19d8() {
-  var _0x38c91d = [
-    "elimaryarg",
-    "add",
-    "230596",
-    "161508yyvLQW",
-    "location",
-    "451AJoSRi",
-    "15cfjUfC",
-    "class1",
-    "3380100zSjOSV",
-    "loading",
-    "8102696JLLUuz",
-    "value",
-    "596720kFRCgM",
-    "7230853dGMQxT",
-    "classList",
-    "123938cRBwGA",
-    "6246165SUixPK",
-    "9mPYMpU",
-    "assets/inicio.html",
-    "Por\x20favor,\x20ingrese\x20usuario\x20y\x20contraseña\x20correctos.",
-    "6xbjkKj",
-    "getElementById",
-    "4eEMTHV",
-  ];
-  _0x19d8 = function () {
-    return _0x38c91d;
-  };
-  return _0x19d8();
-}
-(function (_0x58ea77, _0x904dd0) {
-  var _0x55d6bb = _0x2aaf,
-    _0x4eee6a = _0x58ea77();
+(function (_0x34c74f, _0x3aaa68) {
+  var _0xbe8881 = _0x37b6,
+    _0x315622 = _0x34c74f();
   while (!![]) {
     try {
-      var _0x3e305c =
-        parseInt(_0x55d6bb(0x1e5)) / 0x1 +
-        (-parseInt(_0x55d6bb(0x1e8)) / 0x2) *
-          (parseInt(_0x55d6bb(0x1f6)) / 0x3) +
-        (-parseInt(_0x55d6bb(0x1ef)) / 0x4) *
-          (-parseInt(_0x55d6bb(0x1e9)) / 0x5) +
-        (-parseInt(_0x55d6bb(0x1ed)) / 0x6) *
-          (parseInt(_0x55d6bb(0x1e6)) / 0x7) +
-        parseInt(_0x55d6bb(0x1e3)) / 0x8 +
-        (parseInt(_0x55d6bb(0x1ea)) / 0x9) *
-          (-parseInt(_0x55d6bb(0x1e1)) / 0xa) +
-        (-parseInt(_0x55d6bb(0x1f5)) / 0xb) *
-          (parseInt(_0x55d6bb(0x1f3)) / 0xc);
-      if (_0x3e305c === _0x904dd0) break;
-      else _0x4eee6a["push"](_0x4eee6a["shift"]());
-    } catch (_0x2f8948) {
-      _0x4eee6a["push"](_0x4eee6a["shift"]());
+      var _0xd67cac =
+        parseInt(_0xbe8881(0x75)) / 0x1 +
+        parseInt(_0xbe8881(0x7f)) / 0x2 +
+        parseInt(_0xbe8881(0x73)) / 0x3 +
+        (-parseInt(_0xbe8881(0x82)) / 0x4) *
+          (-parseInt(_0xbe8881(0x74)) / 0x5) +
+        parseInt(_0xbe8881(0x7a)) / 0x6 +
+        -parseInt(_0xbe8881(0x7c)) / 0x7 +
+        (-parseInt(_0xbe8881(0x7d)) / 0x8) * (parseInt(_0xbe8881(0x81)) / 0x9);
+      if (_0xd67cac === _0x3aaa68) break;
+      else _0x315622["push"](_0x315622["shift"]());
+    } catch (_0x3c2d6c) {
+      _0x315622["push"](_0x315622["shift"]());
     }
   }
-})(_0x19d8, 0x98dd9);
+})(_0x2e8e, 0x672fd);
+function _0x2e8e() {
+  var _0x5b53ab = [
+    "fire",
+    "value",
+    "assets/inicio.html",
+    "1220286HcEZsu",
+    "class1",
+    "3271086QQerHn",
+    "5494168DPgZqr",
+    "classList",
+    "662114JSPUPO",
+    "elimaryarg",
+    "9RQqKgW",
+    "19508GQzDZG",
+    "add",
+    "class2",
+    "hola12",
+    "usuario",
+    "location",
+    "getElementById",
+    "xfrancool",
+    "1516218dHLpHs",
+    "460dqBRCq",
+    "88194dJErDA",
+    "Oops...",
+  ];
+  _0x2e8e = function () {
+    return _0x5b53ab;
+  };
+  return _0x2e8e();
+}
 function login() {
-  var _0x2e927e = _0x2aaf,
-    _0x7d586,
-    _0x37466b;
-  (_0x7d586 = document["getElementById"]("usuario")[_0x2e927e(0x1e4)]),
-    (_0x37466b = document["getElementById"]("password")["value"]),
-    (btn = document[_0x2e927e(0x1ee)](_0x2e927e(0x1e2)));
-  if (_0x7d586 == "xfrancool" && _0x37466b == _0x2e927e(0x1f2))
-    window[_0x2e927e(0x1f4)] = _0x2e927e(0x1eb);
+  var _0x548c12 = _0x37b6,
+    _0xeb5943,
+    _0x3d455b;
+  (_0xeb5943 = document["getElementById"](_0x548c12(0x6f))[_0x548c12(0x78)]),
+    (_0x3d455b = document[_0x548c12(0x71)]("password")[_0x548c12(0x78)]),
+    (btn = document[_0x548c12(0x71)]("loading"));
+  if (_0xeb5943 == _0x548c12(0x72) && _0x3d455b == "230596")
+    window[_0x548c12(0x70)] = _0x548c12(0x79);
   else
-    _0x7d586 == _0x2e927e(0x1f0) && _0x37466b == "hola12"
-      ? (window["location"] = _0x2e927e(0x1eb))
-      : (Swal["fire"]({ title: "Oops...", text: _0x2e927e(0x1ec) }),
-        btn[_0x2e927e(0x1e7)]["remove"](_0x2e927e(0x1f7)),
-        btn[_0x2e927e(0x1e7)][_0x2e927e(0x1f1)]("class2"));
+    _0xeb5943 == _0x548c12(0x80) && _0x3d455b == _0x548c12(0x6e)
+      ? (window[_0x548c12(0x70)] = _0x548c12(0x79))
+      : (Swal[_0x548c12(0x77)]({
+          title: _0x548c12(0x76),
+          text: "Por\x20favor,\x20ingrese\x20usuario\x20y\x20contraseña\x20correctos.",
+        }),
+        btn[_0x548c12(0x7e)]["remove"](_0x548c12(0x7b)),
+        btn["classList"][_0x548c12(0x6c)](_0x548c12(0x6d)));
 }
