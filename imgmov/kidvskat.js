@@ -13,7 +13,7 @@ const _0x2fe311 = _0x4d06;
 function _0x34d8() {
   const _0x6e8c2e = [
     "185kOrUsO",
-    "buttowski",
+    "kidvskat",
     "forEach",
     "color",
     "getElementById",
@@ -50,7 +50,7 @@ function _0x34d8() {
     "temp-select",
     "display",
     "href",
-    "https://gist.githubusercontent.com/xfrancool/1516873657843a8f9946e964172cdd2c/raw/fe4d25e9c2b9cad685219eb86c56c564096ea0d2/buttowski",
+    "https://gist.githubusercontent.com/xfrancool/e9596a925c85d9cd9d4104f0ceb4ea02/raw/0c31512caa5e3d2122488962a144593639825d26/kitvskat",
     "8847fYWrEy",
   ];
   _0x34d8 = function () {
