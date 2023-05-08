@@ -173,7 +173,7 @@ function _0x1cb8() {
     "link",
     "6859643dmsWdL",
     "2649500ZxswFF",
-    "https://gist.githubusercontent.com/xfrancool/623c0c3e3f91e16685e274d6ad5d5298/raw/7304a29d3cbe2ee3052282382b99cf6699115030/serie",
+    "https://gist.githubusercontent.com/xfrancool/623c0c3e3f91e16685e274d6ad5d5298/raw/5296e9458e3a6dfcea1438922e9f4c1ef5c7496e/serie",
   ];
   _0x1cb8 = function () {
     return _0x5b1351;
