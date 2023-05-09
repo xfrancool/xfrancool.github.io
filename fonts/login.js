@@ -1,70 +1,75 @@
-function _0x59ea(_0x381408, _0x152a6) {
-  var _0x1d630c = _0x1d63();
-  return (
-    (_0x59ea = function (_0x59eae8, _0x4f4ca4) {
-      _0x59eae8 = _0x59eae8 - 0x11a;
-      var _0xfc8e6e = _0x1d630c[_0x59eae8];
-      return _0xfc8e6e;
-    }),
-    _0x59ea(_0x381408, _0x152a6)
-  );
-}
-(function (_0x4d6877, _0x49008f) {
-  var _0x41b1e7 = _0x59ea,
-    _0x4bb3c5 = _0x4d6877();
+(function (_0x404f1d, _0x335442) {
+  var _0x253bea = _0x7a41,
+    _0x34712b = _0x404f1d();
   while (!![]) {
     try {
-      var _0x22bd8c =
-        -parseInt(_0x41b1e7(0x132)) / 0x1 +
-        -parseInt(_0x41b1e7(0x12a)) / 0x2 +
-        -parseInt(_0x41b1e7(0x139)) / 0x3 +
-        parseInt(_0x41b1e7(0x11a)) / 0x4 +
-        -parseInt(_0x41b1e7(0x138)) / 0x5 +
-        -parseInt(_0x41b1e7(0x13c)) / 0x6 +
-        parseInt(_0x41b1e7(0x13b)) / 0x7;
-      if (_0x22bd8c === _0x49008f) break;
-      else _0x4bb3c5["push"](_0x4bb3c5["shift"]());
-    } catch (_0x44012e) {
-      _0x4bb3c5["push"](_0x4bb3c5["shift"]());
+      var _0x486840 =
+        parseInt(_0x253bea(0x212)) / 0x1 +
+        -parseInt(_0x253bea(0x1f8)) / 0x2 +
+        parseInt(_0x253bea(0x20a)) / 0x3 +
+        (-parseInt(_0x253bea(0x215)) / 0x4) *
+          (-parseInt(_0x253bea(0x20b)) / 0x5) +
+        -parseInt(_0x253bea(0x208)) / 0x6 +
+        parseInt(_0x253bea(0x200)) / 0x7 +
+        (parseInt(_0x253bea(0x20f)) / 0x8) *
+          (-parseInt(_0x253bea(0x209)) / 0x9);
+      if (_0x486840 === _0x335442) break;
+      else _0x34712b["push"](_0x34712b["shift"]());
+    } catch (_0x3a647a) {
+      _0x34712b["push"](_0x34712b["shift"]());
     }
   }
-})(_0x1d63, 0xd0949);
+})(_0x4d7e, 0x1eb4a);
+function _0x7a41(_0x4f1502, _0xa6d504) {
+  var _0x4d7e19 = _0x4d7e();
+  return (
+    (_0x7a41 = function (_0x7a410b, _0x26da30) {
+      _0x7a410b = _0x7a410b - 0x1f4;
+      var _0x1c5465 = _0x4d7e19[_0x7a410b];
+      return _0x1c5465;
+    }),
+    _0x7a41(_0x4f1502, _0xa6d504)
+  );
+}
 function login() {
-  var _0x2cdf35 = _0x59ea,
-    _0x516536,
-    _0x15c776;
-  (_0x516536 = document["getElementById"](_0x2cdf35(0x123))[_0x2cdf35(0x11d)]),
-    (_0x15c776 = document[_0x2cdf35(0x137)](_0x2cdf35(0x135))["value"]),
-    (btn = document[_0x2cdf35(0x137)]("loading"));
-  if (_0x516536 == _0x2cdf35(0x11b) && _0x15c776 == _0x2cdf35(0x12c))
-    window[_0x2cdf35(0x130)] = _0x2cdf35(0x127);
+  var _0x54c4af = _0x7a41,
+    _0x352160,
+    _0x4b703c;
+  (_0x352160 = document[_0x54c4af(0x1fa)]("usuario")[_0x54c4af(0x207)]),
+    (_0x4b703c = document["getElementById"]("password")[_0x54c4af(0x207)]),
+    (btn = document[_0x54c4af(0x1fa)](_0x54c4af(0x1fd)));
+  if (_0x352160 == "Sherleck" && _0x4b703c == _0x54c4af(0x1fb))
+    window[_0x54c4af(0x211)] = _0x54c4af(0x203);
   else {
-    if (_0x516536 == _0x2cdf35(0x126) && _0x15c776 == "1517")
-      window[_0x2cdf35(0x130)] = _0x2cdf35(0x11e);
+    if (_0x352160 == _0x54c4af(0x214) && _0x4b703c == "1517")
+      window[_0x54c4af(0x211)] = _0x54c4af(0x1f5);
     else {
-      if (_0x516536 == "Sergio29m" && _0x15c776 == _0x2cdf35(0x136))
-        window[_0x2cdf35(0x130)] = _0x2cdf35(0x12e);
+      if (_0x352160 == _0x54c4af(0x204) && _0x4b703c == _0x54c4af(0x1fc))
+        window[_0x54c4af(0x211)] = "grupos/sergio/sergio.html";
       else {
-        if (_0x516536 == _0x2cdf35(0x129) && _0x15c776 == _0x2cdf35(0x12b))
-          window["location"] = _0x2cdf35(0x134);
+        if (_0x352160 == "Crmayo" && _0x4b703c == _0x54c4af(0x1f7))
+          window["location"] = _0x54c4af(0x1f4);
         else {
-          if (_0x516536 == _0x2cdf35(0x133) && _0x15c776 == "1518")
-            window[_0x2cdf35(0x130)] = "grupos/eric/eric.html";
+          if (_0x352160 == _0x54c4af(0x20d) && _0x4b703c == "1518")
+            window[_0x54c4af(0x211)] = "grupos/eric/eric.html";
           else {
-            if (_0x516536 == _0x2cdf35(0x122) && _0x15c776 == _0x2cdf35(0x131))
-              window["location"] = "grupos/fede/fede.html";
+            if (_0x352160 == "Lelinator_9" && _0x4b703c == "1820")
+              window[_0x54c4af(0x211)] = "grupos/fede/fede.html";
             else {
-              if (_0x516536 == _0x2cdf35(0x125) && _0x15c776 == "1519")
-                window[_0x2cdf35(0x130)] = _0x2cdf35(0x124);
+              if (
+                _0x352160 == _0x54c4af(0x1ff) &&
+                _0x4b703c == _0x54c4af(0x20c)
+              )
+                window[_0x54c4af(0x211)] = _0x54c4af(0x201);
               else
-                _0x516536 == _0x2cdf35(0x128) && _0x15c776 == _0x2cdf35(0x11c)
-                  ? (window[_0x2cdf35(0x130)] = _0x2cdf35(0x11f))
-                  : (Swal["fire"]({
-                      title: _0x2cdf35(0x121),
-                      text: _0x2cdf35(0x12d),
+                _0x352160 == _0x54c4af(0x20e) && _0x4b703c == _0x54c4af(0x1f6)
+                  ? (window[_0x54c4af(0x211)] = _0x54c4af(0x205))
+                  : (Swal[_0x54c4af(0x206)]({
+                      title: _0x54c4af(0x210),
+                      text: "Por\x20favor,\x20ingrese\x20usuario\x20y\x20contraseña\x20correctos.",
                     }),
-                    btn[_0x2cdf35(0x12f)]["remove"]("class1"),
-                    btn[_0x2cdf35(0x12f)][_0x2cdf35(0x13a)](_0x2cdf35(0x120)));
+                    btn[_0x54c4af(0x1fe)][_0x54c4af(0x202)](_0x54c4af(0x213)),
+                    btn[_0x54c4af(0x1fe)]["add"](_0x54c4af(0x1f9)));
             }
           }
         }
@@ -72,46 +77,45 @@ function login() {
     }
   }
 }
-function _0x1d63() {
-  var _0x254d08 = [
-    "Sherleck",
-    "hola12",
-    "value",
-    "grupos/primeroA/grupoA.html",
-    "inicio.html",
+function _0x4d7e() {
+  var _0x1b99aa = [
     "class2",
-    "Oops...",
-    "Lelinator_9",
-    "usuario",
-    "grupos/mateo/mateo.html",
-    "Mateo1",
-    "Joshua",
-    "grupos/primero/grupo1.html",
-    "elimaryarg",
-    "Cmayo2023",
-    "2937142kScbAx",
-    "256480",
-    "1516",
-    "Por\x20favor,\x20ingrese\x20usuario\x20y\x20contraseña\x20correctos.",
-    "grupos/sergio/sergio.html",
-    "classList",
-    "location",
-    "1820",
-    "651939ILHvud",
-    "EricLista",
-    "grupos/Cmayo2023/crmayo.html",
-    "password",
-    "5445",
     "getElementById",
-    "3935175aMTyuE",
-    "2453349THgQJB",
-    "add",
-    "28268877aCXywu",
-    "4908660esPHSj",
-    "5437488PQjhHZ",
+    "1516",
+    "5445",
+    "loading",
+    "classList",
+    "Mateo1",
+    "1139950TqXIyz",
+    "grupos/mateo/mateo.html",
+    "remove",
+    "grupos/primero/grupo1.html",
+    "Sergio29m",
+    "inicio.html",
+    "fire",
+    "value",
+    "943164znpnLF",
+    "38691mfPCmK",
+    "266109rCxrfc",
+    "5lImGIN",
+    "1519",
+    "EricLista",
+    "elimaryarg",
+    "168wOitfp",
+    "Oops...",
+    "location",
+    "120594tNMSXD",
+    "class1",
+    "Joshua",
+    "723356yWNvJG",
+    "grupos/crmayo/crmayo.html",
+    "grupos/primeroA/grupoA.html",
+    "hola12",
+    "256480",
+    "359486mubvsc",
   ];
-  _0x1d63 = function () {
-    return _0x254d08;
+  _0x4d7e = function () {
+    return _0x1b99aa;
   };
-  return _0x1d63();
+  return _0x4d7e();
 }
