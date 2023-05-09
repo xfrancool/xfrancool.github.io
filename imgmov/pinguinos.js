@@ -50,7 +50,7 @@ function _0x34d8() {
     "temp-select",
     "display",
     "href",
-    "https://gist.githubusercontent.com/xfrancool/bcb05d7b4c661444cbb40c67159fcded/raw/a452510948c6f0e2161c2f5092a201acf2f6f4e5/pinguinos",
+    "https://gist.githubusercontent.com/xfrancool/bcb05d7b4c661444cbb40c67159fcded/raw/59762bdc8f514f55b6cdbc645f814c602206b148/pinguinos",
     "8847fYWrEy",
   ];
   _0x34d8 = function () {
