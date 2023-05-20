@@ -42,7 +42,7 @@ function login() {
     window[_0x18f1d1(0x1e8)] = _0x18f1d1(0x1e9);
   else
     _0x59a4db == _0x18f1d1(0x1f0) && _0x482ec == _0x18f1d1(0x1fa)
-      ? (window["location"] = "inicio/inicio.html")
+      ? (window["location"] = "./inicio.html")
       : (Swal[_0x18f1d1(0x1f3)]({
           title: _0x18f1d1(0x1f7),
           text: _0x18f1d1(0x1ee),
