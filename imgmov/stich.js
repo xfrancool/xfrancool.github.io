@@ -13,7 +13,7 @@ const _0x2fe311 = _0x4d06;
 function _0x34d8() {
   const _0x6e8c2e = [
     "185kOrUsO",
-    "thelastofus",
+    "stich",
     "forEach",
     "color",
     "getElementById",
@@ -50,7 +50,7 @@ function _0x34d8() {
     "temp-select",
     "display",
     "href",
-    "https://api.npoint.io/8e28b68c5b7a67c4d714",
+    "https://api.npoint.io/2fc557490924d3238903",
     "8847fYWrEy",
   ];
   _0x34d8 = function () {
