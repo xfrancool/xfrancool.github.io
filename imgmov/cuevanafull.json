@@ -1,5 +1,157 @@
 [
   {
+    "name": "Llamen a Joe",
+    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F9lcQXlWDzNWxovybZtGbf8O9si5.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_c8.html?t=VAiJvnsyeET_layFarr3f_yF55McEibHT7Raz9XLoWPYtXFOu5N7FGBy.TZP69OW7UVsWnTNXJs4dkIff80XrA9hnXXdf01gwU2NrLgyBBcQdG.nZw3tGJHFQQym8Orr",
+    "catego": " Documental",
+    "voto": "4.5/ 10",
+    "time": "1h 10min",
+    "anio": "2023"
+  },
+  {
+    "name": "Take Care of Maya",
+    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fktpoqsz2O5xz8SPxc358YXmmzHU.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_c8.html?t=VAiJvnsyeET_layFarr3f_e0Dzy003k163S7s9O_1P1iwAB05yQ3CFv6daqse9269KtFVGBcItCg1zrzsrbdhBeJETybDBHP8V34Vb47M0.BpTLu7FKZUersJ8sMEZ1H",
+    "catego": " Documental",
+    "voto": "8.67/ 10",
+    "time": "1h 43min",
+    "anio": "2023"
+  },
+  {
+    "name": "Weak Rangers",
+    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F2P6rVxtmSQy17n3Yj0h2V7ZHdXR.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_c8.html?t=VAiJvnsyeET_layFarr3f_jSyajBEoCyTfdjkWa2WBqzPZsbuvT7sPGDghNMJ8xm0moU7BGIhGqXYzFJqcQeerf_HJTYH_MROz.IJzp.gYNPCmnMRr2oAGMnjP712z23",
+    "catego": " Comedia",
+    "voto": "2/ 10",
+    "time": "2h 06min",
+    "anio": "2022"
+  },
+  {
+    "name": "The Secret Kingdom",
+    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FdteXMzVY53GBHUgrR7vigAartsP.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_c8.html?t=VAiJvnsyeET_layFarr3fxCBBCG8rZcA44Dp3ca6VimzbAgBV_jUwoB.uPDskrqexWFCk0pLSI4ZZ2KCeZaYyciCsjRihIjbqkn9EgW6jgNGAViwt8mcWtF901nFPMWB",
+    "catego": " Familia, Fantasía, Aventura",
+    "voto": "6.8/ 10",
+    "time": "1h 38min",
+    "anio": "2023"
+  },
+  {
+    "name": "Mente Desgarrada",
+    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FllvoAqUBvnhuo6M4iQah1SGE6kZ.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_c8.html?t=VAiJvnsyeET_layFarr3fyOm.dH.Ms4MURrDzYWM5GoUMfIBspAybCdPe99Kt3WdEMlaUpy9i4iI0ud6wTR.wmXKqw2Wea7L07cwXe63RBHpxqoszQDQgrfkT9nFcMGX",
+    "catego": " Terror",
+    "voto": "5.7/ 10",
+    "time": "1h 28min",
+    "anio": "2023"
+  },
+  {
+    "name": "The Haunting of Hell Hole Mine",
+    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FmM22bxFTbOmbWRANAeG0DfU55Qb.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_c8.html?t=VAiJvnsyeET_layFarr3f_ey6QKjrJGLRtnLBAprN4M0BfQFbo8YGMbDNYANdBrbCGr1l3sUcDrMpiCR_7OpucTXcbQ2s2JUUOi0CV3cWNSN69hD9v_0EwtjJQ3GcVQc",
+    "catego": " Terror, Suspenso, Misterio",
+    "voto": "6/ 10",
+    "time": "1h 47min",
+    "anio": "2023"
+  },
+  {
+    "name": "Nefarious",
+    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FxwjWUAajQJPj5aik1tounPguZbz.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_c8.html?t=VAiJvnsyeET_layFarr3f6oua1Vm95Da4OTKCX0UqQZp05svubwKZkYZj63IXTUDTz9cF1JDdIj0mNliY1Lo33rPtMuq481ZedyYTp1IZ7UbD40Ztxmiy9UuqHFuC2dm",
+    "catego": " Terror, Suspenso",
+    "voto": "6.64/ 10",
+    "time": "1h 38min",
+    "anio": "2023"
+  },
+  {
+    "name": "Craving",
+    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3EwoyAPOBPK2VoTq2fHp516PA3X.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_c8.html?t=VAiJvnsyeET_layFarr3fylbijOJ5cl1Ljx8MVax4tgVQB_PmJzmHyLU9AQ5R2EjvCDGYivF3_eeuFQEB.34nnDF5lE.gn7WI2LMRroBu_DYxKKcz1y21w.Rnttf.vbG",
+    "catego": " Crimen, Terror, Suspenso",
+    "voto": "5/ 10",
+    "time": "1h 25min",
+    "anio": "2023"
+  },
+  {
+    "name": "Tengo sueños eléctricos",
+    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FoB4eLVPwOnfjpNo2rsqVF6LQ5DM.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_c8.html?t=VAiJvnsyeET_layFarr3f1ydi9Sqk9FZIFHN73Xfq_Sl_SVOeYkxMmef8J5A6482aPLitJ1uPauq7z9WTjP_Msqjg_CRDN.hdRSetukugURXU3AMSfmfNTDHTSXJlFXd",
+    "catego": " Drama",
+    "voto": "7/ 10",
+    "time": "1h 50min",
+    "anio": "2023"
+  },
+  {
+    "name": "Inmortal",
+    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fr2w3YfcounwS7qrLG7A6qYuRvtf.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_c8.html?t=VAiJvnsyeET_layFarr3f_.fd0G4oL4s6IDzXSCAG7QCa4tEnMWA0MQzUAAPCJed9.c9FQB90C23AV1VhFPbre4swwVObM_B5x36eclU6YHNXs_dXzm6VjhzN1iBxwh4",
+    "catego": " Suspenso, Ciencia ficción",
+    "voto": "6/ 10",
+    "time": "1h 36min",
+    "anio": "2021"
+  },
+  {
+    "name": "Concha Velasco: La artista total",
+    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FhcqefBbZGts3hBtf8Eq6vcCMD56.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_c8.html?t=VAiJvnsyeET_layFarr3f9Et2L.iug5cFzLePY7G5MN.yS0RRT5lg0EOBCTD2KP2Vt3uPoBJFz20DCBk.l7rvEr.mowpeJv_CM.QYxC7AdRHfskDGDPTLkCqLcYSKMn0",
+    "catego": " Documental",
+    "voto": "/ 10",
+    "time": "0h 52min",
+    "anio": "2023"
+  },
+  {
+    "name": "Terminal Young",
+    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F8bsFVxWC7vYdRCwhe5YfN9Wn8Tu.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_c8.html?t=VAiJvnsyeET_layFarr3f3zwXsYyzfLbpnxebV4D.E33IicK_oBuSytG6Y632vz6TkUwdfNmY30cwBWE9vXT7cwmEIa80zhRrJVl_YxQePBhZZmkzUioorgj4JsO6r.g",
+    "catego": " Drama, Comedia",
+    "voto": "4.5/ 10",
+    "time": "2h 08min",
+    "anio": "2023"
+  },
+  {
+    "name": "El Enigma de Medusa",
+    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3SKFzJiQizAWLzZlVcJ6A835ahU.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_c8.html?t=VAiJvnsyeET_layFarr3f_h9nJIe.euwE.g6SnpTADXjzHB.0ltAfbw5IfNGHyGK5d0hKDKRptmfHH7t0Yfk5ekMhXVB2J3Xf1keDmrjLF8gX.exd.MUUf6IwpWU.D6a",
+    "catego": " Crimen, Drama",
+    "voto": "6.2/ 10",
+    "time": "1h 31min",
+    "anio": "2019"
+  },
+  {
+    "name": "Operación Luna",
+    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FoTZRIcyXc6iRh8J05aJwRMpLXoS.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_c8.html?t=VAiJvnsyeET_layFarr3f66z9H7tcDa8HWvkAq57GzKLxrNQOv1O3CqKXf2UMsaQfwSctqdpgS9JtmqfGo4w5zLf6VtfW_r_g0KKFhiCbjYpGvf.0rsYu1PedSW66dE5",
+    "catego": " Comedia, Ciencia ficción",
+    "voto": "6.8/ 10",
+    "time": "1h 36min",
+    "anio": "2019"
+  },
+  {
+    "name": "Corazón de Dragón ",
+    "img": "https://assets.lastdodo.com/image/ld_large/plain/assets/catalog/assets/2017/12/1/4/b/3/pdf_4b3ad6a2-d6b9-11e7-86d9-dfce64d8c8b5.jpg",
+    "link": "https://media.esplay.one/player?sbx=1&ref=cuevanahd&hash=U2FsdGVkX1%2Bbemaqeo4h58Rv6A4opWWUKkrXeRLLCQL2l7%2B8%2BvrpT8hB4SAN%2BXMJ&image=https://static.esplay.one/movie/gallery/original/3f8484d92b49a41a5e83865a93a64d40.webp",
+    "catego": "Fantasía"
+  },
+  {
+    "name": "Corazón de Dragón 2: Un Nuevo Comienzo",
+    "img": "https://www.themoviedb.org/t/p/original/n0jTtrfQUmBGCFyv9CXT6eLQHBp.jpg",
+    "link": "https://media.esplay.one/player?ref=cuevanahd&hash=U2FsdGVkX18jxXG7lIIIFgyHBoBU1lmEgRc6l9hVTFjEpq%2BwyhEBHLFeM%2B4zdlu%2Fa0%2BvK%2FfmYdNHI2k1Q0jtTw%3D%3D&image=https://static.esplay.one/movie/gallery/original/aed1b8547582a6e085abcc931d5ec9d7.webp",
+    "catego": "Fantasía"
+  },
+  {
+    "name": "Animatrix",
+    "img": "https://es.web.img3.acsta.net/pictures/21/11/18/21/46/5309994.jpg",
+    "link": "https://43598303.xyz/video/tt0328832/",
+    "catego": "Animación",
+    "anio": "2003"
+  },
+  {
+    "name": "The Devil Conspiracy",
+    "img": "https://pics.filmaffinity.com/the_devil_conspiracy-958228548-mmed.jpg",
+    "link": "https://media.esplay.one/player?sbx=1&ref=cuevanahd&hash=U2FsdGVkX1%2BlbWChW5BjUzS%2B33zwtWslsrmp4Y30s7noqwc%2BAaBB0xtn2%2FsC6M0X&image=https://static.esplay.one/movie/gallery/original/sp7MPK2K60LLd7A6zjHKsfgjFil.webp",
+    "catego": "Terror",
+    "anio": "2022"
+  },
+  {
     "name": "Misión de rescate 2",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FjT0Eyfw0VXlnk8sMKfyFiKj8UsK.jpg&w=384&q=75",
     "link": "https://okru.link/v2/embed_c8.html?t=VAiJvnsyeET_layFarr3f_EGIqZMZwbSZLxOolGPuUNidpt4yVBoId_Q37aboGd3B5ea5di.hqX48Txz19zXp5tcrhPy6G8G4ktGfQRWHDiz.CxE3XV9SppwzrnoSLXf",
