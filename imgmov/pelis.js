@@ -1,317 +1,330 @@
-const _0x460ad3 = _0x32ea;
-(function (_0x1cdc4d, _0x8fdb92) {
-  const _0x3b3964 = _0x32ea,
-    _0x30f308 = _0x1cdc4d();
+const _0x13cad4 = _0x4be0;
+function _0x1425() {
+  const _0x2a051a = [
+    "65xHPDGB",
+    "click",
+    "2886320ZcNkRp",
+    "backgroundColor",
+    "name",
+    "includes",
+    "remove",
+    "firstChild",
+    "pagination-container",
+    "#008cba",
+    "trailer-video",
+    ".anios-button",
+    "innerText",
+    "preventDefault",
+    "157390KlePGO",
+    "</p>\x20\x20\x20\x20\x20<br>\x20<a\x20id=\x22link\x22\x20href=\x22",
+    "getAttribute",
+    "src",
+    "style",
+    "\x0a\x20\x20\x20\x20\x20<div\x20class=\x22cover\x22>\x0a\x0a\x20\x20\x20\x20\x20<img\x20id=\x22img\x22\x20src=\x22",
+    "filter",
+    "insertBefore",
+    "dataset",
+    "innerHTML",
+    "display",
+    "776385bNxmmv",
+    "max",
+    "(max-width:\x20767px)",
+    "ceil",
+    "matchMedia",
+    "querySelectorAll",
+    "floor",
+    "documentElement",
+    "body",
+    "img",
+    "trailer-modal",
+    "28xXSMqH",
+    "104KxZMOA",
+    "&gt;",
+    "addEventListener",
+    "scrollTo",
+    ".category-button",
+    "143KJpbsZ",
+    "20740860qEXHEn",
+    "link",
+    "</p>\x0a\x20\x20\x20\x20\x20<p\x20id=\x22anios\x22>",
+    "createElement",
+    "classList",
+    "toLowerCase",
+    "&lt;",
+    "scrollTop",
+    "trim",
+    "\x22\x22\x20onclick=\x22showTrailer(event)\x22\x20data-card-index=\x220\x22><ion-icon\x20name=\x22play-circle-outline\x22\x20id=\x22play\x22>\x20</ion-icon>👀\x20</a>\x20</p>\x0a\x0a\x20\x20\x20\x20\x20<p\x20id=\x22title-card\x22>",
+    "setAttribute",
+    "active",
+    "block",
+    "myBtn",
+    "getElementById",
+    "div",
+    "min",
+    "86046moMOhC",
+    "currentTarget",
+    "610816LplvZN",
+    "appendChild",
+    "add",
+    "href",
+    "value",
+    "sort",
+    "catego",
+    "matches",
+    "anio",
+    "forEach",
+    "category",
+    "3IdyTSo",
+    "length",
+    "json",
+    "cards-container",
+    "card",
+    "button",
+    "</p>\x0a\x0a\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20",
+    "then",
+    "15474DUbmCE",
+    "https://xfrancool.github.io/imgmov/cuevanafull.json",
+    "search-input",
+    "none",
+  ];
+  _0x1425 = function () {
+    return _0x2a051a;
+  };
+  return _0x1425();
+}
+(function (_0x51a233, _0x4f1a19) {
+  const _0x2048b8 = _0x4be0,
+    _0xe20302 = _0x51a233();
   while (!![]) {
     try {
-      const _0x581242 =
-        (parseInt(_0x3b3964(0x1c4)) / 0x1) *
-          (parseInt(_0x3b3964(0x1c7)) / 0x2) +
-        -parseInt(_0x3b3964(0x1c1)) / 0x3 +
-        (-parseInt(_0x3b3964(0x1af)) / 0x4) *
-          (-parseInt(_0x3b3964(0x1c0)) / 0x5) +
-        (parseInt(_0x3b3964(0x1da)) / 0x6) *
-          (parseInt(_0x3b3964(0x1e9)) / 0x7) +
-        (parseInt(_0x3b3964(0x1cc)) / 0x8) *
-          (-parseInt(_0x3b3964(0x1d1)) / 0x9) +
-        parseInt(_0x3b3964(0x1b5)) / 0xa +
-        -parseInt(_0x3b3964(0x1c5)) / 0xb;
-      if (_0x581242 === _0x8fdb92) break;
-      else _0x30f308["push"](_0x30f308["shift"]());
-    } catch (_0x14ea26) {
-      _0x30f308["push"](_0x30f308["shift"]());
+      const _0x283675 =
+        (parseInt(_0x2048b8(0x1b2)) / 0x1) *
+          (parseInt(_0x2048b8(0x189)) / 0x2) +
+        (parseInt(_0x2048b8(0x181)) / 0x3) *
+          (parseInt(_0x2048b8(0x176)) / 0x4) +
+        (-parseInt(_0x2048b8(0x18d)) / 0x5) *
+          (-parseInt(_0x2048b8(0x174)) / 0x6) +
+        (parseInt(_0x2048b8(0x1b1)) / 0x7) *
+          (parseInt(_0x2048b8(0x18f)) / 0x8) +
+        parseInt(_0x2048b8(0x1a6)) / 0x9 +
+        (parseInt(_0x2048b8(0x19b)) / 0xa) *
+          (-parseInt(_0x2048b8(0x1b7)) / 0xb) +
+        -parseInt(_0x2048b8(0x1b8)) / 0xc;
+      if (_0x283675 === _0x4f1a19) break;
+      else _0xe20302["push"](_0xe20302["shift"]());
+    } catch (_0x51a0e4) {
+      _0xe20302["push"](_0xe20302["shift"]());
     }
   }
-})(_0x4492, 0x52819);
-const cardsContainer = document["getElementById"]("cards-container"),
-  paginationContainer = document[_0x460ad3(0x1ce)](_0x460ad3(0x1d4)),
-  searchInput = document["getElementById"]("search-input");
-function _0x32ea(_0x56e880, _0x23929e) {
-  const _0x4492cd = _0x4492();
-  return (
-    (_0x32ea = function (_0x32eacc, _0x3bf12d) {
-      _0x32eacc = _0x32eacc - 0x1a3;
-      let _0x42b8c1 = _0x4492cd[_0x32eacc];
-      return _0x42b8c1;
-    }),
-    _0x32ea(_0x56e880, _0x23929e)
-  );
-}
+})(_0x1425, 0xb4b66);
+const cardsContainer = document[_0x13cad4(0x171)](_0x13cad4(0x184)),
+  paginationContainer = document[_0x13cad4(0x171)](_0x13cad4(0x195)),
+  searchInput = document[_0x13cad4(0x171)](_0x13cad4(0x18b));
 let currentPage = 0x1,
   cardsPerPage = 0xc,
   currentCards = [],
   filteredCards = [];
-fetch("https://xfrancool.github.io/imgmov/cuevanafull.json")
-  [_0x460ad3(0x1a6)]((_0xc4d4a3) => _0xc4d4a3[_0x460ad3(0x1a4)]())
-  ["then"]((_0xd0beea) => {
-    const _0x80cef3 = _0x460ad3;
-    _0xd0beea[_0x80cef3(0x1e1)](
-      (_0x439a2a, _0x329085) => _0x329085["id"] - _0x439a2a["id"]
+fetch(_0x13cad4(0x18a))
+  ["then"]((_0x1eb91b) => _0x1eb91b[_0x13cad4(0x183)]())
+  [_0x13cad4(0x188)]((_0x2c8866) => {
+    const _0x39e61f = _0x13cad4;
+    _0x2c8866[_0x39e61f(0x17b)](
+      (_0x2e073e, _0x4b3e99) => _0x4b3e99["id"] - _0x2e073e["id"]
     ),
-      (currentCards = _0xd0beea),
+      (currentCards = _0x2c8866),
       (filteredCards = currentCards),
       renderCards(),
       renderPagination();
   });
 function renderCards() {
-  const _0x2367b0 = _0x460ad3;
-  cardsContainer[_0x2367b0(0x1a5)] = "";
-  const _0x5e7a34 = (currentPage - 0x1) * cardsPerPage,
-    _0x12e7ad = _0x5e7a34 + cardsPerPage,
-    _0x264069 = filteredCards[_0x2367b0(0x1e6)](_0x5e7a34, _0x12e7ad);
-  _0x264069[_0x2367b0(0x1ab)]((_0x2c0bfe) => {
-    const _0x1898a2 = _0x2367b0,
-      _0x574d36 = document[_0x1898a2(0x1b2)](_0x1898a2(0x1db));
-    _0x574d36[_0x1898a2(0x1e3)][_0x1898a2(0x1df)](_0x1898a2(0x1c8)),
-      (_0x574d36[_0x1898a2(0x1a5)] =
-        _0x1898a2(0x1e0) +
-        _0x2c0bfe[_0x1898a2(0x1bf)] +
-        _0x1898a2(0x1eb) +
-        _0x2c0bfe["name"] +
-        _0x1898a2(0x1b6) +
-        _0x2c0bfe[_0x1898a2(0x1ed)] +
-        _0x1898a2(0x1cf) +
-        _0x2c0bfe[_0x1898a2(0x1ba)] +
-        "</p>\x0a\x20\x20\x20\x20\x20<p\x20id=\x22anios\x22>" +
-        _0x2c0bfe[_0x1898a2(0x1ae)] +
-        _0x1898a2(0x1ac)),
-      cardsContainer[_0x1898a2(0x1c2)](_0x574d36);
+  const _0x3fb44a = _0x13cad4;
+  cardsContainer[_0x3fb44a(0x1a4)] = "";
+  const _0x21e283 = (currentPage - 0x1) * cardsPerPage,
+    _0x5dc4a4 = _0x21e283 + cardsPerPage,
+    _0x63b3d6 = filteredCards["slice"](_0x21e283, _0x5dc4a4);
+  _0x63b3d6[_0x3fb44a(0x17f)]((_0x233b1f) => {
+    const _0x399569 = _0x3fb44a,
+      _0x300a6d = document[_0x399569(0x1bb)](_0x399569(0x172));
+    _0x300a6d[_0x399569(0x1bc)][_0x399569(0x178)](_0x399569(0x185)),
+      (_0x300a6d["innerHTML"] =
+        _0x399569(0x1a0) +
+        _0x233b1f[_0x399569(0x1af)] +
+        "\x22\x20alt=\x22\x22>\x0a\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20<div\x20class=\x22card-header\x22>\x0a\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20<div\x20class=\x22card-body\x22>\x0a\x20\x20\x20\x20\x20<p><p\x20id=\x22title-card\x22>" +
+        _0x233b1f[_0x399569(0x191)] +
+        _0x399569(0x19c) +
+        _0x233b1f[_0x399569(0x1b9)] +
+        _0x399569(0x16c) +
+        _0x233b1f[_0x399569(0x17c)] +
+        _0x399569(0x1ba) +
+        _0x233b1f[_0x399569(0x17e)] +
+        _0x399569(0x187)),
+      cardsContainer[_0x399569(0x177)](_0x300a6d);
   });
 }
+function _0x4be0(_0x8f3f72, _0x4e696d) {
+  const _0x14253c = _0x1425();
+  return (
+    (_0x4be0 = function (_0x4be0e1, _0x129f4e) {
+      _0x4be0e1 = _0x4be0e1 - 0x168;
+      let _0x5a348c = _0x14253c[_0x4be0e1];
+      return _0x5a348c;
+    }),
+    _0x4be0(_0x8f3f72, _0x4e696d)
+  );
+}
 function renderPagination() {
-  const _0x2900a0 = _0x460ad3;
-  paginationContainer[_0x2900a0(0x1a5)] = "";
-  const _0x47a05a = Math[_0x2900a0(0x1d5)](
-      filteredCards["length"] / cardsPerPage
+  const _0x47c299 = _0x13cad4;
+  paginationContainer[_0x47c299(0x1a4)] = "";
+  const _0x1b914a = Math[_0x47c299(0x1a9)](
+      filteredCards[_0x47c299(0x182)] / cardsPerPage
     ),
-    _0x33ac63 = 0x4;
-  let _0x42b49b = Math[_0x2900a0(0x1e8)](
+    _0x43c2b7 = 0x4;
+  let _0x55e0c7 = Math[_0x47c299(0x1a7)](
       0x1,
-      currentPage - Math[_0x2900a0(0x1b3)](_0x33ac63 / 0x2)
+      currentPage - Math[_0x47c299(0x1ac)](_0x43c2b7 / 0x2)
     ),
-    _0xadd967 = Math[_0x2900a0(0x1a7)](_0x47a05a, _0x42b49b + _0x33ac63 - 0x1);
-  _0xadd967 - _0x42b49b + 0x1 < _0x33ac63 &&
-    (_0x42b49b = Math[_0x2900a0(0x1e8)](0x1, _0xadd967 - _0x33ac63 + 0x1));
-  for (let _0x2dfcfc = _0x42b49b; _0x2dfcfc <= _0xadd967; _0x2dfcfc++) {
-    const _0x2b78e3 = document[_0x2900a0(0x1b2)](_0x2900a0(0x1cd));
-    (_0x2b78e3["innerText"] = _0x2dfcfc),
-      _0x2b78e3[_0x2900a0(0x1b9)](_0x2900a0(0x1b4), () => {
-        const _0x4a32a7 = _0x2900a0;
-        (currentPage = _0x2dfcfc),
+    _0x1a5849 = Math[_0x47c299(0x173)](_0x1b914a, _0x55e0c7 + _0x43c2b7 - 0x1);
+  _0x1a5849 - _0x55e0c7 + 0x1 < _0x43c2b7 &&
+    (_0x55e0c7 = Math[_0x47c299(0x1a7)](0x1, _0x1a5849 - _0x43c2b7 + 0x1));
+  for (let _0x29949b = _0x55e0c7; _0x29949b <= _0x1a5849; _0x29949b++) {
+    const _0x27e40d = document["createElement"](_0x47c299(0x186));
+    (_0x27e40d[_0x47c299(0x199)] = _0x29949b),
+      _0x27e40d[_0x47c299(0x1b4)]("click", () => {
+        const _0x16c3d3 = _0x47c299;
+        (currentPage = _0x29949b),
           renderCards(),
           renderPagination(),
-          window[_0x4a32a7(0x1bc)](_0x4a32a7(0x1bb))[_0x4a32a7(0x1e7)] &&
-            window[_0x4a32a7(0x1be)](0x0, 0x0);
+          window[_0x16c3d3(0x1aa)](_0x16c3d3(0x1a8))[_0x16c3d3(0x17d)] &&
+            window[_0x16c3d3(0x1b5)](0x0, 0x0);
       }),
-      _0x2dfcfc === currentPage &&
-        _0x2b78e3["classList"][_0x2900a0(0x1df)]("active"),
-      paginationContainer[_0x2900a0(0x1c2)](_0x2b78e3);
+      _0x29949b === currentPage &&
+        _0x27e40d[_0x47c299(0x1bc)]["add"](_0x47c299(0x16e)),
+      paginationContainer[_0x47c299(0x177)](_0x27e40d);
   }
-  const _0x349142 = document[_0x2900a0(0x1b2)](_0x2900a0(0x1cd));
-  (_0x349142[_0x2900a0(0x1a5)] = _0x2900a0(0x1b1)),
-    (_0x349142[_0x2900a0(0x1ad)]["backgroundColor"] = "#008cba"),
-    _0x349142[_0x2900a0(0x1b9)]("click", () => {
-      const _0xe97132 = _0x2900a0;
-      currentPage < _0x47a05a &&
+  const _0x5e8eb5 = document[_0x47c299(0x1bb)](_0x47c299(0x186));
+  (_0x5e8eb5[_0x47c299(0x1a4)] = _0x47c299(0x1b3)),
+    (_0x5e8eb5[_0x47c299(0x19f)][_0x47c299(0x190)] = _0x47c299(0x196)),
+    _0x5e8eb5[_0x47c299(0x1b4)](_0x47c299(0x18e), () => {
+      const _0x3cc58c = _0x47c299;
+      currentPage < _0x1b914a &&
         (currentPage++,
         renderCards(),
         renderPagination(),
-        window[_0xe97132(0x1bc)](_0xe97132(0x1bb))["matches"] &&
-          window[_0xe97132(0x1be)](0x0, 0x0));
+        window[_0x3cc58c(0x1aa)](_0x3cc58c(0x1a8))[_0x3cc58c(0x17d)] &&
+          window[_0x3cc58c(0x1b5)](0x0, 0x0));
     });
-  const _0x393b01 = document[_0x2900a0(0x1b2)](_0x2900a0(0x1cd));
-  (_0x393b01[_0x2900a0(0x1a5)] = _0x2900a0(0x1e2)),
-    (_0x393b01[_0x2900a0(0x1ad)][_0x2900a0(0x1ea)] = _0x2900a0(0x1d3)),
-    _0x393b01[_0x2900a0(0x1b9)](_0x2900a0(0x1b4), () => {
-      const _0x40348f = _0x2900a0;
+  const _0x96a902 = document[_0x47c299(0x1bb)](_0x47c299(0x186));
+  (_0x96a902[_0x47c299(0x1a4)] = _0x47c299(0x169)),
+    (_0x96a902["style"][_0x47c299(0x190)] = _0x47c299(0x196)),
+    _0x96a902["addEventListener"]("click", () => {
+      const _0x6fd113 = _0x47c299;
       currentPage > 0x1 &&
         (currentPage--,
         renderCards(),
         renderPagination(),
-        window[_0x40348f(0x1bc)](_0x40348f(0x1bb))[_0x40348f(0x1e7)] &&
-          window[_0x40348f(0x1be)](0x0, 0x0));
+        window[_0x6fd113(0x1aa)](_0x6fd113(0x1a8))[_0x6fd113(0x17d)] &&
+          window[_0x6fd113(0x1b5)](0x0, 0x0));
     }),
-    paginationContainer["insertBefore"](
-      _0x393b01,
-      paginationContainer[_0x2900a0(0x1b0)]
+    paginationContainer[_0x47c299(0x1a2)](
+      _0x96a902,
+      paginationContainer[_0x47c299(0x194)]
     ),
-    paginationContainer[_0x2900a0(0x1c2)](_0x349142);
+    paginationContainer[_0x47c299(0x177)](_0x5e8eb5);
 }
-searchInput[_0x460ad3(0x1b9)]("input", () => {
-  const _0x166d22 = _0x460ad3,
-    _0x2503db = searchInput[_0x166d22(0x1a8)]["trim"]()[_0x166d22(0x1aa)]();
-  (filteredCards = currentCards[_0x166d22(0x1d8)]((_0x451122) =>
-    _0x451122["name"][_0x166d22(0x1aa)]()[_0x166d22(0x1b7)](_0x2503db)
+searchInput[_0x13cad4(0x1b4)]("input", () => {
+  const _0x4665eb = _0x13cad4,
+    _0x44422c = searchInput[_0x4665eb(0x17a)]
+      [_0x4665eb(0x16b)]()
+      [_0x4665eb(0x168)]();
+  (filteredCards = currentCards[_0x4665eb(0x1a1)]((_0x5c5190) =>
+    _0x5c5190["name"][_0x4665eb(0x168)]()[_0x4665eb(0x192)](_0x44422c)
   )),
     (currentPage = 0x1),
     renderCards(),
     renderPagination();
 });
-const aniosButtons = document[_0x460ad3(0x1b8)](_0x460ad3(0x1a9)),
-  categoryButtons = document[_0x460ad3(0x1b8)](_0x460ad3(0x1dc));
-aniosButtons[_0x460ad3(0x1ab)]((_0x3a8d1c) => {
-  const _0x3f9979 = _0x460ad3;
-  _0x3a8d1c[_0x3f9979(0x1b9)](_0x3f9979(0x1b4), () => {
-    const _0x2a0041 = _0x3f9979,
-      _0x20b52e = _0x3a8d1c[_0x2a0041(0x1d2)][_0x2a0041(0x1d9)];
-    _0x20b52e === _0x2a0041(0x1e4)
+const aniosButtons = document[_0x13cad4(0x1ab)](_0x13cad4(0x198)),
+  categoryButtons = document[_0x13cad4(0x1ab)](_0x13cad4(0x1b6));
+aniosButtons[_0x13cad4(0x17f)]((_0x47e79e) => {
+  const _0x5ba06c = _0x13cad4;
+  _0x47e79e["addEventListener"](_0x5ba06c(0x18e), () => {
+    const _0x4d3a33 = _0x5ba06c,
+      _0x47e13f = _0x47e79e["dataset"][_0x4d3a33(0x180)];
+    _0x47e13f === "all"
       ? (filteredCards = currentCards)
-      : (filteredCards = currentCards[_0x2a0041(0x1d8)]((_0x2acb16) => {
-          const _0x8463b4 = _0x2a0041;
-          return _0x2acb16[_0x8463b4(0x1ae)] === _0x20b52e;
+      : (filteredCards = currentCards[_0x4d3a33(0x1a1)]((_0xcf526f) => {
+          const _0x41e1ba = _0x4d3a33;
+          return _0xcf526f[_0x41e1ba(0x17e)] === _0x47e13f;
         })),
       (currentPage = 0x1),
       renderCards(),
       renderPagination(),
-      aniosButtons[_0x2a0041(0x1ab)]((_0x361227) => {
-        const _0x464995 = _0x2a0041;
-        _0x361227[_0x464995(0x1e3)][_0x464995(0x1c3)](_0x464995(0x1dd));
+      aniosButtons[_0x4d3a33(0x17f)]((_0x5cecda) => {
+        const _0x417929 = _0x4d3a33;
+        _0x5cecda[_0x417929(0x1bc)][_0x417929(0x193)](_0x417929(0x16e));
       }),
-      _0x3a8d1c["classList"][_0x2a0041(0x1df)](_0x2a0041(0x1dd)),
-      categoryButtons[_0x2a0041(0x1ab)]((_0x104e63) => {
-        const _0x2c643e = _0x2a0041;
-        _0x104e63[_0x2c643e(0x1e3)][_0x2c643e(0x1c3)](_0x2c643e(0x1dd));
+      _0x47e79e[_0x4d3a33(0x1bc)][_0x4d3a33(0x178)](_0x4d3a33(0x16e)),
+      categoryButtons["forEach"]((_0x5caffc) => {
+        const _0x152376 = _0x4d3a33;
+        _0x5caffc[_0x152376(0x1bc)][_0x152376(0x193)](_0x152376(0x16e));
       });
   });
 }),
-  categoryButtons[_0x460ad3(0x1ab)]((_0x65e152) => {
-    const _0x1fb1df = _0x460ad3;
-    _0x65e152[_0x1fb1df(0x1b9)](_0x1fb1df(0x1b4), () => {
-      const _0x12e23e = _0x1fb1df,
-        _0x2bc434 = _0x65e152[_0x12e23e(0x1d2)][_0x12e23e(0x1d9)];
-      _0x2bc434 === _0x12e23e(0x1e4)
+  categoryButtons[_0x13cad4(0x17f)]((_0x475174) => {
+    const _0x5b1e03 = _0x13cad4;
+    _0x475174[_0x5b1e03(0x1b4)](_0x5b1e03(0x18e), () => {
+      const _0x49f0bc = _0x5b1e03,
+        _0x5d640e = _0x475174[_0x49f0bc(0x1a3)][_0x49f0bc(0x180)];
+      _0x5d640e === "all"
         ? (filteredCards = currentCards)
-        : (filteredCards = currentCards[_0x12e23e(0x1d8)]((_0x55be77) => {
-            const _0x4470c4 = _0x12e23e;
-            return _0x55be77[_0x4470c4(0x1ba)]["includes"](_0x2bc434);
+        : (filteredCards = currentCards[_0x49f0bc(0x1a1)]((_0x343d7a) => {
+            const _0x105a8c = _0x49f0bc;
+            return _0x343d7a["catego"][_0x105a8c(0x192)](_0x5d640e);
           })),
         (currentPage = 0x1),
         renderCards(),
         renderPagination(),
-        categoryButtons[_0x12e23e(0x1ab)]((_0x4c0729) => {
-          const _0x253c75 = _0x12e23e;
-          _0x4c0729["classList"]["remove"](_0x253c75(0x1dd));
+        categoryButtons[_0x49f0bc(0x17f)]((_0x4d8d73) => {
+          const _0x953a51 = _0x49f0bc;
+          _0x4d8d73[_0x953a51(0x1bc)][_0x953a51(0x193)]("active");
         }),
-        _0x65e152[_0x12e23e(0x1e3)][_0x12e23e(0x1df)](_0x12e23e(0x1dd)),
-        aniosButtons[_0x12e23e(0x1ab)]((_0x1dd0ac) => {
-          const _0x4e9637 = _0x12e23e;
-          _0x1dd0ac[_0x4e9637(0x1e3)]["remove"](_0x4e9637(0x1dd));
+        _0x475174[_0x49f0bc(0x1bc)]["add"](_0x49f0bc(0x16e)),
+        aniosButtons[_0x49f0bc(0x17f)]((_0x1cadb2) => {
+          const _0x5b310f = _0x49f0bc;
+          _0x1cadb2["classList"][_0x5b310f(0x193)]("active");
         });
     });
   });
-function showTrailer(_0xf3b7c6) {
-  const _0x5475cd = _0x460ad3;
-  _0xf3b7c6["preventDefault"]();
-  var _0x1f3061 = document[_0x5475cd(0x1ce)](_0x5475cd(0x1e5)),
-    _0x382aeb = document["getElementById"](_0x5475cd(0x1c9)),
-    _0x308edb = _0xf3b7c6[_0x5475cd(0x1a3)],
-    _0x34edcf = _0x308edb[_0x5475cd(0x1d0)]("href");
-  _0x382aeb["setAttribute"](_0x5475cd(0x1ec), _0x34edcf),
-    (_0x1f3061[_0x5475cd(0x1ad)][_0x5475cd(0x1cb)] = _0x5475cd(0x1ca));
+function showTrailer(_0xb6bef9) {
+  const _0x5b300c = _0x13cad4;
+  _0xb6bef9[_0x5b300c(0x19a)]();
+  var _0x420252 = document[_0x5b300c(0x171)](_0x5b300c(0x1b0)),
+    _0x544f13 = document["getElementById"](_0x5b300c(0x197)),
+    _0x224c35 = _0xb6bef9[_0x5b300c(0x175)],
+    _0x5125af = _0x224c35[_0x5b300c(0x19d)](_0x5b300c(0x179));
+  _0x544f13[_0x5b300c(0x16d)](_0x5b300c(0x19e), _0x5125af),
+    (_0x420252[_0x5b300c(0x19f)][_0x5b300c(0x1a5)] = _0x5b300c(0x16f));
 }
 function closeTrailer() {
-  const _0x21284c = _0x460ad3;
-  var _0x390088 = document[_0x21284c(0x1ce)](_0x21284c(0x1e5)),
-    _0x1d8c19 = document["getElementById"](_0x21284c(0x1c9));
-  _0x1d8c19[_0x21284c(0x1d6)]("src", ""),
-    (_0x390088["style"][_0x21284c(0x1cb)] = "none");
+  const _0x2e3e4b = _0x13cad4;
+  var _0x4188bf = document[_0x2e3e4b(0x171)](_0x2e3e4b(0x1b0)),
+    _0x39a307 = document[_0x2e3e4b(0x171)](_0x2e3e4b(0x197));
+  _0x39a307[_0x2e3e4b(0x16d)](_0x2e3e4b(0x19e), ""),
+    (_0x4188bf[_0x2e3e4b(0x19f)][_0x2e3e4b(0x1a5)] = _0x2e3e4b(0x18c));
 }
-(mybutton = document[_0x460ad3(0x1ce)](_0x460ad3(0x1d7))),
+(mybutton = document[_0x13cad4(0x171)](_0x13cad4(0x170))),
   (window["onscroll"] = function () {
     scrollFunction();
   });
 function scrollFunction() {
-  const _0x110a00 = _0x460ad3;
-  document[_0x110a00(0x1c6)][_0x110a00(0x1bd)] > 0x14 ||
-  document[_0x110a00(0x1de)][_0x110a00(0x1bd)] > 0x14
-    ? (mybutton[_0x110a00(0x1ad)][_0x110a00(0x1cb)] = _0x110a00(0x1ca))
-    : (mybutton["style"][_0x110a00(0x1cb)] = "none");
+  const _0x47a18d = _0x13cad4;
+  document[_0x47a18d(0x1ae)][_0x47a18d(0x16a)] > 0x14 ||
+  document[_0x47a18d(0x1ad)][_0x47a18d(0x16a)] > 0x14
+    ? (mybutton[_0x47a18d(0x19f)]["display"] = _0x47a18d(0x16f))
+    : (mybutton[_0x47a18d(0x19f)][_0x47a18d(0x1a5)] = _0x47a18d(0x18c));
 }
 function topFunction() {
-  const _0x319e5b = _0x460ad3;
-  (document[_0x319e5b(0x1c6)][_0x319e5b(0x1bd)] = 0x0),
-    (document[_0x319e5b(0x1de)][_0x319e5b(0x1bd)] = 0x0);
-}
-function _0x4492() {
-  const _0xceaf21 = [
-    "display",
-    "24CpWJdE",
-    "button",
-    "getElementById",
-    "\x22\x22\x20onclick=\x22showTrailer(event)\x22\x20data-card-index=\x220\x22><ion-icon\x20name=\x22play-circle-outline\x22\x20id=\x22play\x22>\x20</ion-icon>👀\x20</a>\x20</p>\x0a\x0a\x20\x20\x20\x20\x20<p\x20id=\x22title-card\x22>",
-    "getAttribute",
-    "576819eRRUbU",
-    "dataset",
-    "#008cba",
-    "pagination-container",
-    "ceil",
-    "setAttribute",
-    "myBtn",
-    "filter",
-    "category",
-    "66KzSpJq",
-    "div",
-    ".category-button",
-    "active",
-    "documentElement",
-    "add",
-    "\x0a\x20\x20\x20\x20\x20<div\x20class=\x22cover\x22>\x0a\x0a\x20\x20\x20\x20\x20<img\x20id=\x22img\x22\x20src=\x22",
-    "sort",
-    "&lt;",
-    "classList",
-    "all",
-    "trailer-modal",
-    "slice",
-    "matches",
-    "max",
-    "186137gZAdCm",
-    "backgroundColor",
-    "\x22\x20alt=\x22\x22>\x0a\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20<div\x20class=\x22card-header\x22>\x0a\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20<div\x20class=\x22card-body\x22>\x0a\x20\x20\x20\x20\x20<p><p\x20id=\x22title-card\x22>",
-    "src",
-    "link",
-    "currentTarget",
-    "json",
-    "innerHTML",
-    "then",
-    "min",
-    "value",
-    ".anios-button",
-    "toLowerCase",
-    "forEach",
-    "</p>\x0a\x0a\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20",
-    "style",
-    "anio",
-    "12SqzyWg",
-    "firstChild",
-    "&gt;",
-    "createElement",
-    "floor",
-    "click",
-    "5860190TyzYpe",
-    "</p>\x20\x20\x20\x20\x20<br>\x20<a\x20id=\x22link\x22\x20href=\x22",
-    "includes",
-    "querySelectorAll",
-    "addEventListener",
-    "catego",
-    "(max-width:\x20767px)",
-    "matchMedia",
-    "scrollTop",
-    "scrollTo",
-    "img",
-    "736695iunhhU",
-    "390210hRfpDm",
-    "appendChild",
-    "remove",
-    "1589RdFlfy",
-    "12681229rKCBie",
-    "body",
-    "620OGuSOd",
-    "card",
-    "trailer-video",
-    "block",
-  ];
-  _0x4492 = function () {
-    return _0xceaf21;
-  };
-  return _0x4492();
+  const _0x33fcf6 = _0x13cad4;
+  (document[_0x33fcf6(0x1ae)]["scrollTop"] = 0x0),
+    (document["documentElement"][_0x33fcf6(0x16a)] = 0x0);
 }
