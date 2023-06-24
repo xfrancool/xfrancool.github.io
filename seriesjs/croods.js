@@ -129,7 +129,7 @@ const _0x4982f9 = _0x4fa9;
     });
 function _0x1cb8() {
   const _0x5b1351 = [
-    "supernatural",
+    "croods",
     "change",
     "appendChild",
     "color",
@@ -173,7 +173,7 @@ function _0x1cb8() {
     "link",
     "6859643dmsWdL",
     "2649500ZxswFF",
-    "https://gist.githubusercontent.com/xfrancool/504b933d4a199c26b10f11e85fcd2a12/raw/d40516fba3489a7102acd374c4568b4e90aabcce/gistfile1.txt",
+    "https://xfrancool.github.io/seriesjson/croods.json",
   ];
   _0x1cb8 = function () {
     return _0x5b1351;

@@ -129,7 +129,7 @@ const _0x4982f9 = _0x4fa9;
     });
 function _0x1cb8() {
   const _0x5b1351 = [
-    "supernatural",
+    "agentecarter",
     "change",
     "appendChild",
     "color",
