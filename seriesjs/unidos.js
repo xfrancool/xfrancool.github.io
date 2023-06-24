@@ -173,7 +173,7 @@ function _0x1cb8() {
     "link",
     "6859643dmsWdL",
     "2649500ZxswFF",
-    "hhttps://api.npoint.io/a18367467decc429f92e",
+    "https://api.npoint.io/a18367467decc429f92e",
   ];
   _0x1cb8 = function () {
     return _0x5b1351;
