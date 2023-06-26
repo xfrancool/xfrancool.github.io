@@ -1,0 +1,260 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,600;1,500&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Nunito", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  text-align: center;
+
+  font-family: "Nunito", sans-serif;
+  color: #8da0bc;
+  background: #080f28;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+select {
+  display: block;
+  margin: 20px auto;
+  padding: 10px;
+  font-size: 16px;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+  font-size: 14px;
+}
+iframe {
+  border-radius: 8px;
+  width: 500px;
+  height: 315px;
+}
+
+/* Estilos para la lista */
+#cap-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 auto; /* Añadimos 'auto' para centrar horizontalmente */
+  display: flex; /* Usamos flexbox para centrar verticalmente */
+  flex-wrap: wrap; /* Añadimos 'wrap' para que los elementos se ajusten automáticamente */
+  justify-content: center; /* Centramos horizontalmente */
+  align-items: center; /* Centramos verticalmente */
+  width: 30%; /* Definimos un ancho del 80% */
+}
+#cap-list a {
+  text-decoration: none;
+
+  color: rgb(221, 216, 216);
+  font-weight: bold;
+}
+
+#cap-list li {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: #434457; /* Establecemos un color de fondo */
+  color: rgb(221, 216, 216);
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#cap-list li:hover {
+  background-color: #152c5e;
+}
+
+@media screen and (max-width: 480px) {
+  .container {
+    max-width: 90%;
+  }
+  iframe {
+    width: 320px;
+    height: 250px;
+  }
+
+  #cap-list {
+    width: 60%; /* Definimos un ancho del 80% */
+  }
+  li {
+    font-size: 13px;
+  }
+}
+
+/* Estilos para el select */
+select {
+  display: block;
+  margin: 20px auto;
+  padding: 10px;
+  font-size: 16px;
+  border: none; /* Quitamos el borde por defecto */
+  background-color: #434457; /* Establecemos un color de fondo */
+  color: rgb(221, 216, 216); /* Establecemos un color de texto */
+  border-radius: 5px; /* Agregamos un borde redondeado */
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Agregamos una sombra */
+  appearance: none; /* Quitamos la apariencia por defecto */
+  font-weight: bold;
+  width: 35%;
+}
+
+/* Estilos para el select cuando está activo */
+select:focus {
+  outline: none; /* Quitamos el borde de enfoque */
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3); /* Agregamos una sombra más fuerte */
+}
+
+/* Estilos para las opciones del select */
+select option {
+  background-color: #434457; /* Establecemos un color de fondo */
+  color: white; /* Establecemos un color de texto */
+  text-align: center;
+}
+
+/* Estilos para la flecha del select */
+select::-ms-expand {
+  display: none; /* Quitamos la flecha en Internet Explorer */
+}
+
+select::before {
+  content: "\25BC"; /* Agregamos la flecha */
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  color: #333; /* Establecemos un color de la flecha */
+}
+
+@media (max-width: 768px) {
+  select {
+    width: 75%; /* Establecemos un ancho del 100% en dispositivos móviles */
+    font-size: 18px;
+  }
+
+  select::before {
+    right: 5px; /* Movemos la flecha a la derecha */
+  }
+}
+
+.footer {
+  background: rgba(117, 114, 114, 0.027);
+  color: white;
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+}
+.footer a {
+  color: rgb(11, 182, 182);
+  text-decoration: none;
+}
+
+/*********************/
+
+/******MODAL*******/
+
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.modal-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.close {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  font-size: 30px;
+  font-weight: bold;
+  color: #fff;
+  cursor: pointer;
+}
+
+iframe {
+  width: 80%;
+  height: 80%;
+  border-radius: 8px;
+}
+
+@media screen and (max-width: 600px) {
+  iframe {
+    width: 90%;
+    height: 38%;
+  }
+
+  .close {
+    top: 150px;
+  }
+}
+
+/*****Btn**********/
+#myBtn {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 20px; /* Place the button at the bottom of the page */
+  right: 30px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: red; /* Set a background color */
+  color: white; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 0px; /* Some padding */
+  border-radius: 25px; /* Rounded corners */
+  font-size: 35px; /* Increase font size */
+  opacity: 40%;
+
+  height: 35px;
+}
+
+#myBtn:hover {
+  background-color: #555; /* Add a dark-grey background on hover */
+}
+
+#btn-vip {
+  background: #0000005b;
+  color: white;
+}
+/**********Scroll***************/
+::-webkit-scrollbar {
+  width: 0.7rem;
+  height: 0.7rem;
+}
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #00bcff, #007aff);
+}
+::-webkit-scrollbar-track {
+  background-color: #1e2747;
+}

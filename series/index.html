@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="series.css" />
+    <link rel="stylesheet" href="../nav.css">
+
+    <link
+      rel="shortcut icon"
+      href="https://xfrancool.github.io/imgweb/pop.ico"
+      type="image/x-icon"
+    />
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"
+    ></script>
+    <title>Series</title>
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+      integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+  </head>
+
+  <body class="container">
+    <div class="nav" id="navT"></div>
+
+    <div class="child-container">
+      <div class="head">
+        
+        <h1 id="title">Series🎬</h1>
+        <br />
+        <div>
+          <input id="search-input" type="text" placeholder="Buscar" />
+        </div>
+        <div id="categories">
+          <button class="category-button active" data-category="all">
+            Todas
+          </button>
+          <a href="../peliculas/index.html">
+            <button class="category-button" id="btn-vip">Peliculas</button></a
+          >
+
+          <button class="category-button" data-category="Comedia">
+            Comedia
+          </button>
+          <button class="category-button" data-category="Animación">
+            Animados
+          </button>
+
+          <button class="category-button" data-category="Terror">
+            Terror
+          </button>
+          <button class="category-button" data-category="Romance">
+            Romance
+          </button>
+          <button class="category-button" data-category="Otras">
+            Otras
+          </button>
+          <button class="category-button" data-category="Marvel">
+            Marvel
+          </button>
+        </button>
+        
+
+          <!--           <button class="category-button" data-category="series">Series</button> -->
+        </div>
+        <br />
+      </div>
+
+      <div id="cards-container" class="cards-container"></div>
+
+      <div id="pagination-container" class="pagination-container">
+        <button id="prev-button">&lt;</button>
+        <!-- Aquí se generarán los botones de paginación -->
+        <button id="next-button">&gt;</button>
+      </div>
+
+      <div class="modal" id="trailer-modal">
+        <div class="modal-content">
+          <span class="close" onclick="closeTrailer()">&times;</span>
+          <iframe
+            id="trailer-video"
+            src=""
+            frameborder="0"
+            allowfullscreen
+          ></iframe>
+        </div>
+      </div>
+
+      <button onclick="topFunction()" id="myBtn" title="Go to top" class="top">
+        <ion-icon name="caret-up-circle-outline"></ion-icon>
+      </button>
+    </div>
+    <div class="footer">
+      &copy; Derechos reservados | &nbsp;<a
+        href="https://react-portafolio16.netlify.app/"
+        target="_blank"
+        >Franeli</a
+      >
+    </div>
+    <script src="https://xfrancool.github.io/imgmov/series.js"></script>
+    <script src="../nav.js" defer></script>
+    <script src="../btn.js"></script>
+  </body>
+</html>
