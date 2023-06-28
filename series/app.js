@@ -52,3 +52,28 @@ function topFunction() {
   document.body.scrollTop = 0; // For Safari
   document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
 }
+
+//////////BTN////////////
+
+const btn = [
+  {
+    id: 1,
+  },
+];
+
+function Template(btn) {
+  return `
+    
+ 
+     
+      <button id="btn-galery">  <a href="../index.html">Regresar a galeria</a></button>
+ 
+  
+      `;
+}
+
+document.getElementById("btn").innerHTML = `
+              
+              ${btn.map(Template).join("")}
+              
+            `;

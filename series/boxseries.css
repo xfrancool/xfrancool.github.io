@@ -206,6 +206,7 @@ iframe {
   width: 80%;
   height: 80%;
   border-radius: 8px;
+  border: 1px solid rgb(4, 177, 4);
 }
 
 @media screen and (max-width: 600px) {
@@ -257,4 +258,21 @@ iframe {
 }
 ::-webkit-scrollbar-track {
   background-color: #1e2747;
+}
+
+/**********Btn************/
+
+#btn-galery {
+  padding: 3.5px;
+  background: black;
+  border: 1px solid rgb(197, 193, 193);
+  border-radius: 3px;
+
+  -webkit-box-shadow: -2px 0px 8px -1px rgba(255, 255, 255, 1);
+  -moz-box-shadow: -2px 0px 8px -1px rgba(255, 255, 255, 1);
+  box-shadow: -2px 0px 8px -1px rgba(255, 255, 255, 1);
+}
+#btn-galery a {
+  text-decoration: none;
+  color: white;
 }
