@@ -1,116 +1,115 @@
 [
   "Seleccionar Temporada",
   [],
+
+  "Temporada 1",
   [
-    "Temporada 1",
-    [
-      {
-        "cap": 1,
-        "link": "https://watchsb.com/e/au7ld98frwi7"
-      },
-      {
-        "cap": 2,
-        "link": "https://watchsb.com/e/2hpwu9ayi7us"
-      },
-      {
-        "cap": 3,
-        "link": "https://watchsb.com/e/bcm0mu25kbnp"
-      },
-      {
-        "cap": 4,
-        "link": "https://watchsb.com/e/59j30l8n16xa"
-      },
-      {
-        "cap": 5,
-        "link": "https://watchsb.com/e/x3jby8rx4r8w"
-      },
-      {
-        "cap": 6,
-        "link": "https://watchsb.com/e/qwz2bna43kgg"
-      },
-      {
-        "cap": 7,
-        "link": "https://watchsb.com/e/cq63te4fe5o9"
-      },
-      {
-        "cap": 8,
-        "link": "https://watchsb.com/e/xbq6zjrjsyd9"
-      },
-      {
-        "cap": 9,
-        "link": "https://watchsb.com/e/8bz7509s1ppv"
-      },
-      {
-        "cap": 10,
-        "link": "https://watchsb.com/e/t5tp96uhp3ez"
-      },
-      {
-        "cap": 11,
-        "link": "https://watchsb.com/e/i4zltk9s1zgg"
-      },
-      {
-        "cap": 12,
-        "link": "https://watchsb.com/e/0102kt7ho1zu"
-      },
-      {
-        "cap": 13,
-        "link": "https://watchsb.com/e/szgibkp1diwc"
-      }
-    ],
-    "Temporada 2",
-    [
-      {
-        "cap": 1,
-        "link": "https://watchsb.com/e/in0bqn080kbt"
-      },
-      {
-        "cap": 2,
-        "link": "https://watchsb.com/e/11sz96pswokf"
-      },
-      {
-        "cap": 3,
-        "link": "https://watchsb.com/e/mgctbciylvmu"
-      },
-      {
-        "cap": 4,
-        "link": "https://watchsb.com/e/8rmetoftnbjy"
-      },
-      {
-        "cap": 5,
-        "link": "https://watchsb.com/e/7hcyzlsq1m7g"
-      },
-      {
-        "cap": 6,
-        "link": "https://watchsb.com/e/h84jszmfy6o3"
-      },
-      {
-        "cap": 7,
-        "link": "https://watchsb.com/e/3ikmivffuzfg"
-      },
-      {
-        "cap": 8,
-        "link": "https://watchsb.com/e/wdtveze0uitw"
-      },
-      {
-        "cap": 9,
-        "link": "https://watchsb.com/e/2ip24k68l5nd"
-      },
-      {
-        "cap": 10,
-        "link": "https://watchsb.com/e/goxuln9wnot6"
-      },
-      {
-        "cap": 11,
-        "link": "https://watchsb.com/e/0dense97zup6"
-      },
-      {
-        "cap": 12,
-        "link": "https://watchsb.com/e/d05f9bcup054"
-      },
-      {
-        "cap": 13,
-        "link": "https://watchsb.com/e/h5l1e3nw74gg"
-      }
-    ]
+    {
+      "cap": 1,
+      "link": "https://watchsb.com/e/au7ld98frwi7"
+    },
+    {
+      "cap": 2,
+      "link": "https://watchsb.com/e/2hpwu9ayi7us"
+    },
+    {
+      "cap": 3,
+      "link": "https://watchsb.com/e/bcm0mu25kbnp"
+    },
+    {
+      "cap": 4,
+      "link": "https://watchsb.com/e/59j30l8n16xa"
+    },
+    {
+      "cap": 5,
+      "link": "https://watchsb.com/e/x3jby8rx4r8w"
+    },
+    {
+      "cap": 6,
+      "link": "https://watchsb.com/e/qwz2bna43kgg"
+    },
+    {
+      "cap": 7,
+      "link": "https://watchsb.com/e/cq63te4fe5o9"
+    },
+    {
+      "cap": 8,
+      "link": "https://watchsb.com/e/xbq6zjrjsyd9"
+    },
+    {
+      "cap": 9,
+      "link": "https://watchsb.com/e/8bz7509s1ppv"
+    },
+    {
+      "cap": 10,
+      "link": "https://watchsb.com/e/t5tp96uhp3ez"
+    },
+    {
+      "cap": 11,
+      "link": "https://watchsb.com/e/i4zltk9s1zgg"
+    },
+    {
+      "cap": 12,
+      "link": "https://watchsb.com/e/0102kt7ho1zu"
+    },
+    {
+      "cap": 13,
+      "link": "https://watchsb.com/e/szgibkp1diwc"
+    }
+  ],
+  "Temporada 2",
+  [
+    {
+      "cap": 1,
+      "link": "https://watchsb.com/e/in0bqn080kbt"
+    },
+    {
+      "cap": 2,
+      "link": "https://watchsb.com/e/11sz96pswokf"
+    },
+    {
+      "cap": 3,
+      "link": "https://watchsb.com/e/mgctbciylvmu"
+    },
+    {
+      "cap": 4,
+      "link": "https://watchsb.com/e/8rmetoftnbjy"
+    },
+    {
+      "cap": 5,
+      "link": "https://watchsb.com/e/7hcyzlsq1m7g"
+    },
+    {
+      "cap": 6,
+      "link": "https://watchsb.com/e/h84jszmfy6o3"
+    },
+    {
+      "cap": 7,
+      "link": "https://watchsb.com/e/3ikmivffuzfg"
+    },
+    {
+      "cap": 8,
+      "link": "https://watchsb.com/e/wdtveze0uitw"
+    },
+    {
+      "cap": 9,
+      "link": "https://watchsb.com/e/2ip24k68l5nd"
+    },
+    {
+      "cap": 10,
+      "link": "https://watchsb.com/e/goxuln9wnot6"
+    },
+    {
+      "cap": 11,
+      "link": "https://watchsb.com/e/0dense97zup6"
+    },
+    {
+      "cap": 12,
+      "link": "https://watchsb.com/e/d05f9bcup054"
+    },
+    {
+      "cap": 13,
+      "link": "https://watchsb.com/e/h5l1e3nw74gg"
+    }
   ]
 ]

@@ -1,49 +1,48 @@
 [
   "Seleccionar Temporada",
   [],
+
+  "Temporada 1",
   [
-    "Temporada 1",
-    [
-      {
-        "cap": 1,
-        "link": "https://watchsb.com/e/i3k4wl3hhzf9"
-      },
-      {
-        "cap": 2,
-        "link": "https://watchsb.com/e/427owhra09z8"
-      },
-      {
-        "cap": 3,
-        "link": "https://watchsb.com/e/x9msfe8u6mlg"
-      },
-      {
-        "cap": 4,
-        "link": "https://watchsb.com/e/g40ww5vdyy95"
-      },
-      {
-        "cap": 5,
-        "link": "https://watchsb.com/e/xwjrb6rvmv29"
-      },
-      {
-        "cap": 6,
-        "link": "https://watchsb.com/e/enklytlp9kan"
-      },
-      {
-        "cap": 7,
-        "link": "https://watchsb.com/e/dl8mq29e200s"
-      },
-      {
-        "cap": 8,
-        "link": "https://watchsb.com/e/s5idtnxqbqww"
-      },
-      {
-        "cap": 9,
-        "link": "https://watchsb.com/e/qr98xjf1ekll"
-      },
-      {
-        "cap": 10,
-        "link": "https://watchsb.com/e/c6bceosbakam"
-      }
-    ]
+    {
+      "cap": 1,
+      "link": "https://watchsb.com/e/i3k4wl3hhzf9"
+    },
+    {
+      "cap": 2,
+      "link": "https://watchsb.com/e/427owhra09z8"
+    },
+    {
+      "cap": 3,
+      "link": "https://watchsb.com/e/x9msfe8u6mlg"
+    },
+    {
+      "cap": 4,
+      "link": "https://watchsb.com/e/g40ww5vdyy95"
+    },
+    {
+      "cap": 5,
+      "link": "https://watchsb.com/e/xwjrb6rvmv29"
+    },
+    {
+      "cap": 6,
+      "link": "https://watchsb.com/e/enklytlp9kan"
+    },
+    {
+      "cap": 7,
+      "link": "https://watchsb.com/e/dl8mq29e200s"
+    },
+    {
+      "cap": 8,
+      "link": "https://watchsb.com/e/s5idtnxqbqww"
+    },
+    {
+      "cap": 9,
+      "link": "https://watchsb.com/e/qr98xjf1ekll"
+    },
+    {
+      "cap": 10,
+      "link": "https://watchsb.com/e/c6bceosbakam"
+    }
   ]
 ]

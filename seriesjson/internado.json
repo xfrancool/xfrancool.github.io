@@ -1,103 +1,102 @@
 [
   "Seleccionar Temporada",
   [],
+
+  "Temporada 1",
   [
-    "Temporada 1",
-    [
-      {
-        "cap": 1,
-        "link": "https://watchsb.com/e/hlwo7bcqhgzc"
-      },
-      {
-        "cap": 2,
-        "link": "https://watchsb.com/e/fqhieeziiwa3"
-      },
-      {
-        "cap": 3,
-        "link": "https://watchsb.com/e/1cbrsgnt3iel"
-      },
-      {
-        "cap": 4,
-        "link": "https://watchsb.com/e/ryw89902x576"
-      },
-      {
-        "cap": 5,
-        "link": "https://watchsb.com/e/qcnkzgelc67k"
-      },
-      {
-        "cap": 6,
-        "link": "https://watchsb.com/e/cxi8pb9jb8ty"
-      },
-      {
-        "cap": 7,
-        "link": "https://watchsb.com/e/qzealy0aiza8"
-      },
-      {
-        "cap": 8,
-        "link": "https://watchsb.com/e/5orggeoz5ndm"
-      }
-    ],
-    "Temporada 2",
-    [
-      {
-        "cap": 1,
-        "link": "https://watchsb.com/e/s8anncail2br"
-      },
-      {
-        "cap": 2,
-        "link": "https://watchsb.com/e/rte7hwwe0ryn"
-      },
-      {
-        "cap": 3,
-        "link": "https://watchsb.com/e/us7zrqavzfpe"
-      },
-      {
-        "cap": 4,
-        "link": "https://watchsb.com/e/zeuf92wf791q"
-      },
-      {
-        "cap": 5,
-        "link": "https://watchsb.com/e/gg68qv5e31f5"
-      },
-      {
-        "cap": 6,
-        "link": "https://watchsb.com/e/c3t71mleli3c"
-      },
-      {
-        "cap": 7,
-        "link": "https://watchsb.com/e/vqsbfl8m8vzy"
-      },
-      {
-        "cap": 8,
-        "link": "https://watchsb.com/e/5ta2fudj5k1b"
-      }
-    ],
-    "Temporada 3",
-    [
-      {
-        "cap": 1,
-        "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f6igrknmoLNXwFzru4L47rLcSvHmNIJU0fcaCx9thknS0ehxTXs5_ERO5CTITY7S7Ctqfbn0.UFOFfmLt.1mZt7Q5tcg2CoxqsKZnT2oiB4G"
-      },
-      {
-        "cap": 2,
-        "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f103LIcHuQdVNh1A86tW6flXU0u83w1X3B9nOtlzE6dcYpoypmxbdmbp.ZhiMq_uZYJ3r6B4cvtyfFBk8yK46ZwLEkoSPm4FIlDE0wvQaLdW"
-      },
-      {
-        "cap": 3,
-        "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f2JWToWyIqKwP8t8YMxBmnT1CfQ0lmeV6t78UN7bsIiCfl3kSUqe6JQiL81BrjdRfaEUpUu2NyDshVvxcpS2a4u.poPu2LGXjDn_LnWrZu5w"
-      },
-      {
-        "cap": 4,
-        "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f_F1ySUnmpKvqZ5n8TfyUs_ta.KeWHCRcVtrQK5lt6_dF_yQ1uBEw1va3tWcHTcgp42WdqqurQqKnop.9eiFM_eMwxbQQ0HNSg2r4hYpyJcg"
-      },
-      {
-        "cap": 5,
-        "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f_SiUjZSto4VHLXr8Qb1vpUaGR1Vta..lTR4K9HGg8_MPtodyG.8u_2xdmlHyjknNf1r6jnxTY_MX_UQ3zbIvBof.XWz.eTtCccu3UgdV_ya"
-      },
-      {
-        "cap": 6,
-        "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3fwReHt0IOXGBuO7jQ7K76sKrAfXJ79KoZnkAXX3x_twFf7TS.KyNkpH5w1.Mm76G0jWjB4vKNi_4LqY0Lj4y1bSW3oBltFw.wOYRKI.gJX8V"
-      }
-    ]
+    {
+      "cap": 1,
+      "link": "https://watchsb.com/e/hlwo7bcqhgzc"
+    },
+    {
+      "cap": 2,
+      "link": "https://watchsb.com/e/fqhieeziiwa3"
+    },
+    {
+      "cap": 3,
+      "link": "https://watchsb.com/e/1cbrsgnt3iel"
+    },
+    {
+      "cap": 4,
+      "link": "https://watchsb.com/e/ryw89902x576"
+    },
+    {
+      "cap": 5,
+      "link": "https://watchsb.com/e/qcnkzgelc67k"
+    },
+    {
+      "cap": 6,
+      "link": "https://watchsb.com/e/cxi8pb9jb8ty"
+    },
+    {
+      "cap": 7,
+      "link": "https://watchsb.com/e/qzealy0aiza8"
+    },
+    {
+      "cap": 8,
+      "link": "https://watchsb.com/e/5orggeoz5ndm"
+    }
+  ],
+  "Temporada 2",
+  [
+    {
+      "cap": 1,
+      "link": "https://watchsb.com/e/s8anncail2br"
+    },
+    {
+      "cap": 2,
+      "link": "https://watchsb.com/e/rte7hwwe0ryn"
+    },
+    {
+      "cap": 3,
+      "link": "https://watchsb.com/e/us7zrqavzfpe"
+    },
+    {
+      "cap": 4,
+      "link": "https://watchsb.com/e/zeuf92wf791q"
+    },
+    {
+      "cap": 5,
+      "link": "https://watchsb.com/e/gg68qv5e31f5"
+    },
+    {
+      "cap": 6,
+      "link": "https://watchsb.com/e/c3t71mleli3c"
+    },
+    {
+      "cap": 7,
+      "link": "https://watchsb.com/e/vqsbfl8m8vzy"
+    },
+    {
+      "cap": 8,
+      "link": "https://watchsb.com/e/5ta2fudj5k1b"
+    }
+  ],
+  "Temporada 3",
+  [
+    {
+      "cap": 1,
+      "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f6igrknmoLNXwFzru4L47rLcSvHmNIJU0fcaCx9thknS0ehxTXs5_ERO5CTITY7S7Ctqfbn0.UFOFfmLt.1mZt7Q5tcg2CoxqsKZnT2oiB4G"
+    },
+    {
+      "cap": 2,
+      "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f103LIcHuQdVNh1A86tW6flXU0u83w1X3B9nOtlzE6dcYpoypmxbdmbp.ZhiMq_uZYJ3r6B4cvtyfFBk8yK46ZwLEkoSPm4FIlDE0wvQaLdW"
+    },
+    {
+      "cap": 3,
+      "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f2JWToWyIqKwP8t8YMxBmnT1CfQ0lmeV6t78UN7bsIiCfl3kSUqe6JQiL81BrjdRfaEUpUu2NyDshVvxcpS2a4u.poPu2LGXjDn_LnWrZu5w"
+    },
+    {
+      "cap": 4,
+      "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f_F1ySUnmpKvqZ5n8TfyUs_ta.KeWHCRcVtrQK5lt6_dF_yQ1uBEw1va3tWcHTcgp42WdqqurQqKnop.9eiFM_eMwxbQQ0HNSg2r4hYpyJcg"
+    },
+    {
+      "cap": 5,
+      "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f_SiUjZSto4VHLXr8Qb1vpUaGR1Vta..lTR4K9HGg8_MPtodyG.8u_2xdmlHyjknNf1r6jnxTY_MX_UQ3zbIvBof.XWz.eTtCccu3UgdV_ya"
+    },
+    {
+      "cap": 6,
+      "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3fwReHt0IOXGBuO7jQ7K76sKrAfXJ79KoZnkAXX3x_twFf7TS.KyNkpH5w1.Mm76G0jWjB4vKNi_4LqY0Lj4y1bSW3oBltFw.wOYRKI.gJX8V"
+    }
   ]
 ]
