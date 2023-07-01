@@ -1,0 +1,10 @@
+@echo off
+setlocal enabledelayedexpansion
+
+set "suffixList=leyyorden justified insidejob looneytunes servant bmf criada experiencia simuladores parasyte witcher warrior two sheldon drew vigilantes maisel fire titanes cobrakai"
+
+for %%a in (%suffixList%) do (
+  echo nul > "%%a.js"
+)
+
+endlocal
