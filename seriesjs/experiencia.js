@@ -129,7 +129,7 @@ const _0x4982f9 = _0x4fa9;
     });
 function _0x1cb8() {
   const _0x5b1351 = [
-    "agentecarter",
+    "experiencia",
     "change",
     "appendChild",
     "color",
@@ -173,7 +173,7 @@ function _0x1cb8() {
     "link",
     "6859643dmsWdL",
     "2649500ZxswFF",
-    "https://xfrancool.github.io/seriesjson/agentecarter.json",
+    "https://xfrancool.github.io/seriesjson/experiencia.json",
   ];
   _0x1cb8 = function () {
     return _0x5b1351;
