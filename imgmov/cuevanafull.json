@@ -1,57 +1,477 @@
 [
   {
-    "name": "RoboCop",
-    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F2ej8wIzOYBgWQ5XlpeFulnkHAoI.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3fwsyHwZvFgFSsUBkcuQrRgVhfCZbu9x96UfAxNYELwCxlBWFEr8NRYfDd.xlFZUbnPxT7cXMP_A8sbrQ0ykbB0aYV4hYThTDvLyuWJdCsoaD",
-    "catego": " Ciencia ficción, Acción, Crimen, Suspenso",
-    "voto": "5.84/ 10",
-    "time": "1h 53min",
-    "anio": "2014"
+    "name": "Los pasajeros de la noche",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FyvBG0VBp65uXn1NzWbNNDlmYYmM.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/eok6av0o88qj",
+    "catego": " Drama",
+    "voto": "7.05/ 10",
+    "time": "1h 51min",
+    "anio": "2022"
   },
   {
-    "name": "Little Bone Lodge",
-    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F1m0Dp0mvcIkXaNIt3mLxfMclG6O.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3fzxspEmGnykFc.6yfU2DBVtcRVpN2VQ946JT0kXcMyqJmzVdnBrTomJNHFM4TCuDXEM8TRPq_favxsfxQx8mOEzJ6X8VjB2Mb4xZ0Xfgh9EE",
-    "catego": " Terror, Crimen, Suspenso",
-    "voto": "7.9/ 10",
+    "name": "El niño y el tigre",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fg7LfZhnN96Zs2xv8c0PeaExU1yw.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f24WmbXmhqzWvANgeH9wygw8HJn5WwR5QpGBjT0xqjdAh5lO.Fk3tuKXFh1b4jlmfeuuNZcGqqTpVenJRlQC1X4SRMln2Naq7v3b.8auWxtW",
+    "catego": " Familia, Aventura",
+    "voto": "6.73/ 10",
     "time": "1h 33min",
-    "anio": "2023"
+    "anio": "2022"
   },
   {
-    "name": "Efecto nocebo",
-    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FbdjdZPgCRFqa0cgXLz8mDsUtiqP.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f3r_uH6rx.WH0jNUL7plz0EfZm8Q2zEIXhCVpBqdxYMe12qJ4r9ixkKhXEsrGMejSUtP_DfwEG8qnhB3am74K_BX6jMSiRsQZMtdUhB.vTuL",
-    "catego": " Misterio, Suspenso, Terror",
-    "voto": "6.12/ 10",
+    "name": "Una Pasión Inesperada",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FLreVro0QYxDLYXScnsQVNExWxy.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3fzc92CRMXAGPeRqPwAbvmNAyePPRNVuFNrX04J22IPbjgozNo8Q0NodiuRcbMnkdrR9qSI0XvZsqGbCe1xU0P3o9SHMwzmGLc0tPgHsllHjq",
+    "catego": " Drama",
+    "voto": "6/ 10",
+    "time": "1h 56min",
+    "anio": "2022"
+  },
+
+  {
+    "name": "Nothing is Impossible",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F2QNqDa8aKylMzSHDWHbhPVxDgla.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/ewrl76pl1mzc",
+    "catego": " Drama, Romance",
+    "voto": "6.1/ 10",
+    "time": "1h 46min",
+    "anio": "2022"
+  },
+  {
+    "name": "Meteorito: Primer Impacto",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FiNTzcdzV8PkfPTHVpNvomohYfHH.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f2_AHdfyXq0OUJIJNPC9NkphMLNUWHnJFdlCWlxDOjV42FNWPqHOFWMnpeM2OZPkyKbh_grNpQ1SpPXCSjjWTnutG916Z.L1pZFh71JevTvx",
+    "catego": " Acción, Suspenso",
+    "voto": "3/ 10",
+    "time": "1h 18min",
+    "anio": "2022"
+  },
+  {
+    "name": "Jesse James Unchained",
+    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FloY0dsFGpmEumKl6zvmYCW3dyFR.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/18lus9eh71d5",
+    "catego": " Western, Acción",
+    "voto": "/ 10",
+    "time": "1h 15min",
+    "anio": "2022"
+  },
+  {
+    "name": "A la de tres",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F66XN5tgqPKT1xhQytXP74tRl9uS.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/b1vsqi6iucfz",
+    "catego": " Comedia, Drama",
+    "voto": "6.6/ 10",
+    "time": "1h 25min",
+    "anio": "2022"
+  },
+  {
+    "name": "Blackbird",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FaOI5BmzZDKdkbXoRKTxznbzUerm.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/ze8zvi9yy0w6",
+    "catego": " Crimen, Acción, Romance",
+    "voto": "3.4/ 10",
+    "time": "1h 28min",
+    "anio": "2022"
+  },
+  {
+    "name": "Gold Run",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3o9KmtrAvQxEr6GgkKvpFWMwvOA.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/3wibm34mkxic",
+    "catego": " Guerra, Acción, Aventura, Suspenso",
+    "voto": "6.16/ 10",
+    "time": "1h 57min",
+    "anio": "2022"
+  },
+  {
+    "name": "H.P. Lovecraft’s Witch House",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F5KmscR49WkmuPJKjmK4OUmsRn5C.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/agplsqsvqeh1",
+    "catego": " Terror",
+    "voto": "5.1/ 10",
+    "time": "1h 22min",
+    "anio": "2022"
+  },
+  {
+    "name": "Kingdom of the Dinosaurs",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Feqtg626WODpDVMcQ4xbYzGYAbRW.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/n9rr61czhui2",
+    "catego": " Terror, Acción, Ciencia ficción",
+    "voto": "3.8/ 10",
+    "time": "1h 20min",
+    "anio": "2022"
+  },
+  {
+    "name": "Wrath: A Seven Deadly Sins Story",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FjTnbZazSO57DXIHI7UzIkhYRCcz.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/0ywqagno76lq",
+    "catego": " Suspenso, Misterio, Romance",
+    "voto": "8.2/ 10",
+    "time": "1h 25min",
+    "anio": "2022"
+  },
+  {
+    "name": "Creatures of Necessity",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F82bbuVzKQIihJaMZJRMH2VZwv8x.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/08styl4gma5z",
+    "catego": " Crimen, Comedia, Suspenso",
+    "voto": "4/ 10",
+    "time": "1h 33min",
+    "anio": "2022"
+  },
+  {
+    "name": "Don't Fuck in the Woods 2",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FA2JJzUkeTA9zHYJRkds2sCMai4D.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/vt86gb8f58oo",
+    "catego": " Terror",
+    "voto": "5.1/ 10",
+    "time": "1h 27min",
+    "anio": "2022"
+  },
+
+  {
+    "name": "El cuarto pasajero",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FnJNxJdD5F3cAXglCtwjumTB5tl7.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3fx4ko_yz7zzmGZMdK0KsO.vQC7BHASVOQVQD40zvEeqf.rs9j3SWPwpq8RdDWKngVc_xhpUX.WauvLTve0xWTLsAArhuzFX3oPmrxpgk8RSM",
+    "catego": " Comedia",
+    "voto": "6.6/ 10",
+    "time": "1h 35min",
+    "anio": "2022"
+  },
+  {
+    "name": "Control: El poder de la mente",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FlwPaftuWFaE08Y4ft1oJdqpcIqX.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3fyLYQBS3spyoV1rHYujzZVUc2NXqLHMqakCoiXreXLUBYdUFEMi0IBo5HtRYX7efa.3g6KmpQR.BHs_90C_puXjBQLXOWK1tvrzfoU5VDL1v",
+    "catego": " Ciencia ficción, Suspenso, Misterio",
+    "voto": "5.6/ 10",
+    "time": "1h 48min",
+    "anio": "2022"
+  },
+  {
+    "name": "What We Do Next",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FyMWYiZYDz2QRbdIwpPahoMQv0Ig.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/07v26rj1ldkl",
+    "catego": " Drama, Suspenso, Crimen",
+    "voto": "6/ 10",
+    "time": "1h 17min",
+    "anio": "2022"
+  },
+  {
+    "name": "Noviembre: París atacado",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FoBBgyAKgGJjDl8kGHALsylINGzM.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f8PkjBa0fZNg2.SlppoaknHQiR8Bgo7CZK.OXowBl4oW6c1ws0cQ15_x9m4U4hFHw6hm_B.p0VSr1sAYty4g_QndH2OWaFc3lmGWGVyjmOGp",
+    "catego": " Suspenso, Crimen, Drama",
+    "voto": "7.24/ 10",
+    "time": "1h 46min",
+    "anio": "2022"
+  },
+  {
+    "name": "Robo Entre Ladrones",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fl76aJTcLlx8pUiqQd2CIadiEfpj.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/w4j13hj8uxti",
+    "catego": " Acción, Suspenso, Crimen",
+    "voto": "6.1/ 10",
+    "time": "1h 33min",
+    "anio": "2022"
+  },
+
+  {
+    "name": "No tendrás mi odio",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FyWeQDjAhZBz3uxO0oRVhm0s2EAS.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/butxyp1sxu2r",
+    "catego": " Drama, Historia",
+    "voto": "5.61/ 10",
     "time": "1h 37min",
     "anio": "2022"
   },
   {
-    "name": "Booty Call",
-    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fx8S5bwSMtoANB0gWqAj60PBFPeW.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/4oc2uy69n65i",
-    "catego": " Comedia",
-    "voto": "5.3/ 10",
-    "time": "1h 19min",
-    "anio": "1997"
+    "name": "Nightmare Neighborhood Moms",
+    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FzS7XPQgMoh0xtsOqFvzdpLeOHmL.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/c68mn6x5m01l",
+    "catego": " Suspenso",
+    "voto": "6.2/ 10",
+    "time": "",
+    "anio": "2022"
   },
   {
-    "name": "Maquíllame Otra Vez",
-    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FhAKV3WLdHOL313IImAoR2GFWC1W.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3fzUPv7N0wM6T.zW66kqF6kCX2Eo8DAKQ1uFN9NqZ1EiNSLEePpFL17y2AUGd2k9Z.nonLOflzrjLygKu.4E_TC7JzRTRHvHmdf_ioGeBgBHB",
-    "catego": " Comedia, Romance, Drama",
-    "voto": "2/ 10",
-    "time": "1h 21min",
+    "name": "Intenciones Crueles",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3Yz5zYXZrlx9UWbjlaEaJuyAsNY.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f2QOc144fDyuOtdpblC1bqZFekpOWLd98O8ylmk3nXVBIqZ8Eqi45F6YYKTzJbSdaJc2tnFZByk2fFpyk.rix3U6i3HzdPO5oBlJZmYM3xzY",
+    "catego": " Misterio, Suspenso, Drama",
+    "voto": "6.04/ 10",
+    "time": "1h 24min",
+    "anio": "2022"
+  },
+  {
+    "name": "El Cinturón Negro: La Verdadera Historia de Fernando Tererê",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F6dTKUnmJ8zndMbvo0qZSAzliSJC.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f7uwXgaUedQimL_DuH0KX.4o5tR4bM_sMrWKuKxk0lACVXag_OKRD_3yrUGu8WyzOAy1RE7UVjDet0AnS7OdgcgNaCBnAB_35flu3DHO54a9",
+    "catego": " Drama",
+    "voto": "5.7/ 10",
+    "time": "0h 59min",
+    "anio": "2022"
+  },
+  {
+    "name": "97 Minutos",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FeYGyR8xF8emNs9AJAJSyLXu56kR.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/igvh7nmk6q68",
+    "catego": " Suspenso, Acción",
+    "voto": "3.2/ 10",
+    "time": "1h 33min",
     "anio": "2023"
   },
   {
-    "name": "Finde",
-    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F2MYEeM80Iy5MH81PqaOqsnQga7k.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f9XD5UikC8KTPyoEv8GqEIj.u4PiEs78lswqxi7vVxoTad0J2ZL3Tlaw9S9iRm7UbaTs_J7MagNnpWADUGsLIws1zRQi1VqDWrIlXs8VIYbA",
-    "catego": " Comedia, Terror, Suspenso",
-    "voto": "7.7/ 10",
+    "name": "Jumanji: El siguiente nivel",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fa8R5yw0vShsgHSjeikVcPdkaWAW.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/bi50r0g24m49",
+    "catego": " Aventura, Comedia, Fantasía",
+    "voto": "6.94/ 10",
+    "time": "2h 03min",
+    "anio": "2019"
+  },
+  {
+    "name": "The Siege",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FhVh4hMzkXNLnScudbid6hDvjMPk.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/q6rbjb0zrczj",
+    "catego": " Acción, Suspenso",
+    "voto": "5/ 10",
+    "time": "1h 37min",
+    "anio": "2023"
+  },
+  {
+    "name": "Wolke unterm Dach",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FmDa2hsTOME8bwfWEok4PWxXSXgd.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/lbiqhacocho2",
+    "catego": " Drama",
+    "voto": "6.5/ 10",
+    "time": "1h 47min",
+    "anio": "2022"
+  },
+  {
+    "name": "Riot for the dove",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FdC6AVKkpI1NYp4TTe91fbdNAQ8A.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/ctr0lsgj5wm4",
+    "catego": " Acción",
+    "voto": "2/ 10",
+    "time": "2022",
+    "anio": "2022"
+  },
+
+  {
+    "name": "Swallowed",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FlfTtTAjkE2rw91HRSdJsHnHYGmS.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/yijr947x72ie",
+    "catego": " Terror, Suspenso",
+    "voto": "6.3/ 10",
+    "time": "1h 35min",
+    "anio": "2022"
+  },
+  {
+    "name": "Prisoner of Love",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FyuV18ifZBy5BkLAn8H7DJqPCTSs.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/oen08176bz7y",
+    "catego": " Suspenso, Drama",
+    "voto": "5.9/ 10",
+    "time": "1h 25min",
+    "anio": "2022"
+  },
+  {
+    "name": "Vidas en juego",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F6oSbh0gggFU711PkFQffyx2UqKk.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f0bMt3DddNsZet67ANQe0TEAxJ4cxREVoe3F4518X1X6CGFUINYP9HoAGfywF8BsWRbhufR.d3VWN35CZ_eU2CGNKYdZTeO7KQwlaqlUDWcP",
+    "catego": " Suspenso, Drama",
+    "voto": "6.5/ 10",
+    "time": "1h 52min",
+    "anio": "2022"
+  },
+  {
+    "name": "AFAM",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F4ZEQnd2Ar5S0ETnFL4dSenCVpi6.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/9htsghmlts5e",
+    "catego": " Comedia",
+    "voto": "2/ 10",
+    "time": "1h 57min",
+    "anio": "2023"
+  },
+  {
+    "name": "You’re Killing Me",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FtAnwQKYkRlXS6Lgaq5XQ7JqS58x.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/xswwdq5rzrv4",
+    "catego": " Terror, Suspenso, Acción, Misterio",
+    "voto": "6/ 10",
+    "time": "1h 35min",
+    "anio": "2023"
+  },
+  {
+    "name": "Mojave Diamonds",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FeauJLqzFy53KR86VNXnzz3wsD6w.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/ueug16ewfxol",
+    "catego": " Acción, Crimen, Suspenso",
+    "voto": "5.8/ 10",
+    "time": "1h 40min",
+    "anio": "2023"
+  },
+  {
+    "name": "The Devil Comes at Night",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F6QIeZuKirT4cXVpW7ilVZmcRmdK.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/i3g5faxskqv1",
+    "catego": " Terror",
+    "voto": "6/ 10",
+    "time": "1h 20min",
+    "anio": "2023"
+  },
+  {
+    "name": "Una Navidad inesperada",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F6nmXiyMUvAI0SrzZqKSHOcK4pEh.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f1wD7IIQkC8.zNrolf4LS3A8oN3__DI3lA2x7PBxZ_3dL5z70jw8o7oS.ZxWrVjV6cnz92_Lp8_FMGH3qcdduCFbvgr83g991jD7n65vwtJG",
+    "catego": " Comedia, Romance",
+    "voto": "6.7/ 10",
     "time": "1h 26min",
-    "anio": "2021"
+    "anio": "2022"
+  },
+  {
+    "name": "The Unsettling",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F1z9mh5HWitfRSVXs25NmTakJChq.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/ci37r0rigag1",
+    "catego": " Suspenso, Misterio, Terror",
+    "voto": "6/ 10",
+    "time": "1h 33min",
+    "anio": "2022"
+  },
+  {
+    "name": "Las fiestas",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FwPy5D0Eqy0jCtFcU6WuNFBV3hOS.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3fzz8rqddke1OB6y323suG7Laj4pCfcuDgDk02_f0.pXbiWakEScRUGJ420_V5s9cTxB9ABjk2b79PqeMQu8kfcPIZuoDNq5OFJIxa4SKt_D2",
+    "catego": " Comedia, Drama",
+    "voto": "6/ 10",
+    "time": "1h 29min",
+    "anio": "2022"
+  },
+  {
+    "name": "The Social Experiment",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F4OxCa8ybFLyh1pgX7181DU4nBHj.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/pgdj7eackn53",
+    "catego": " Ciencia ficción, Suspenso",
+    "voto": "5.5/ 10",
+    "time": "1h 37min",
+    "anio": "2022"
+  },
+  {
+    "name": "Tiffany the Doll",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FwGvhWCrbo7R9zCgB56hUdgiKDHK.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/9m8wao0dlnwd",
+    "catego": " Terror, Ciencia ficción, Comedia",
+    "voto": "1h 13min/ 10",
+    "time": "2022",
+    "anio": "2022"
+  },
+  {
+    "name": "C.I.Ape",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FoaW0zqkYJxgdYdgykKY89jr118X.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3fyLBQ58QyxIBL2yBTSq4TZesZUDfqg.CAQnONQFJmQjgdf431naB1mp3ETVxj9GK_OAsTCKao5OrvRm0JlUyWQYbGT2AmtCdaRxRq_mgwlcB",
+    "catego": " Comedia, Familia, Acción, Ciencia ficción",
+    "voto": "6.2/ 10",
+    "time": "1h 22min",
+    "anio": "2022"
+  },
+  {
+    "name": "A todo tren 2: Sí, les ha pasado otra vez",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F998jFDIyVPanolKlKLT5iJCjdDb.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/x11oj5ibx7gi",
+    "catego": " Comedia, Familia",
+    "voto": "6.2/ 10",
+    "time": "1h 24min",
+    "anio": "2022"
+  },
+  {
+    "name": "Mantícora",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3VnI5ab8uIfg1nF65dhJG8t8fKn.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/hbl2dpc98xkr",
+    "catego": " Drama, Suspenso",
+    "voto": "6.97/ 10",
+    "time": "1h 55min",
+    "anio": "2022"
+  },
+  {
+    "name": "American Raiders Battle Fire",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FaNC9YAOFrsRAHJB2jv5LHbIJ02T.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/4krp9vvcmj5e",
+    "catego": " Acción, Aventura, Ciencia ficción",
+    "voto": "2h 17min/ 10",
+    "time": "00",
+    "anio": "2022"
+  },
+  {
+    "name": "El Juego De La Vida",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fk4EVch68Ap9UE8OtaoOAtL6t3IO.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f2p44VxhkCH2PVexClN.nSvQS6gyvT_uVh9Mdk5gJjYt81IhUwJZY9szUb45Wqw66F40kDH3Hl5XJfOxUMDlfi0r1ZLdrZ5kaGu6XdQDxlW2",
+    "catego": " Drama",
+    "voto": "6.2/ 10",
+    "time": "1h 53min",
+    "anio": "2022"
+  },
+  {
+    "name": "Lieber Kurt",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F8eJ4wo2wG2fvp7tSMC7PdUDE5p7.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/jqiygc5jnrot",
+    "catego": " Comedia, Drama",
+    "voto": "6.3/ 10",
+    "time": "2h 16min",
+    "anio": "2022"
+  },
+  {
+    "name": "No mires a los ojos",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F8YHnuK9dowN47XAgSry4EtIuOBZ.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/cy3ydqzjqgdr",
+    "catego": " Drama, Suspenso",
+    "voto": "6.35/ 10",
+    "time": "1h 42min",
+    "anio": "2022"
+  },
+  {
+    "name": "American Western",
+    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FiKU3jo2HDtVObF5CrUkz1z62Ikd.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/hmg3qgplqfud",
+    "catego": " Western",
+    "voto": "/ 10",
+    "time": "",
+    "anio": "2022"
+  },
+  {
+    "name": "The Stepmother 2",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Frc0WG3JuSGLIifIGkzL5wXGU4Vp.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/r9jfl956dwqb",
+    "catego": " Suspenso",
+    "voto": "6/ 10",
+    "time": "1h 48min",
+    "anio": "2022"
+  },
+
+  {
+    "name": "My Sailor, My Love",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FybrcBgUV0riIymvOIEYMiLmkFcH.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/7ykl6keq9psx",
+    "catego": " Drama, Romance",
+    "voto": "6.2/ 10",
+    "time": "1h 42min",
+    "anio": "2022"
+  },
+
+  {
+    "name": "Four Samosas",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F56H4FOkjZpLSTId6HFVfRZs6e43.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/klc1xmmkmwlt",
+    "catego": " Acción, Comedia, Romance",
+    "voto": "6.8/ 10",
+    "time": "1h 20min",
+    "anio": "2022"
+  },
+  {
+    "name": "Juego del amor: El tiempo es ahora 2",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F4Dfm8TQV58ajQKQOBZh9XsCVb1q.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f7PYYl4yeWBgSgD3nxVXpZLy4USKK6enE9zVYmG6Lfd6KYX6M6zhRziS.qSdkJyPM7KZqrjzXprlnZXj1I.hxUjCYDACyfSzC1zd3HCTfIM4",
+    "catego": " Romance, Drama",
+    "voto": "6.42/ 10",
+    "time": "1h 31min",
+    "anio": "2022"
   },
   {
     "name": "The Plains",
@@ -63,12 +483,30 @@
     "anio": "2022"
   },
   {
-    "name": "La niña tranquila",
-    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fhrq5A54Zb2y2MfHcVhBG3t2OJgS.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f_HX0Etfl4Mk3aVooe.huTVAkGMcROy5vSB0RrUUOpoB5m.fLxM0Q13MgosF2ZW.yeVh_UoPthJe8.wLCbY9OfIeq27mhetDxIVQUcDrXZBH",
+    "name": "Ojos que no ven",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FaM5n5Sl3vKcEG3G51oQceynuGJs.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3fwiYVN2bd93RuZeE7K7BsoWfqoNxvrdKI4PinrS9Y7mMixkAD2sGzvxfofIiUqAhzRt8ex_rXJKt4JyyHAjA.kPnCZL9yQ3UCZ.YaxNftgvl",
+    "catego": " Drama, Misterio",
+    "voto": "6.42/ 10",
+    "time": "1h 30min",
+    "anio": "2022"
+  },
+  {
+    "name": "Con los años que nos quedan",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3njsXDhwRJOjvl461mhMxQoru9j.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f0wtFO2kA4Wee8T_5BRep9Cp2qeF8LXR.7UK3k2ECTApw5GzhVzqmSvprpL.DvsWLNmnwyQ2y50TXKgnl7ifJRFRHartIEAOn7dYuM2t0tOX",
     "catego": " Drama",
-    "voto": "7.61/ 10",
-    "time": "1h 35min",
+    "voto": "6.2/ 10",
+    "time": "1h 45min",
+    "anio": "2022"
+  },
+  {
+    "name": "Strong Enough",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FyByQdXlJISKHhmIhV8HpLr06XUV.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/d5tcsofsei0f",
+    "catego": " Drama",
+    "voto": "1h 10min/ 10",
+    "time": "",
     "anio": "2022"
   },
   {
@@ -81,13 +519,31 @@
     "anio": "2022"
   },
   {
-    "name": "Locura de amor en Las Vegas",
-    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FasQQdmkKQ2Jz5RlQX3a1hfcuS3G.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/pp8vtefxp3ow",
-    "catego": " Comedia, Romance",
-    "voto": "6.1/ 10",
-    "time": "1h 39min",
-    "anio": "2008"
+    "name": "Los Caballeros del Zodiaco: Saint Seiya - El inicio",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FzqhO44oc0pWM32seJeXMcjPLvwV.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3fx_UqILfdI5Y2Gb8X5uZvLJEy4xK4avSYPGpVmJFSFtuU_uk6SWT0tF.lY3475LJ7g7IuQJMp.6zZ5ayYGiSwYJk4_g0PIV5Qtw6FgALhjRw",
+    "catego": " Fantasía, Acción, Aventura",
+    "voto": "6.53/ 10",
+    "time": "1h 52min",
+    "anio": "2023"
+  },
+  {
+    "name": "Lo que nunca te dije pero debería haberte dicho",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FxJB8lPR3Zjq1GV9M5PkZnN8wRy6.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f90m0t1z1h6VeS6vaYYkZ0zoXpgIqn.3IpTSzueY23KkaxzCcmhojlpjRohYyoCX9sbiaYIVQEikE86zFMAmV6T8aoHOzJVKat.tNneheGLj",
+    "catego": " Drama, Romance, Comedia",
+    "voto": "1h 11min/ 10",
+    "time": "2022",
+    "anio": ""
+  },
+  {
+    "name": "Las Estrellas al Mediodía",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Ff5V3xlghc9UJG2sF44nzQwyAl4R.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f4wxbr9MloN.RMty80U8pt0ZOJrZEVInERJB.p8TKU3XwjnwpjQRNKleEiqtsYsjmgI.kxz_sZAFnYmbxZArhzTVhvY.K8Be4.ncV0PykCmz",
+    "catego": " Drama, Romance, Suspenso",
+    "voto": "5.5/ 10",
+    "time": "2h 00min",
+    "anio": "2022"
   },
   {
     "name": "Crimen imperfecto",
@@ -99,12 +555,12 @@
     "anio": "2022"
   },
   {
-    "name": "Inspector araña",
-    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FaGp9ghdIcw74K2VJ1Godcsb9MQo.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/f4fwz0btdehq",
-    "catego": " Animación, Familia",
-    "voto": "6.77/ 10",
-    "time": "1h 30min",
+    "name": "Lost Transport",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsBfuq7lkQR5tXmYe2l3LLfxmniv.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f8SRBRshAWv9BVRz9l_bZgQNyGj7_d8Be4RbbbYKCfCqbvRyRF9uTljEiuvFxvWmxNRqK4rgj0mBJb7iiih0ahDy7IDkCmWUwM.4mDXIsHI1",
+    "catego": " Drama, Historia, Guerra",
+    "voto": "5.4/ 10",
+    "time": "1h 40min",
     "anio": "2022"
   },
   {
@@ -117,13 +573,31 @@
     "anio": "2020"
   },
   {
-    "name": "Lo que nunca te dije pero debería haberte dicho",
-    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FxJB8lPR3Zjq1GV9M5PkZnN8wRy6.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f90m0t1z1h6VeS6vaYYkZ0zoXpgIqn.3IpTSzueY23KkaxzCcmhojlpjRohYyoCX9sbiaYIVQEikE86zFMAmV6T8aoHOzJVKat.tNneheGLj",
-    "catego": " Drama, Romance, Comedia",
-    "voto": "1h 11min/ 10",
-    "time": "2022",
-    "anio": ""
+    "name": "20.000 especies de abejas",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FihX17g6QubsnmiUuScG0SvyLk5d.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3fwHTSbmxs.nE9t1wMChFiRdmGAkWqPSO.Yda95ZSgdfOaOI9nvYSzKCvEJW9uvuquZkdHaAQ.SqsaA0WOq.ZStpM0D6dOjF2gu7DLwLRdCps",
+    "catego": " Drama",
+    "voto": "7.8/ 10",
+    "time": "2h 09min",
+    "anio": "2023"
+  },
+  {
+    "name": "Marcel, el caracol con zapatos",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fx9VPPEYxv19AEdEoWccVAF1HKot.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f0r14IgFhEJ3xByNBn5a7nRSUvw36QatdzdVp1D1wRm2thAkALtY5a6KhP4WpgC4Gu89JgeJQDNCYSkbxcNnF7UbujIrHu.oA5fmCa3zSBeO",
+    "catego": " Animación, Comedia, Drama, Familia",
+    "voto": "7.71/ 10",
+    "time": "1h 30min",
+    "anio": "2022"
+  },
+  {
+    "name": "Suzume",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FiUfWPVyuLA4wZ5EetHyyGsi25SF.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3fzfwNPdA8_iQuhCpwL3tGTAwrR98_mjGyTUZ_SgQoV9wTAYSPtqIxmp0KSm0ZmvWbGuYMbH4DnAEGkHSC3J0JS7vTBb2GhmEll47KQQnw.IB",
+    "catego": " Animación, Drama, Aventura, Fantasía",
+    "voto": "7.9/ 10",
+    "time": "2h 01min",
+    "anio": "2022"
   },
   {
     "name": "Syk pike",
@@ -135,13 +609,13 @@
     "anio": "2022"
   },
   {
-    "name": "20.000 especies de abejas",
-    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FihX17g6QubsnmiUuScG0SvyLk5d.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3fwHTSbmxs.nE9t1wMChFiRdmGAkWqPSO.Yda95ZSgdfOaOI9nvYSzKCvEJW9uvuquZkdHaAQ.SqsaA0WOq.ZStpM0D6dOjF2gu7DLwLRdCps",
-    "catego": " Drama",
-    "voto": "7.8/ 10",
-    "time": "2h 09min",
-    "anio": "2023"
+    "name": "Las Vueltas del Amor",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fk7375kFt4ksxBbqLw6w5Fl1hNUX.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f8rdSxuxue0RiGsAXCJb.2TpcS0HjNz0tWtKiBNGzlrs3V.7clCROgFsQ6jsqv9Qc.EplJzAYHaM5CCuYzF3fg3GNg00JGldKSHbBfuBnjS3",
+    "catego": " Comedia, Romance",
+    "voto": "8.1/ 10",
+    "time": "1h 39min",
+    "anio": "2022"
   },
   {
     "name": "Mi Vecino Adolf",
@@ -153,22 +627,13 @@
     "anio": "2022"
   },
   {
-    "name": "Las Estrellas al Mediodía",
-    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Ff5V3xlghc9UJG2sF44nzQwyAl4R.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f4wxbr9MloN.RMty80U8pt0ZOJrZEVInERJB.p8TKU3XwjnwpjQRNKleEiqtsYsjmgI.kxz_sZAFnYmbxZArhzTVhvY.K8Be4.ncV0PykCmz",
-    "catego": " Drama, Romance, Suspenso",
-    "voto": "5.5/ 10",
-    "time": "2h 00min",
+    "name": "The Estate",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FympzlpDXR8xpg3RIIPvFjybzzSN.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f0O3M71eY6RX56rOcZjLTjXo.9W3ZudHV7.5gCyTrkyWmA6IlL6uNgd0T4zuewe82lqZBSAH2BVfpz8at4oGPlbjmHkU3NX_P.ckyZxhRjsy",
+    "catego": " Comedia, Drama",
+    "voto": "5.7/ 10",
+    "time": "1h 31min",
     "anio": "2022"
-  },
-  {
-    "name": "Los Caballeros del Zodiaco: Saint Seiya - El inicio",
-    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FzqhO44oc0pWM32seJeXMcjPLvwV.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3fx_UqILfdI5Y2Gb8X5uZvLJEy4xK4avSYPGpVmJFSFtuU_uk6SWT0tF.lY3475LJ7g7IuQJMp.6zZ5ayYGiSwYJk4_g0PIV5Qtw6FgALhjRw",
-    "catego": " Fantasía, Acción, Aventura",
-    "voto": "6.53/ 10",
-    "time": "1h 52min",
-    "anio": "2023"
   },
   {
     "name": "La laguna azul: El despertar",
@@ -178,61 +643,6 @@
     "voto": "6.45/ 10",
     "time": "1h 25min",
     "anio": "2012"
-  },
-  {
-    "name": "Nimona",
-    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FoWRY8HRXI1DVWB7rNvpmFWwSnCC.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f.cL.ICXS61hnm_1pyFtOcdaNgqHq5d.F3GVGDe8eFkJyTeNFuD999ajpWDv_yQLlnm8_ZqPvZJZt8QO2Ldk2Rd458gxyueyusiS7j1yAgi4",
-    "catego": " Animación, Ciencia ficción, Acción, Aventura, Fantasía",
-    "voto": "8.08/ 10",
-    "time": "1h 41min",
-    "anio": "2023"
-  },
-  {
-    "name": "Colateral: Lugar y tiempo equivocado",
-    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FcA7ul7L1kVzA9XJd11T0ln9E5iI.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/5mba3t42au93",
-    "catego": " Drama, Crimen, Suspenso",
-    "voto": "7.21/ 10",
-    "time": "2h 00min",
-    "anio": "2004"
-  },
-  {
-    "name": "Sisu",
-    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Ft9VXZkgcxpIwfPUKAWOOONs0vHv.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f_eSIcO5imxoaT8.t6TBnXDuP2C4XSFHFKr4ZVjK46mJXS8uCtxkuemNzy0N4d86cMVaUvIl_N9V7Wnr5.DSoPuLvtN7ecdwj4oGsEgL.WfH",
-    "catego": " Acción, Guerra",
-    "voto": "7.35/ 10",
-    "time": "1h 31min",
-    "anio": "2023"
-  },
-  {
-    "name": "La historia del himno de los Estados Unidos",
-    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F383IPkAwGhJXWvwkUuril9DQp6N.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f5b4azszX0Zxcxqeritz1pQnhJCauqLSyWALaJLjonGjcGbnr3Xw4X2vKlwjkHDpOvD9zQDaTndAQX89d8gWGjt9ZxjlzbazNwPEljtrtNan",
-    "catego": " Documental",
-    "voto": "5.5/ 10",
-    "time": "1h 38min",
-    "anio": "2023"
-  },
-
-  {
-    "name": "Marcel, el caracol con zapatos",
-    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fx9VPPEYxv19AEdEoWccVAF1HKot.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f0r14IgFhEJ3xByNBn5a7nRSUvw36QatdzdVp1D1wRm2thAkALtY5a6KhP4WpgC4Gu89JgeJQDNCYSkbxcNnF7UbujIrHu.oA5fmCa3zSBeO",
-    "catego": " Animación, Comedia, Drama, Familia",
-    "voto": "7.71/ 10",
-    "time": "1h 30min",
-    "anio": "2022"
-  },
-  {
-    "name": "Las Vueltas del Amor",
-    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fk7375kFt4ksxBbqLw6w5Fl1hNUX.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f8rdSxuxue0RiGsAXCJb.2TpcS0HjNz0tWtKiBNGzlrs3V.7clCROgFsQ6jsqv9Qc.EplJzAYHaM5CCuYzF3fg3GNg00JGldKSHbBfuBnjS3",
-    "catego": " Comedia, Romance",
-    "voto": "8.1/ 10",
-    "time": "1h 39min",
-    "anio": "2022"
   },
   {
     "name": "The Library Boys",
@@ -253,32 +663,256 @@
     "anio": "2022"
   },
   {
-    "name": "Ojos que no ven",
-    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FaM5n5Sl3vKcEG3G51oQceynuGJs.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3fwiYVN2bd93RuZeE7K7BsoWfqoNxvrdKI4PinrS9Y7mMixkAD2sGzvxfofIiUqAhzRt8ex_rXJKt4JyyHAjA.kPnCZL9yQ3UCZ.YaxNftgvl",
-    "catego": " Drama, Misterio",
-    "voto": "6.42/ 10",
+    "name": "Inspector araña",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FaGp9ghdIcw74K2VJ1Godcsb9MQo.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/f4fwz0btdehq",
+    "catego": " Animación, Familia",
+    "voto": "6.77/ 10",
     "time": "1h 30min",
     "anio": "2022"
   },
   {
-    "name": "Strong Enough",
-    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FyByQdXlJISKHhmIhV8HpLr06XUV.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/d5tcsofsei0f",
+    "name": "La niña tranquila",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fhrq5A54Zb2y2MfHcVhBG3t2OJgS.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f_HX0Etfl4Mk3aVooe.huTVAkGMcROy5vSB0RrUUOpoB5m.fLxM0Q13MgosF2ZW.yeVh_UoPthJe8.wLCbY9OfIeq27mhetDxIVQUcDrXZBH",
     "catego": " Drama",
-    "voto": "1h 10min/ 10",
-    "time": "2022",
-    "anio": ""
+    "voto": "7.61/ 10",
+    "time": "1h 35min",
+    "anio": "2022"
   },
+
   {
-    "name": "The Estate",
-    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FympzlpDXR8xpg3RIIPvFjybzzSN.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f0O3M71eY6RX56rOcZjLTjXo.9W3ZudHV7.5gCyTrkyWmA6IlL6uNgd0T4zuewe82lqZBSAH2BVfpz8at4oGPlbjmHkU3NX_P.ckyZxhRjsy",
-    "catego": " Comedia, Drama",
-    "voto": "5.7/ 10",
+    "name": "Cuerpo abierto",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F9zgoBoba7oCMtNb987FCDFu5OUd.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/sfzv6fdutye5",
+    "catego": " Terror, Drama",
+    "voto": "3.3/ 10",
     "time": "1h 31min",
     "anio": "2022"
   },
+  {
+    "name": "Nombre en clave: Polonia",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F2Xk53DyjGERl9nDm07DwJJsVXHa.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3fwaDTb7_E7hoBZWjos0YCQhltN7I0sE6H.w89X_jlAft.gnS.uCXH2MB4vlMJEJXJW5wloG.ohh5LnNlrFinQHL1CbZWsz5kVpdgwTjfoNgQ",
+    "catego": " Comedia, Romance",
+    "voto": "5.26/ 10",
+    "time": "1h 33min",
+    "anio": "2022"
+  },
+  {
+    "name": "Efecto nocebo",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FbdjdZPgCRFqa0cgXLz8mDsUtiqP.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f3r_uH6rx.WH0jNUL7plz0EfZm8Q2zEIXhCVpBqdxYMe12qJ4r9ixkKhXEsrGMejSUtP_DfwEG8qnhB3am74K_BX6jMSiRsQZMtdUhB.vTuL",
+    "catego": " Misterio, Suspenso, Terror",
+    "voto": "6.12/ 10",
+    "time": "1h 37min",
+    "anio": "2022"
+  },
+  {
+    "name": "Finde",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F2MYEeM80Iy5MH81PqaOqsnQga7k.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f9XD5UikC8KTPyoEv8GqEIj.u4PiEs78lswqxi7vVxoTad0J2ZL3Tlaw9S9iRm7UbaTs_J7MagNnpWADUGsLIws1zRQi1VqDWrIlXs8VIYbA",
+    "catego": " Comedia, Terror, Suspenso",
+    "voto": "7.7/ 10",
+    "time": "1h 26min",
+    "anio": "2021"
+  },
+
+  {
+    "name": "Little Bone Lodge",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F1m0Dp0mvcIkXaNIt3mLxfMclG6O.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3fzxspEmGnykFc.6yfU2DBVtcRVpN2VQ946JT0kXcMyqJmzVdnBrTomJNHFM4TCuDXEM8TRPq_favxsfxQx8mOEzJ6X8VjB2Mb4xZ0Xfgh9EE",
+    "catego": " Terror, Crimen, Suspenso",
+    "voto": "7.9/ 10",
+    "time": "1h 33min",
+    "anio": "2023"
+  },
+  {
+    "name": "Bunker",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FjOA7chFPVzSyPp2DaRg8hqA1BHr.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3fwmYg6yrH0NC0xR_Bpx8WOQaN3tvlKvEQ1jFw3M7wQ99C6TSigtsLVqMyku4HnO2RD7Uf2RdEKTfsbT4uoaTOsQNQT47eDemZZ5wrpnjsRVt",
+    "catego": " Terror, Suspenso, Guerra",
+    "voto": "4.63/ 10",
+    "time": "1h 49min",
+    "anio": "2022"
+  },
+  {
+    "name": "Sisu",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Ft9VXZkgcxpIwfPUKAWOOONs0vHv.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f_eSIcO5imxoaT8.t6TBnXDuP2C4XSFHFKr4ZVjK46mJXS8uCtxkuemNzy0N4d86cMVaUvIl_N9V7Wnr5.DSoPuLvtN7ecdwj4oGsEgL.WfH",
+    "catego": " Acción, Guerra",
+    "voto": "7.35/ 10",
+    "time": "1h 31min",
+    "anio": "2023"
+  },
+  {
+    "name": "RoboCop",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F2ej8wIzOYBgWQ5XlpeFulnkHAoI.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3fwsyHwZvFgFSsUBkcuQrRgVhfCZbu9x96UfAxNYELwCxlBWFEr8NRYfDd.xlFZUbnPxT7cXMP_A8sbrQ0ykbB0aYV4hYThTDvLyuWJdCsoaD",
+    "catego": " Ciencia ficción, Acción, Crimen, Suspenso",
+    "voto": "5.84/ 10",
+    "time": "1h 53min",
+    "anio": "2014"
+  },
+
+  {
+    "name": "Tempête",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FelD8P3zXAOy6k4SdpSPb7nCmH07.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f2gsYU5RhzKedfJx_zjZb_TkV.hWxjpxCD5072i4GpNH7O0R_y3c22ylTkVKQWW59tfT5O2AhjEeI4jgLTbtfky3ce6P.YedFY9LSSE9pHkm",
+    "catego": " Drama, Comedia, Familia",
+    "voto": "6.9/ 10",
+    "time": "1h 49min",
+    "anio": "2022"
+  },
+  {
+    "name": "Adrenalina",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FmSgqZlz7umts77mEhmEhv9piUKv.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f8Ztm5Fj0btd.b9O5jW0uIZisgyGP8ZekhOoGak_wgxLQA1Fp_dIWtHiDG5tqkJXKawaF4da2UDLNUKlUcxIOahEQcUpAWGFod7MvrqZswWX",
+    "catego": " Acción",
+    "voto": "5.99/ 10",
+    "time": "1h 15min",
+    "anio": "2022"
+  },
+  {
+    "name": "Agente oculto",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FxXKVwk2wbcmZoY1oqa483YGbwwk.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/pl8vqvxa65iz",
+    "catego": " Suspenso, Drama",
+    "voto": "6.4/ 10",
+    "time": "1h 56min",
+    "anio": "2022"
+  },
+  {
+    "name": "Colateral: Lugar y tiempo equivocado",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FcA7ul7L1kVzA9XJd11T0ln9E5iI.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/5mba3t42au93",
+    "catego": " Drama, Crimen, Suspenso",
+    "voto": "7.21/ 10",
+    "time": "2h 00min",
+    "anio": "2004"
+  },
+  {
+    "name": "EO",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F2J6LuikaQlNhWleobltMu045E26.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/uqjvb0qpmjv5",
+    "catego": " Drama",
+    "voto": "6.52/ 10",
+    "time": "1h 28min",
+    "anio": "2022"
+  },
+
+  {
+    "name": "Fumer fait tousser",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FgULTDEISLDD5ObgfQGMO0v9BES2.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/1xy48r7swwkm",
+    "catego": " Comedia, Fantasía",
+    "voto": "6.29/ 10",
+    "time": "1h 20min",
+    "anio": "2022"
+  },
+  {
+    "name": "The Social Experiment",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F4OxCa8ybFLyh1pgX7181DU4nBHj.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/pgdj7eackn53",
+    "catego": " Ciencia ficción, Suspenso",
+    "voto": "5.5/ 10",
+    "time": "1h 37min",
+    "anio": "2022"
+  },
+  {
+    "name": "R.M.N.",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FwQXWnmOvh9GlcRJ29WXMSBeiv1Q.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/1t37eaz5jss9",
+    "catego": " Drama",
+    "voto": "6.9/ 10",
+    "time": "2h 07min",
+    "anio": "2022"
+  },
+  {
+    "name": "1976",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FvlL3vY9Z1mBF2Uzi4Grfl9uCKOX.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f2xPBQ4oWQm5oa5r6_FzkxAYRLoxB_.qdQ2wQWOsDYWp.0EkCR51irsNyxJTWGV58l8eODLCK.BaSdDduw9oc_K.80s7ubA7ihWfynHdFUAf",
+    "catego": " Drama",
+    "voto": "7.39/ 10",
+    "time": "1h 36min",
+    "anio": "2022"
+  },
+  {
+    "name": "Jubilación imposible 2",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FunbQ0WfEd6zVyPAgeo8Q060dV9n.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/uj81fkhy9zok",
+    "catego": " Comedia",
+    "voto": "5.6/ 10",
+    "time": "1h 31min",
+    "anio": "2022"
+  },
+  {
+    "name": "Historias para no contar",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FDDpLKrJahb6wexz4ssAOWLZMK6.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/5ekxju3gplfi",
+    "catego": " Comedia",
+    "voto": "5.71/ 10",
+    "time": "1h 39min",
+    "anio": "2022"
+  },
+  {
+    "name": "La Trampa",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FnXhPTEIEDxekCZg9DwZQNshZ432.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/cxhfsglo6gdn",
+    "catego": " Comedia, Acción",
+    "voto": "6.6/ 10",
+    "time": "1h 28min",
+    "anio": "2022"
+  },
+  {
+    "name": "Booty Call",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fx8S5bwSMtoANB0gWqAj60PBFPeW.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/4oc2uy69n65i",
+    "catego": " Comedia",
+    "voto": "5.3/ 10",
+    "time": "1h 19min",
+    "anio": "1997"
+  },
+  {
+    "name": "Maquíllame Otra Vez",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FhAKV3WLdHOL313IImAoR2GFWC1W.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3fzUPv7N0wM6T.zW66kqF6kCX2Eo8DAKQ1uFN9NqZ1EiNSLEePpFL17y2AUGd2k9Z.nonLOflzrjLygKu.4E_TC7JzRTRHvHmdf_ioGeBgBHB",
+    "catego": " Comedia, Romance, Drama",
+    "voto": "2/ 10",
+    "time": "1h 21min",
+    "anio": "2023"
+  },
+
+  {
+    "name": "Locura de amor en Las Vegas",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FasQQdmkKQ2Jz5RlQX3a1hfcuS3G.jpg&w=384&q=75",
+    "link": "https://watchsb.com/e/pp8vtefxp3ow",
+    "catego": " Comedia, Romance",
+    "voto": "6.1/ 10",
+    "time": "1h 39min",
+    "anio": "2008"
+  },
+
+  {
+    "name": "Nimona",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FoWRY8HRXI1DVWB7rNvpmFWwSnCC.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f.cL.ICXS61hnm_1pyFtOcdaNgqHq5d.F3GVGDe8eFkJyTeNFuD999ajpWDv_yQLlnm8_ZqPvZJZt8QO2Ldk2Rd458gxyueyusiS7j1yAgi4",
+    "catego": " Animación, Ciencia ficción, Acción, Aventura, Fantasía",
+    "voto": "8.08/ 10",
+    "time": "1h 41min",
+    "anio": "2023"
+  },
+
+  {
+    "name": "La historia del himno de los Estados Unidos",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F383IPkAwGhJXWvwkUuril9DQp6N.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f5b4azszX0Zxcxqeritz1pQnhJCauqLSyWALaJLjonGjcGbnr3Xw4X2vKlwjkHDpOvD9zQDaTndAQX89d8gWGjt9ZxjlzbazNwPEljtrtNan",
+    "catego": " Documental",
+    "voto": "5.5/ 10",
+    "time": "1h 38min",
+    "anio": "2023"
+  },
+
   {
     "name": "Volver a Empezar",
     "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fz2E5NiLDK9aQkGOo0EVzeGTXqIG.jpg&w=384&q=75",
@@ -352,42 +986,6 @@
     "anio": "2022"
   },
 
-  {
-    "name": "Suzume",
-    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FiUfWPVyuLA4wZ5EetHyyGsi25SF.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3fzfwNPdA8_iQuhCpwL3tGTAwrR98_mjGyTUZ_SgQoV9wTAYSPtqIxmp0KSm0ZmvWbGuYMbH4DnAEGkHSC3J0JS7vTBb2GhmEll47KQQnw.IB",
-    "catego": " Animación, Drama, Aventura, Fantasía",
-    "voto": "7.9/ 10",
-    "time": "2h 01min",
-    "anio": "2022"
-  },
-  {
-    "name": "Juego del amor: El tiempo es ahora 2",
-    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F4Dfm8TQV58ajQKQOBZh9XsCVb1q.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f7PYYl4yeWBgSgD3nxVXpZLy4USKK6enE9zVYmG6Lfd6KYX6M6zhRziS.qSdkJyPM7KZqrjzXprlnZXj1I.hxUjCYDACyfSzC1zd3HCTfIM4",
-    "catego": " Romance, Drama",
-    "voto": "6.42/ 10",
-    "time": "1h 31min",
-    "anio": "2022"
-  },
-  {
-    "name": "Con los años que nos quedan",
-    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3njsXDhwRJOjvl461mhMxQoru9j.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f0wtFO2kA4Wee8T_5BRep9Cp2qeF8LXR.7UK3k2ECTApw5GzhVzqmSvprpL.DvsWLNmnwyQ2y50TXKgnl7ifJRFRHartIEAOn7dYuM2t0tOX",
-    "catego": " Drama",
-    "voto": "6.2/ 10",
-    "time": "1h 45min",
-    "anio": "2022"
-  },
-  {
-    "name": "Lost Transport",
-    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsBfuq7lkQR5tXmYe2l3LLfxmniv.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f8SRBRshAWv9BVRz9l_bZgQNyGj7_d8Be4RbbbYKCfCqbvRyRF9uTljEiuvFxvWmxNRqK4rgj0mBJb7iiih0ahDy7IDkCmWUwM.4mDXIsHI1",
-    "catego": " Drama, Historia, Guerra",
-    "voto": "5.4/ 10",
-    "time": "1h 40min",
-    "anio": "2022"
-  },
   {
     "name": "El curioso caso de Dolphin Bay",
     "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FxWTr0cr5FctbYatTPSBe4d83GCy.jpg&w=384&q=75",
@@ -1404,15 +2002,7 @@
     "time": "",
     "anio": "2023"
   },
-  {
-    "name": "The Devil Comes at Night",
-    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F6QIeZuKirT4cXVpW7ilVZmcRmdK.jpg&w=640&q=75",
-    "link": "https://watchsb.com/e/6g7riyr0wj1v",
-    "catego": "Terror",
-    "voto": "47%",
-    "time": "1h 20min",
-    "anio": "2023"
-  },
+
   {
     "name": "Hazme el favor",
     "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FhKlpYtDLBtJEvYVvaUIq39Gh6rI.jpg&w=640&q=75",
@@ -6903,15 +7493,7 @@
     "time": "1h 26min",
     "anio": "2022"
   },
-  {
-    "name": "El niño y el tigre",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fg7LfZhnN96Zs2xv8c0PeaExU1yw.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_c8.html?t=VAiJvnsyeET_layFarr3f24WmbXmhqzWvANgeH9wygw8HJn5WwR5QpGBjT0xqjdAh5lO.Fk3tuKXFh1b4jlmfeuuNZcGqqTpVenJRlQC1X4SRMln2Naq7v3b.8auWxtW",
-    "catego": " Familia, Aventura",
-    "voto": "6.76/ 10",
-    "time": "1h 33min",
-    "anio": "2022"
-  },
+
   {
     "name": "Perro perdido",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FvNhYiYibl5tfisoVcJuLhR2iaLX.jpg&w=384&q=75",
@@ -7823,15 +8405,7 @@
     "time": "1h 33min",
     "anio": "2005"
   },
-  {
-    "name": "Tempête",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FelD8P3zXAOy6k4SdpSPb7nCmH07.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_c8.html?t=VAiJvnsyeET_layFarr3f2gsYU5RhzKedfJx_zjZb_TkV.hWxjpxCD5072i4GpNH7O0R_y3c22ylTkVKQWW59tfT5O2AhjEeI4jgLTbtfky3ce6P.YedFY9LSSE9pHkm",
-    "catego": " Drama, Comedia, Familia",
-    "voto": "6.94/ 10",
-    "time": "1h 49min",
-    "anio": "2022"
-  },
+
   {
     "name": "El escándalo",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F560YqKXG0eyRGXh2rI3ve9uovb9.jpg&w=384&q=75",
@@ -9353,15 +9927,7 @@
     "time": "1h 31min",
     "anio": "2018"
   },
-  {
-    "name": "Una Pasión Inesperada",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FLreVro0QYxDLYXScnsQVNExWxy.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_c8.html?t=VAiJvnsyeET_layFarr3fzc92CRMXAGPeRqPwAbvmNAyePPRNVuFNrX04J22IPbjgozNo8Q0NodiuRcbMnkdrR9qSI0XvZsqGbCe1xU0P3o9SHMwzmGLc0tPgHsllHjq",
-    "catego": " Drama",
-    "voto": "6/ 10",
-    "time": "1h 56min",
-    "anio": "2022"
-  },
+
   {
     "name": "The Price We Pay",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FAr03uAaL42gPln6CzdPBgu52EV.jpg&w=384&q=75",
@@ -9633,15 +10199,7 @@
     "time": "1h 21min",
     "anio": "2019"
   },
-  {
-    "name": "Meteorito: Primer Impacto",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FiNTzcdzV8PkfPTHVpNvomohYfHH.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_c8.html?t=VAiJvnsyeET_layFarr3f2_AHdfyXq0OUJIJNPC9NkphMLNUWHnJFdlCWlxDOjV42FNWPqHOFWMnpeM2OZPkyKbh_grNpQ1SpPXCSjjWTnutG916Z.L1pZFh71JevTvx",
-    "catego": " Acción, Suspenso",
-    "voto": "3/ 10",
-    "time": "1h 18min",
-    "anio": "2022"
-  },
+
   {
     "name": "Death Note: El último nombre",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FjmsOyWDoC4fsQMyg1xQD31FpO3t.jpg&w=384&q=75",
@@ -10426,15 +10984,7 @@
     "time": "1h 45min",
     "anio": "2018"
   },
-  {
-    "name": "1976",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FvlL3vY9Z1mBF2Uzi4Grfl9uCKOX.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_c8.html?t=VAiJvnsyeET_layFarr3f2xPBQ4oWQm5oa5r6_FzkxAYRLoxB_.qdQ2wQWOsDYWp.0EkCR51irsNyxJTWGV58l8eODLCK.BaSdDduw9oc_K.80s7ubA7ihWfynHdFUAf",
-    "catego": " Drama",
-    "voto": "7.3/ 10",
-    "time": "1h 36min",
-    "anio": "2022"
-  },
+
   {
     "name": "Anon",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fzv03BoK68TbrnzVO7T3mcl7ipfy.jpg&w=384&q=75",
@@ -11558,15 +12108,7 @@
     "time": "1h 25min",
     "anio": "2019"
   },
-  {
-    "name": "Adrenalina",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FmSgqZlz7umts77mEhmEhv9piUKv.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_c8.html?t=VAiJvnsyeET_layFarr3f8Ztm5Fj0btd.b9O5jW0uIZisgyGP8ZekhOoGak_wgxLQA1Fp_dIWtHiDG5tqkJXKawaF4da2UDLNUKlUcxIOahEQcUpAWGFod7MvrqZswWX",
-    "catego": " Acción",
-    "voto": "6.2/ 10",
-    "time": "1h 15min",
-    "anio": "2022"
-  },
+
   {
     "name": "Encrucijada",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FuJkAHKxL2eWdk4txjXXNAJGrAbS.jpg&w=384&q=75",
@@ -12699,15 +13241,7 @@
     "time": "1h 41min",
     "anio": "2021"
   },
-  {
-    "name": "Nombre en clave: Polonia",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F2Xk53DyjGERl9nDm07DwJJsVXHa.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_c8.html?t=VAiJvnsyeET_layFarr3fwaDTb7_E7hoBZWjos0YCQhltN7I0sE6H.w89X_jlAft.gnS.uCXH2MB4vlMJEJXJW5wloG.ohh5LnNlrFinQHL1CbZWsz5kVpdgwTjfoNgQ",
-    "catego": " Comedia, Romance",
-    "voto": "5.24/ 10",
-    "time": "1h 33min",
-    "anio": "2022"
-  },
+
   {
     "name": "El regreso de los niños",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FhY8zYGqC3C9qPpXKZR1XPELtFVm.jpg&w=384&q=75",
@@ -12735,15 +13269,7 @@
     "time": "1h 48min",
     "anio": "2022"
   },
-  {
-    "name": "Fumer fait tousser",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FgULTDEISLDD5ObgfQGMO0v9BES2.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/1xy48r7swwkm",
-    "catego": " Comedia, Fantasía",
-    "voto": "6.39/ 10",
-    "time": "1h 20min",
-    "anio": "2022"
-  },
+
   {
     "name": "Lo inevitable",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fb5sZSv8Kud207hsCTYcEEDnR9su.jpg&w=384&q=75",
@@ -12816,15 +13342,7 @@
     "time": "1h 48min",
     "anio": "2000"
   },
-  {
-    "name": "Jubilación imposible 2",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FunbQ0WfEd6zVyPAgeo8Q060dV9n.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/uj81fkhy9zok",
-    "catego": " Comedia",
-    "voto": "5.49/ 10",
-    "time": "1h 31min",
-    "anio": "2022"
-  },
+
   {
     "name": "Lucha por la libertad",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F10jpQjLLYE2vzah45eGSVHv6os4.jpg&w=384&q=75",
@@ -12852,15 +13370,7 @@
     "time": "1h 51min",
     "anio": "2020"
   },
-  {
-    "name": "Cuerpo abierto",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F9zgoBoba7oCMtNb987FCDFu5OUd.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/sfzv6fdutye5",
-    "catego": " Terror, Drama",
-    "voto": "4.5/ 10",
-    "time": "1h 31min",
-    "anio": "2022"
-  },
+
   {
     "name": "Los pingüinos de papá",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F9KlaaIqRZkiGH1mE7ub6yw9kDhE.jpg&w=384&q=75",
@@ -13015,33 +13525,7 @@
     "time": "2h 01min",
     "anio": "2008"
   },
-  {
-    "name": "Bunker",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FjOA7chFPVzSyPp2DaRg8hqA1BHr.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_c8.html?t=VAiJvnsyeET_layFarr3fwmYg6yrH0NC0xR_Bpx8WOQaN3tvlKvEQ1jFw3M7wQ99C6TSigtsLVqMyku4HnO2RD7Uf2RdEKTfsbT4uoaTOsQNQT47eDemZZ5wrpnjsRVt",
-    "catego": " Terror, Suspenso, Guerra",
-    "voto": "5.2/ 10",
-    "time": "1h 49min",
-    "anio": "2022"
-  },
-  {
-    "name": "R.M.N.",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FwQXWnmOvh9GlcRJ29WXMSBeiv1Q.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/1t37eaz5jss9",
-    "catego": " Drama",
-    "voto": "6.9/ 10",
-    "time": "2h 07min",
-    "anio": "2022"
-  },
-  {
-    "name": "Agente oculto",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FxXKVwk2wbcmZoY1oqa483YGbwwk.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/pl8vqvxa65iz",
-    "catego": " Suspenso, Drama",
-    "voto": "6.37/ 10",
-    "time": "1h 56min",
-    "anio": "2022"
-  },
+
   {
     "name": "Expired",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FhV7KZTxsKuAjAJD040cOYhMJ0EI.jpg&w=384&q=75",
@@ -13051,24 +13535,7 @@
     "time": "0h 06min",
     "anio": "2022"
   },
-  {
-    "name": "Historias para no contar",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FDDpLKrJahb6wexz4ssAOWLZMK6.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/5ekxju3gplfi",
-    "catego": " Comedia",
-    "voto": "5.7/ 10",
-    "time": "1h 39min",
-    "anio": "2022"
-  },
-  {
-    "name": "EO",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F2J6LuikaQlNhWleobltMu045E26.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/uqjvb0qpmjv5",
-    "catego": " Drama",
-    "voto": "6.57/ 10",
-    "time": "1h 28min",
-    "anio": "2022"
-  },
+
   {
     "name": "Đảo Độc Đắc - Tử Mẫu Thiên Linh Cái",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FA6PH1Jq5Jjq2UgcKVMQvF474IiA.jpg&w=384&q=75",
@@ -13177,15 +13644,7 @@
     "time": "1h 38min",
     "anio": "2002"
   },
-  {
-    "name": "Tiffany the Doll",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FwGvhWCrbo7R9zCgB56hUdgiKDHK.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/9m8wao0dlnwd",
-    "catego": " Terror, Ciencia ficción, Comedia",
-    "voto": "/ 10",
-    "time": "1h 13min",
-    "anio": "2022"
-  },
+
   {
     "name": "Click: Perdiendo el control",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fl06jMu0V4cp1DuQdI9ptSJjV01q.jpg&w=384&q=75",
@@ -13204,24 +13663,7 @@
     "time": "1h 29min",
     "anio": "2019"
   },
-  {
-    "name": "The Social Experiment",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F4OxCa8ybFLyh1pgX7181DU4nBHj.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/pgdj7eackn53",
-    "catego": " Ciencia ficción, Suspenso",
-    "voto": "5.5/ 10",
-    "time": "1h 37min",
-    "anio": "2022"
-  },
-  {
-    "name": "Vidas en juego",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F6oSbh0gggFU711PkFQffyx2UqKk.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_c8.html?t=VAiJvnsyeET_layFarr3f0bMt3DddNsZet67ANQe0TEAxJ4cxREVoe3F4518X1X6CGFUINYP9HoAGfywF8BsWRbhufR.d3VWN35CZ_eU2CGNKYdZTeO7KQwlaqlUDWcP",
-    "catego": " Suspenso, Drama",
-    "voto": "6.5/ 10",
-    "time": "1h 52min",
-    "anio": "2022"
-  },
+
   {
     "name": "Castores zombies",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FvrL2zGH7IWpSQhfAZJCa8mCh62D.jpg&w=384&q=75",
@@ -13322,15 +13764,7 @@
     "time": "1h 28min",
     "anio": "2020"
   },
-  {
-    "name": "La Trampa",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FnXhPTEIEDxekCZg9DwZQNshZ432.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/cxhfsglo6gdn",
-    "catego": " Comedia, Acción",
-    "voto": "6.57/ 10",
-    "time": "1h 28min",
-    "anio": "2022"
-  },
+
   {
     "name": "Cambiando el Juego",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F4w2s3EeTNTgG09gxWKazMPGgGY9.jpg&w=384&q=75",
@@ -13377,15 +13811,7 @@
     "time": "1h 35min",
     "anio": "2022"
   },
-  {
-    "name": "Las fiestas",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FwPy5D0Eqy0jCtFcU6WuNFBV3hOS.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_c8.html?t=VAiJvnsyeET_layFarr3fzz8rqddke1OB6y323suG7Laj4pCfcuDgDk02_f0.pXbiWakEScRUGJ420_V5s9cTxB9ABjk2b79PqeMQu8kfcPIZuoDNq5OFJIxa4SKt_D2",
-    "catego": " Comedia, Drama",
-    "voto": "6/ 10",
-    "time": "1h 29min",
-    "anio": "2022"
-  },
+
   {
     "name": "El gran truco",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FlIl2CrnWohGrZSO9eyKRptxZ7Hs.jpg&w=384&q=75",
@@ -13605,33 +14031,7 @@
     "time": "1h 24min",
     "anio": "2020"
   },
-  {
-    "name": "Prisoner of Love",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FyuV18ifZBy5BkLAn8H7DJqPCTSs.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/oen08176bz7y",
-    "catego": " Suspenso, Drama",
-    "voto": "5.86/ 10",
-    "time": "1h 25min",
-    "anio": "2022"
-  },
-  {
-    "name": "American Raiders Battle Fire",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FaNC9YAOFrsRAHJB2jv5LHbIJ02T.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/4krp9vvcmj5e",
-    "catego": " Acción, Aventura, Ciencia ficción",
-    "voto": "/ 10",
-    "time": "2h 17min",
-    "anio": "2022"
-  },
-  {
-    "name": "Four Samosas",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F56H4FOkjZpLSTId6HFVfRZs6e43.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/klc1xmmkmwlt",
-    "catego": " Acción, Comedia, Romance",
-    "voto": "7/ 10",
-    "time": "1h 20min",
-    "anio": "2022"
-  },
+
   {
     "name": "Descubriendo el amor",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FcV2pHa3rF0dYoEfxH68r1mPDff3.jpg&w=384&q=75",
@@ -13749,24 +14149,7 @@
     "time": "1h 56min",
     "anio": "2022"
   },
-  {
-    "name": "My Sailor, My Love",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FybrcBgUV0riIymvOIEYMiLmkFcH.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/7ykl6keq9psx",
-    "catego": " Drama, Romance",
-    "voto": "6.2/ 10",
-    "time": "1h 42min",
-    "anio": "2022"
-  },
-  {
-    "name": "Wolke unterm Dach",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FmDa2hsTOME8bwfWEok4PWxXSXgd.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/lbiqhacocho2",
-    "catego": " Drama",
-    "voto": "6.74/ 10",
-    "time": "1h 47min",
-    "anio": "2022"
-  },
+
   {
     "name": "Visiones",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FqEljH0kQ3ArOKJTXUDAiRiCW2uw.jpg&w=384&q=75",
@@ -13785,15 +14168,7 @@
     "time": "",
     "anio": "2022"
   },
-  {
-    "name": "The Stepmother 2",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Frc0WG3JuSGLIifIGkzL5wXGU4Vp.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/r9jfl956dwqb",
-    "catego": " Suspenso",
-    "voto": "6/ 10",
-    "time": "1h 48min",
-    "anio": "2022"
-  },
+
   {
     "name": "Llamas de furia",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fln7cZtBuutyWWRPR4Yo5ecpxuXD.jpg&w=384&q=75",
@@ -13875,15 +14250,7 @@
     "time": "2h 12min",
     "anio": "2020"
   },
-  {
-    "name": "El Juego De La Vida",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fk4EVch68Ap9UE8OtaoOAtL6t3IO.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_c8.html?t=VAiJvnsyeET_layFarr3f2p44VxhkCH2PVexClN.nSvQS6gyvT_uVh9Mdk5gJjYt81IhUwJZY9szUb45Wqw66F40kDH3Hl5XJfOxUMDlfi0r1ZLdrZ5kaGu6XdQDxlW2",
-    "catego": " Drama",
-    "voto": "6.17/ 10",
-    "time": "1h 53min",
-    "anio": "2022"
-  },
+
   {
     "name": "El Interrogatorio",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F43H3QMzKbHz6S08Q3dp15Z5fZOY.jpg&w=384&q=75",
@@ -13956,15 +14323,7 @@
     "time": "2h 27min",
     "anio": "1996"
   },
-  {
-    "name": "C.I.Ape",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FoaW0zqkYJxgdYdgykKY89jr118X.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_c8.html?t=VAiJvnsyeET_layFarr3fyLBQ58QyxIBL2yBTSq4TZesZUDfqg.CAQnONQFJmQjgdf431naB1mp3ETVxj9GK_OAsTCKao5OrvRm0JlUyWQYbGT2AmtCdaRxRq_mgwlcB",
-    "catego": " Comedia, Familia, Acción, Ciencia ficción",
-    "voto": "6.2/ 10",
-    "time": "1h 22min",
-    "anio": "2022"
-  },
+
   {
     "name": "Siete almas",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3z8EmLOiOWOgf3gyeobCoFWelcp.jpg&w=384&q=75",
@@ -14028,15 +14387,7 @@
     "time": "2h 20min",
     "anio": "2021"
   },
-  {
-    "name": "A todo tren 2: Sí, les ha pasado otra vez",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F998jFDIyVPanolKlKLT5iJCjdDb.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/x11oj5ibx7gi",
-    "catego": " Comedia, Familia",
-    "voto": "6.24/ 10",
-    "time": "1h 24min",
-    "anio": "2022"
-  },
+
   {
     "name": "Resident Evil 4: La resurrección",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fj7obkD5UQUydpBOBRpToLWIWkwq.jpg&w=384&q=75",
@@ -14199,15 +14550,7 @@
     "time": "1h 35min",
     "anio": "2005"
   },
-  {
-    "name": "Mantícora",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3VnI5ab8uIfg1nF65dhJG8t8fKn.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/hbl2dpc98xkr",
-    "catego": " Drama, Suspenso",
-    "voto": "7.03/ 10",
-    "time": "1h 55min",
-    "anio": "2022"
-  },
+
   {
     "name": "El juego del miedo",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fk9h1Don5JWNhLMAjspwbiMMoDzS.jpg&w=384&q=75",
@@ -14217,15 +14560,7 @@
     "time": "1h 40min",
     "anio": "2004"
   },
-  {
-    "name": "Swallowed",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FhZkppCrGJmF2sGm2Npc7KCJ07m4.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/yijr947x72ie",
-    "catego": " Terror, Suspenso",
-    "voto": "6.19/ 10",
-    "time": "1h 35min",
-    "anio": "2022"
-  },
+
   {
     "name": "Comando Especial 2",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F2KNIG63EGYe6BmhGi7e7OfSDJcy.jpg&w=384&q=75",
@@ -14244,15 +14579,7 @@
     "time": "1h 42min",
     "anio": "2014"
   },
-  {
-    "name": "Riot for the dove",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FdC6AVKkpI1NYp4TTe91fbdNAQ8A.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/ctr0lsgj5wm4",
-    "catego": " Acción",
-    "voto": "2/ 10",
-    "time": "",
-    "anio": "2022"
-  },
+
   {
     "name": "90 minutos en el cielo",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F1Bi9eVHTu2OW24aqNZjLgGUYT3k.jpg&w=384&q=75",
@@ -14443,15 +14770,7 @@
     "time": "",
     "anio": "1970"
   },
-  {
-    "name": "American Western",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FiKU3jo2HDtVObF5CrUkz1z62Ikd.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/hmg3qgplqfud",
-    "catego": " Western",
-    "voto": "/ 10",
-    "time": "",
-    "anio": "2022"
-  },
+
   {
     "name": "Three Day Millionaire",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsCZoB3PI46ptoTgahkh43jeae85.jpg&w=384&q=75",
@@ -14578,15 +14897,7 @@
     "time": "1h 26min",
     "anio": "2021"
   },
-  {
-    "name": "Una Navidad inesperada",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F6nmXiyMUvAI0SrzZqKSHOcK4pEh.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_c8.html?t=VAiJvnsyeET_layFarr3f1wD7IIQkC8.zNrolf4LS3A8oN3__DI3lA2x7PBxZ_3dL5z70jw8o7oS.ZxWrVjV6cnz92_Lp8_FMGH3qcdduCFbvgr83g991jD7n65vwtJG",
-    "catego": " Comedia, Romance",
-    "voto": "6.67/ 10",
-    "time": "1h 26min",
-    "anio": "2022"
-  },
+
   {
     "name": "Tres deseos para Cenicienta",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Frwk9t5bV2HGtTflgH8b07bUuGvv.jpg&w=384&q=75",
@@ -14596,24 +14907,7 @@
     "time": "1h 35min",
     "anio": "2021"
   },
-  {
-    "name": "The Unsettling",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F1z9mh5HWitfRSVXs25NmTakJChq.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/ci37r0rigag1",
-    "catego": " Suspenso, Misterio, Terror",
-    "voto": "6/ 10",
-    "time": "1h 33min",
-    "anio": "2022"
-  },
-  {
-    "name": "Lieber Kurt",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F8eJ4wo2wG2fvp7tSMC7PdUDE5p7.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/jqiygc5jnrot",
-    "catego": " Comedia, Drama",
-    "voto": "6.28/ 10",
-    "time": "2h 16min",
-    "anio": "2022"
-  },
+
   {
     "name": "Lesson in Murder",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FAtMHb6lGYXhSN3S2FuffNDOcyLa.jpg&w=384&q=75",
@@ -14632,15 +14926,7 @@
     "time": "1h 37min",
     "anio": "2022"
   },
-  {
-    "name": "No mires a los ojos",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F8YHnuK9dowN47XAgSry4EtIuOBZ.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/cy3ydqzjqgdr",
-    "catego": " Drama, Suspenso",
-    "voto": "6.44/ 10",
-    "time": "1h 42min",
-    "anio": "2022"
-  },
+
   {
     "name": "Piet's Sake",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F70VBid7MU3tsRtJ6APBfgEE8bL0.jpg&w=384&q=75",
@@ -15100,15 +15386,7 @@
     "time": "1h 36min",
     "anio": "2020"
   },
-  {
-    "name": "A la de tres",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F66XN5tgqPKT1xhQytXP74tRl9uS.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/b1vsqi6iucfz",
-    "catego": " Comedia, Drama",
-    "voto": "6.6/ 10",
-    "time": "1h 25min",
-    "anio": "2022"
-  },
+
   {
     "name": "El Sistema",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F6BZAYG6oooTLv72w9ePKvbpqDlj.jpg&w=384&q=75",
@@ -15145,15 +15423,7 @@
     "time": "1h 32min",
     "anio": "2022"
   },
-  {
-    "name": "Gold Run",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3o9KmtrAvQxEr6GgkKvpFWMwvOA.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/3wibm34mkxic",
-    "catego": " Guerra, Acción, Aventura, Suspenso",
-    "voto": "6.62/ 10",
-    "time": "1h 57min",
-    "anio": "2022"
-  },
+
   {
     "name": "El mágico Mundo de Andrew Bennett",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F41mYa7BXAxhwv5g2Gj2lvhTtbXN.jpg&w=384&q=75",
@@ -15163,15 +15433,7 @@
     "time": "",
     "anio": "2018"
   },
-  {
-    "name": "What We Do Next",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FyMWYiZYDz2QRbdIwpPahoMQv0Ig.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/07v26rj1ldkl",
-    "catego": " Drama, Suspenso, Crimen",
-    "voto": "6/ 10",
-    "time": "1h 17min",
-    "anio": "2022"
-  },
+
   {
     "name": "Si tuviera 70",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F5KSdIPMGQHHbIu7R6YkX0BVI8vP.jpg&w=384&q=75",
@@ -15307,15 +15569,7 @@
     "time": "1h 41min",
     "anio": "2022"
   },
-  {
-    "name": "Creatures of Necessity",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F82bbuVzKQIihJaMZJRMH2VZwv8x.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/08styl4gma5z",
-    "catego": " Crimen, Comedia, Suspenso",
-    "voto": "4/ 10",
-    "time": "1h 33min",
-    "anio": "2022"
-  },
+
   {
     "name": "El Compositor",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F1qF3sYUPoPE1nuumraAkbohzzn.jpg&w=384&q=75",
@@ -15325,24 +15579,7 @@
     "time": "1h 32min",
     "anio": "2020"
   },
-  {
-    "name": "Control: El poder de la mente",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FlwPaftuWFaE08Y4ft1oJdqpcIqX.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_c8.html?t=VAiJvnsyeET_layFarr3fyLYQBS3spyoV1rHYujzZVUc2NXqLHMqakCoiXreXLUBYdUFEMi0IBo5HtRYX7efa.3g6KmpQR.BHs_90C_puXjBQLXOWK1tvrzfoU5VDL1v",
-    "catego": " Ciencia ficción, Suspenso, Misterio",
-    "voto": "5.5/ 10",
-    "time": "1h 48min",
-    "anio": "2022"
-  },
-  {
-    "name": "Noviembre: París atacado",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FoBBgyAKgGJjDl8kGHALsylINGzM.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_c8.html?t=VAiJvnsyeET_layFarr3f8PkjBa0fZNg2.SlppoaknHQiR8Bgo7CZK.OXowBl4oW6c1ws0cQ15_x9m4U4hFHw6hm_B.p0VSr1sAYty4g_QndH2OWaFc3lmGWGVyjmOGp",
-    "catego": " Suspenso, Crimen, Drama",
-    "voto": "7.24/ 10",
-    "time": "1h 46min",
-    "anio": "2022"
-  },
+
   {
     "name": "Al Límite del Peligro",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FoIqQB8ATQhM7AlxemW7WjCV57wM.jpg&w=384&q=75",
@@ -15352,15 +15589,7 @@
     "time": "1h 48min",
     "anio": "2021"
   },
-  {
-    "name": "Robo Entre Ladrones",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fl76aJTcLlx8pUiqQd2CIadiEfpj.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/w4j13hj8uxti",
-    "catego": " Acción, Suspenso, Crimen",
-    "voto": "6.1/ 10",
-    "time": "1h 33min",
-    "anio": "2022"
-  },
+
   {
     "name": "El buen vecino",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fw1Pg71Z60BweXmJui2H8o49MohO.jpg&w=384&q=75",
@@ -15415,15 +15644,7 @@
     "time": "1h 27min",
     "anio": "2022"
   },
-  {
-    "name": "El Cinturón Negro: La Verdadera Historia de Fernando Tererê",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F6dTKUnmJ8zndMbvo0qZSAzliSJC.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_c8.html?t=VAiJvnsyeET_layFarr3f7uwXgaUedQimL_DuH0KX.4o5tR4bM_sMrWKuKxk0lACVXag_OKRD_3yrUGu8WyzOAy1RE7UVjDet0AnS7OdgcgNaCBnAB_35flu3DHO54a9",
-    "catego": " Drama",
-    "voto": "5.7/ 10",
-    "time": "0h 59min",
-    "anio": "2022"
-  },
+
   {
     "name": "Mi suegra me odia",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FAb9iyIXRbwK2YsVwpQV2xysLztJ.jpg&w=384&q=75",
@@ -15433,24 +15654,7 @@
     "time": "1h 31min",
     "anio": "2022"
   },
-  {
-    "name": "H.P. Lovecraft’s Witch House",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F5KmscR49WkmuPJKjmK4OUmsRn5C.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/agplsqsvqeh1",
-    "catego": " Terror",
-    "voto": "5.31/ 10",
-    "time": "1h 22min",
-    "anio": "2022"
-  },
-  {
-    "name": "No tendrás mi odio",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FyWeQDjAhZBz3uxO0oRVhm0s2EAS.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/butxyp1sxu2r",
-    "catego": " Drama, Historia",
-    "voto": "5.5/ 10",
-    "time": "1h 37min",
-    "anio": "2022"
-  },
+
   {
     "name": "Por Siempre Y Para Siempre",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fopl6n7PkFqACwlLW4QcxHub7dNN.jpg&w=384&q=75",
@@ -15469,15 +15673,7 @@
     "time": "1h 32min",
     "anio": "2020"
   },
-  {
-    "name": "Intenciones Crueles",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3Yz5zYXZrlx9UWbjlaEaJuyAsNY.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_c8.html?t=VAiJvnsyeET_layFarr3f2QOc144fDyuOtdpblC1bqZFekpOWLd98O8ylmk3nXVBIqZ8Eqi45F6YYKTzJbSdaJc2tnFZByk2fFpyk.rix3U6i3HzdPO5oBlJZmYM3xzY",
-    "catego": " Misterio, Suspenso, Drama",
-    "voto": "6.25/ 10",
-    "time": "1h 24min",
-    "anio": "2022"
-  },
+
   {
     "name": "El Lobo de Snow Hollow",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fkz8TPkZHt2TBsnKttKh5HGg9anh.jpg&w=384&q=75",
@@ -15550,24 +15746,7 @@
     "time": "1h 43min",
     "anio": "2022"
   },
-  {
-    "name": "Nothing is Impossible",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F2QNqDa8aKylMzSHDWHbhPVxDgla.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/ewrl76pl1mzc",
-    "catego": " Drama, Romance",
-    "voto": "5.86/ 10",
-    "time": "1h 46min",
-    "anio": "2022"
-  },
-  {
-    "name": "El cuarto pasajero",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FnJNxJdD5F3cAXglCtwjumTB5tl7.jpg&w=384&q=75",
-    "link": "https://okru.link/v2/embed_c8.html?t=VAiJvnsyeET_layFarr3fx4ko_yz7zzmGZMdK0KsO.vQC7BHASVOQVQD40zvEeqf.rs9j3SWPwpq8RdDWKngVc_xhpUX.WauvLTve0xWTLsAArhuzFX3oPmrxpgk8RSM",
-    "catego": " Comedia",
-    "voto": "6.58/ 10",
-    "time": "1h 35min",
-    "anio": "2022"
-  },
+
   {
     "name": "Diz a Ela Que Me Viu Chorar",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fo9IdMWM1YpO5uMQ6jv1gEwXGKff.jpg&w=384&q=75",
@@ -15577,15 +15756,7 @@
     "time": "1h 22min",
     "anio": "2019"
   },
-  {
-    "name": "Jesse James Unchained",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FloY0dsFGpmEumKl6zvmYCW3dyFR.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/18lus9eh71d5",
-    "catego": " Western, Acción",
-    "voto": "/ 10",
-    "time": "1h 15min",
-    "anio": "2022"
-  },
+
   {
     "name": "DOA at the PTA",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Ffzd6YA9sWePtMElRDEcAQzUSv3I.jpg&w=384&q=75",
@@ -15604,15 +15775,7 @@
     "time": "2h 00min",
     "anio": "2021"
   },
-  {
-    "name": "Don't Fuck in the Woods 2",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FA2JJzUkeTA9zHYJRkds2sCMai4D.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/vt86gb8f58oo",
-    "catego": " Terror",
-    "voto": "5/ 10",
-    "time": "1h 21min",
-    "anio": "2022"
-  },
+
   {
     "name": "Kärleksbevis",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fl445VWScAf5DjpiVenFwfHwIvHG.jpg&w=384&q=75",
@@ -15622,15 +15785,7 @@
     "time": "1h 35min",
     "anio": "2022"
   },
-  {
-    "name": "Blackbird",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FaOI5BmzZDKdkbXoRKTxznbzUerm.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/ze8zvi9yy0w6",
-    "catego": " Crimen, Acción, Romance",
-    "voto": "3.4/ 10",
-    "time": "1h 28min",
-    "anio": "2022"
-  },
+
   {
     "name": "Harry Potter y el cáliz de fuego",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsYPh29MkZTWewIL5adMwj5stqgA.jpg&w=384&q=75",
@@ -15766,15 +15921,7 @@
     "time": "1h 45min",
     "anio": "2022"
   },
-  {
-    "name": "Los pasajeros de la noche",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FyvBG0VBp65uXn1NzWbNNDlmYYmM.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/eok6av0o88qj",
-    "catego": " Drama",
-    "voto": "7.07/ 10",
-    "time": "1h 51min",
-    "anio": "2022"
-  },
+
   {
     "name": "Buio",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FcDIFHdr6wLVKq4adU7y8g6iGUop.jpg&w=384&q=75",
@@ -15847,24 +15994,7 @@
     "time": "1h 11min",
     "anio": "2022"
   },
-  {
-    "name": "Kingdom of the Dinosaurs",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Feqtg626WODpDVMcQ4xbYzGYAbRW.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/n9rr61czhui2",
-    "catego": " Terror, Acción, Ciencia ficción",
-    "voto": "3.8/ 10",
-    "time": "1h 20min",
-    "anio": "2022"
-  },
-  {
-    "name": "Nightmare Neighborhood Moms",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FzS7XPQgMoh0xtsOqFvzdpLeOHmL.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/c68mn6x5m01l",
-    "catego": " Suspenso",
-    "voto": "6.2/ 10",
-    "time": "",
-    "anio": "2022"
-  },
+
   {
     "name": "La Venganza",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F2HBiv4yXrGraGWta899UYyE7vcL.jpg&w=384&q=75",
@@ -15874,15 +16004,7 @@
     "time": "1h 57min",
     "anio": "2020"
   },
-  {
-    "name": "Wrath: A Seven Deadly Sins Story",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FjTnbZazSO57DXIHI7UzIkhYRCcz.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/0ywqagno76lq",
-    "catego": " Suspenso, Misterio, Romance",
-    "voto": "8.2/ 10",
-    "time": "1h 25min",
-    "anio": "2022"
-  },
+
   {
     "name": "El gran Gatsby",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fj4lLlVyOLzNVlLcBz6UGsAvSG2V.jpg&w=384&q=75",
@@ -62729,15 +62851,7 @@
     "time": "1h 44min",
     "anio": "2019"
   },
-  {
-    "name": "Jumanji: El siguiente nivel",
-    "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fa8R5yw0vShsgHSjeikVcPdkaWAW.jpg&w=384&q=75",
-    "link": "https://watchsb.com/e/l9g0z50owxd2",
-    "catego": " Aventura, Comedia, Fantasía",
-    "voto": "6.94/ 10",
-    "time": "2h 03min",
-    "anio": "2019"
-  },
+
   {
     "name": "Alerta roja",
     "img": "https://cuevana8.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FodBUpjZGxY3y7FBo5NBtEYGJf5r.jpg&w=384&q=75",
