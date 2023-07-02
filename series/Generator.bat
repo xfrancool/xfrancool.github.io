@@ -2,8 +2,7 @@
 setlocal enabledelayedexpansion
 
 set "sourceFolder=agentecarter"
-set "suffixList= manana empire academy
-corea viajeros"
+set "suffixList= corea viajeros"
 
 for %%a in (%suffixList%) do (
   mkdir "%%a"
