@@ -2,7 +2,9 @@
 setlocal enabledelayedexpansion
 
 set "sourceFile=agentecarter.js"
-set "suffixList=leyyorden justified insidejob looneytunes servant bmf criada experiencia simuladores parasyte witcher warrior two sheldon drew vigilantes maisel fire titanes cobrakai"
+set "suffixList=academy
+corea
+viajeros"
 
 for %%a in (%suffixList%) do (
   copy "%sourceFile%" "%%a.js" > nul
