@@ -173,7 +173,7 @@ function _0x1cb8() {
     "link",
     "6859643dmsWdL",
     "2649500ZxswFF",
-    "https://xfrancool.github.io/seriesjson/meteoro.json",
+    "https://xfrancool.github.io/seriesjson/meteorov2.json",
   ];
   _0x1cb8 = function () {
     return _0x5b1351;
