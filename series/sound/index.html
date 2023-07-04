@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>South Park</title>
+    <link rel="stylesheet" href="../boxseries.css" />
+    <link rel="stylesheet" href="../nav.css" />
+    <link
+      rel="shortcut icon"
+      href="https://xfrancool.github.io/imgweb/pop.ico"
+      type="image/x-icon"
+    />
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"
+    ></script>
+
+    <style>
+      #logo {
+        width: 30%;
+        border-radius: 8px;
+        border: 1px solid rgb(212, 210, 210);
+      }
+      @media screen and (max-width: 480px) {
+        #logo {
+          width: 60%;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="nav" id="navT"></div>
+    <div class="container">
+      <!--      <h1>The Big Bang Theory</h1> -->
+      <img
+        src="https://static.wikia.nocookie.net/doblaje/images/3/35/South_Park_Season_26_Comedy_Central_Official.jpg/revision/latest?cb=20230416015255&path-prefix=es"
+        id="logo"
+        alt=""
+      />
+      <div id="btn"></div>
+
+      <select id="temp-select"></select>
+      <ul id="cap-list"></ul>
+      <div id="video-container"></div>
+    </div>
+
+    <div class="modal" id="trailer-modal">
+      <div class="modal-content">
+        <span class="close" onclick="">&times;</span>
+        <iframe
+          id="trailer-video"
+          src=""
+          frameborder="0"
+          allowfullscreen
+        ></iframe>
+      </div>
+    </div>
+
+    <button onclick="topFunction()" id="myBtn" title="Go to top" class="top">
+      <ion-icon name="caret-up-circle-outline"></ion-icon>
+    </button>
+
+    <div class="footer">
+      &copy; Derechos reservados | &nbsp;<a
+        href="https://react-portafolio16.netlify.app/"
+        target="_blank"
+        >Franeli</a
+      >
+    </div>
+    <script src="https://xfrancool.github.io/seriesjs/sound.js"></script>
+    <script src="../nav.js" defer></script>
+    <script src="../app.js" defer></script>
+  </body>
+</html>
