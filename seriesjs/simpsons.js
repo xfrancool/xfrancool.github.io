@@ -42,7 +42,7 @@ function _0x545d() {
     "querySelectorAll",
     "1820160oCPQQL",
     "length",
-    "https://gist.githubusercontent.com/xfrancool/10279b9b066c0d70257e161a4cf0dd34/raw/db632d21e9b3ae1cbdb7e43a940cd306a760ff8c/gistfile1.txt",
+    "https://xfrancool.github.io/seriesjson/simpson.json",
     "teal",
     "temp-select",
     "appendChild",
