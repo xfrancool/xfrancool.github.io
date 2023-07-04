@@ -66,7 +66,7 @@ function Template(btn) {
     
  
      
-      <button id="btn-galery">  <a href="../index.html">Regresar a galeria</a></button>
+      <button id="btn-galery">  <a href="https://mov-house.netlify.app/galeria/series/index.html">Regresar a galeria</a></button>
  
   
       `;
