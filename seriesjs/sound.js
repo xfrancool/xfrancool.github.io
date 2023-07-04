@@ -169,7 +169,7 @@ function _0x456a() {
     "stringify",
     "addEventListener",
     "getElementById",
-    "https://api.npoint.io/fccf0433d8c053dea2a4",
+    "https://xfrancool.github.io/seriesjson/soundv2.json",
     "watchedCaps-",
   ];
   _0x456a = function () {
