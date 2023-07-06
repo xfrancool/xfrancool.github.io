@@ -1,7 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
 
-set "sourceFolder=agentecarter"
+set "sourceFolder=model"
 set "suffixList="
 
 REM Lee la lista de nombres desde un archivo de texto llamado "nombres.txt"
