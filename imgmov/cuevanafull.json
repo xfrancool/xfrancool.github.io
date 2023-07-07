@@ -1,5 +1,105 @@
 [
   {
+    "name": "Tú yo y los árboles de Navidad",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F2tnZmqnG6aS0XdsA2R44Akf7zBV.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f.q041iuLkEuNCu97qAmbvk9MszCJ3eaGkdZeaauzpGTzsu4wZH25RyxyXwSPEFHc2vyMtg5RU0C_htBMXsJRqbx82766bmgdP3eL_VSNo1U",
+    "catego": " Comedia, Romance",
+    "voto": "6.7/ 10",
+    "time": "1h 25min",
+    "anio": "2021"
+  },
+  {
+    "name": "Amores Cruzados",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fo0OzXqhrtvd0qpxgIsnPAbTvN45.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f23Rkwt6gw1F2.yXMNlcK1tSV9ranzHC3gMpxIsewKlNkXdhCH0OvhMX0Nz5gZceCqXA0j4qCamlbR5xEyKrwB.XCuOEIvjjwlrP8U_uWZYX",
+    "catego": " Drama",
+    "voto": "3.8/ 10",
+    "time": "1h 35min",
+    "anio": "2018"
+  },
+  {
+    "name": "Voces por la libertad",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FrWR8dheNhJfaKcPAN5n58K7ve2o.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f7mRe9uAAq8RatnJUyrQII8zmSzMaMTowt1zMGvjSQhGx1Tzy_Y5p0s7R7SkQkJL8qDaVxvs3DnQpi7r_EGGcREBqjB4UeHMtXiRasiSpfls",
+    "catego": " Misterio",
+    "voto": "2/ 10",
+    "time": "1h 52min",
+    "anio": "2020"
+  },
+  {
+    "name": "Maria rêve",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fw9PI9xX6hsedOYtWn0n3n1CQlJ9.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3fy4y.OJhWPUUFE6SjGHycCzTohNL_oOzF63fE7kmiM90Jw7c__1_mB5JBClCldO5SbaT9Y0O0irbmKoF6lKnm.Bi84X4o1PVmeNaQAZa1Q9b",
+    "catego": " Comedia, Romance",
+    "voto": "6.1/ 10",
+    "time": "1h 33min",
+    "anio": "2022"
+  },
+  {
+    "name": "Los agitadores",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FpVsm9S2fOj9pOohbAWBQEn0pjTO.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f6.8Ovtg87m8Sc1i_PW.bJ75Ul19Qjo17dK.R1HmZIg9I6ND6ybMfi3DWyYD89GsYwxVEXsFPR0kBjraIzrVNRB5cU7.RL0UnfeqaLWQFaN1",
+    "catego": " Comedia, Drama",
+    "voto": "1h 42min/ 10",
+    "time": "2023",
+    "anio": "2023"
+  },
+  {
+    "name": "El Cielo no puede esperar",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FeCbNscxh1Em6iDA3n64ZSceHc7N.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f1Qb_lzpkKjJ6M9A8F7y248dTpbJbGKJsdCfwDy__Vfl87aLspsGdBSFd1k1.ZqcR1m_npRWRCl1ANncauvHZghltpc_qibn2Rh.cNEGwmmt",
+    "catego": " Documental",
+    "voto": "6/ 10",
+    "time": "1h 18min",
+    "anio": "2023"
+  },
+  {
+    "name": "Drunk, Driving, and 17",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fv2m6wSGM5k1dYlR5BTK40sfleyv.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f6xOSjLfm509Y8q90DrQzZB8s6Li1LuVaUAmidI28LnQZbqVbtaM.VReT29EqL6mYFGEHMn44rehMLOJ98MZUBha_bbyzyjtF7sX8x980luJ",
+    "catego": " Drama",
+    "voto": "4/ 10",
+    "time": "1h 25min",
+    "anio": "2023"
+  },
+  {
+    "name": "Wham!",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fe7drGW0r92hORioVOigC7hWpVMm.jpg&w=384&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f2IqjbbGkt6_TVi0FcAtm2FS8KJhikrGbUYcAueNchw6WQC4z_Ac9vEmDKU_2KjUA461nBwInLJ2H3ED4Gb1IMhvPFvgog4bcZiZEfUGmuaz",
+    "catego": " Documental, Música",
+    "voto": "7.5/ 10",
+    "time": "1h 32min",
+    "anio": "2023"
+  },
+
+  {
+    "name": "Cash",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F4x9u5HsxeSJu9SW9Pf6fVVDPwxv.jpg&w=640&q=75",
+    "link": "https://watchsb.com/e/d65m438j6jvb",
+    "catego": "Comedia, Drama",
+    "voto": "62%",
+    "time": "1h 35min",
+    "anio": "2023"
+  },
+  {
+    "name": "CMA Fest: 50 Years of Fan Fair",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F7EWNbC505dGxVSjJluH1jhoGu2i.jpg&w=640&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f5WdoGcDGORe4q7m5AwETxuW2D05k81MiyKVf1zqMzCU_mU9zGbI6n6rhio43S_y48CMNVDnSpFIZgw3YTv2E01A50fnngKciGsMP5Olq1uK",
+    "catego": "",
+    "voto": "0%",
+    "time": "3h 00min",
+    "anio": "2023"
+  },
+  {
+    "name": "Born to Fly",
+    "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FxsCzQpDKGGLE1HmELXeteU9XObv.jpg&w=640&q=75",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f7v916duUUDecV5Tt7LYE5WxJtl2Mpzt0YsNq8DuEfa430zZ_OEW7hLXzBAPJDwBIXXHRwA8wC0VijLI63cMNRlYQej_nQ_51BDkmfxpSBv0",
+    "catego": "Drama, Acción",
+    "voto": "56%",
+    "time": "2h 07min",
+    "anio": "2023"
+  },
+  {
     "name": "Six Hot Chicks in a Warehouse",
     "img": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3a28Xm9VKhHeafer6AcxzQ0Nxzc.jpg&w=384&q=75",
     "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f8iCjkB_Gyundy8O603qiTA97IZTSENpABiilg9FN6ysRuQ9QcU78O_AhDrvluAwA21Mr4aXkU3Mz1OvLneuiqpsziuSY7AXR7iJOfDtEDeg",
@@ -2490,9 +2590,18 @@
     "anio": "2003"
   },
   {
-    "name": "The Devil Conspiracy",
+    "name": "The Devil Conspiracy (En)",
+    "n": "La Conspiración del Diablo",
     "img": "https://pics.filmaffinity.com/the_devil_conspiracy-958228548-mmed.jpg",
     "link": "https://media.esplay.one/player?sbx=1&ref=cuevanahd&hash=U2FsdGVkX1%2BlbWChW5BjUzS%2B33zwtWslsrmp4Y30s7noqwc%2BAaBB0xtn2%2FsC6M0X&image=https://static.esplay.one/movie/gallery/original/sp7MPK2K60LLd7A6zjHKsfgjFil.webp",
+    "catego": "Terror",
+    "anio": "2022"
+  },
+  {
+    "name": "The Devil Conspiracy (Es)",
+    "n": "La Conspiración del Diablo",
+    "img": "https://pics.filmaffinity.com/the_devil_conspiracy-958228548-mmed.jpg",
+    "link": "https://okru.link/v2/embed_vf.html?t=VAiJvnsyeET_layFarr3f3LfpXfaE51aNTNvK9gfomlSlq9UjfHkE_gQWQcz3lsl259JuZmzbfVxTN3yWM8wRpI7g6nWRel4qRWj0zLaen13_UE9dnoRwkkD94XiAWkU",
     "catego": "Terror",
     "anio": "2022"
   },
