@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Lilo y Stich</title>
+    <title class="title">Tom y Jerry</title>
     <link rel="stylesheet" href="../boxseries.css" />
     <link rel="stylesheet" href="../nav.css" />
     <link
@@ -23,13 +23,13 @@
 
     <style>
       #logo {
-        width: 45%;
+        width: 30%;
         border-radius: 8px;
+        border: 1px solid rgb(212, 210, 210);
       }
       @media screen and (max-width: 480px) {
         #logo {
-          width: 80%;
-          height: 145px;
+          width: 60%;
         }
       }
     </style>
@@ -38,12 +38,9 @@
     <div class="nav" id="navT"></div>
     <div class="container">
       <!--      <h1>The Big Bang Theory</h1> -->
-      <img
-        src="https://www.concierto.cl/wp-content/uploads/2023/04/Lilo-Stitch.jpeg"
-        id="logo"
-        alt=""
-      />
+      <img src="" id="logo" alt="" />
       <div id="btn"></div>
+
       <select id="temp-select"></select>
       <ul id="cap-list"></ul>
       <div id="video-container"></div>
@@ -72,8 +69,42 @@
         >Franeli</a
       >
     </div>
-    <script src="https://xfrancool.github.io/seriesjs/stich.js"></script>
+
     <script src="../nav.js" defer></script>
-    <script src="../app.js"></script>
+    <script src="../app.js" defer></script>
+    <script src="https://xfrancool.github.io/seriesjs/"></script>
+    <script>
+      fetch("https://api.npoint.io/9e11ea10ce7a4312e013")
+        .then((response) => response.json())
+        .then((data) => {
+          const defaultUd = 156; // Cambia el valor según tu necesidad
+          const defaultItem = data.find((item) => item.ud === defaultUd);
+
+          // Actualizar el HTML al cargar o al cambiar la selección
+          const updateHTML = (selectedItem) => {
+            if (selectedItem) {
+              const { json, img } = selectedItem;
+
+              // Actualizar la imagen
+              const logoElement = document.getElementById("logo");
+              logoElement.src = img;
+
+              // Eliminar el elemento <script> existente
+              const scriptElement = document.querySelector(
+                'script[src^="https://xfrancool.github.io/seriesjs/"]'
+              );
+              scriptElement.remove();
+
+              // Crear un nuevo elemento <script> con el atributo src actualizado
+              const newScriptElement = document.createElement("script");
+              newScriptElement.src = `https://xfrancool.github.io/seriesjs/${json}.js`;
+              document.head.appendChild(newScriptElement);
+            }
+          };
+
+          // Actualizar el HTML al cargar la página
+          updateHTML(defaultItem);
+        });
+    </script>
   </body>
 </html>
