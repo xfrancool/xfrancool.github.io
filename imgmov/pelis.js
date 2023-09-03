@@ -83,7 +83,7 @@ function _0x1425() {
     "</p>\x0a\x0a\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20",
     "then",
     "15474DUbmCE",
-    "https://xfrancool.github.io/imgmov/cuevanafull.json",
+    "https://xfrancool.github.io/imgmov/cuevanafullv2.json",
     "search-input",
     "none",
   ];
