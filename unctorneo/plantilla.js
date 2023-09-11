@@ -1,143 +1,160 @@
-const _0x46173b = _0x5685;
-(function (_0x214f68, _0x53d38a) {
-  const _0x1f00db = _0x5685,
-    _0x168581 = _0x214f68();
-  while (!![]) {
-    try {
-      const _0x4da950 =
-        -parseInt(_0x1f00db(0x191)) / 0x1 +
-        -parseInt(_0x1f00db(0x17b)) / 0x2 +
-        -parseInt(_0x1f00db(0x17f)) / 0x3 +
-        parseInt(_0x1f00db(0x195)) / 0x4 +
-        -parseInt(_0x1f00db(0x17e)) / 0x5 +
-        -parseInt(_0x1f00db(0x178)) / 0x6 +
-        parseInt(_0x1f00db(0x17c)) / 0x7;
-      if (_0x4da950 === _0x53d38a) break;
-      else _0x168581["push"](_0x168581["shift"]());
-    } catch (_0x18eb4d) {
-      _0x168581["push"](_0x168581["shift"]());
-    }
-  }
-})(_0x1e13, 0xbd1c9);
-function _0x5685(_0x134830, _0x2c1ad9) {
-  const _0x1e1363 = _0x1e13();
+function _0x3b00() {
+  const _0x5bb77e = [
+    "153685nayRhQ",
+    "#facebook",
+    "1623792HiZLwH",
+    "3511224RHYtSv",
+    "5fACjoj",
+    "json",
+    "href",
+    "aviso",
+    ".\x20Las\x20transferencias\x20destino\x20es\x20a\x20",
+    "3059947lYnrFg",
+    "</p>\x0a\x20\x20\x20\x20<br\x20/>\x0a\x20\x20\x20\x0a\x20\x20\x20\x20<p>⋄\x20Las\x20inscripciones\x20se\x20cerrarán\x20el\x20",
+    "95666pyyHnH",
+    "input.text",
+    "catch",
+    "\x20</a>\x20a\x20las\x20",
+    "118573IbQcyO",
+    "add",
+    "classList",
+    "\x20la\x20noche\x20antes\x20del\x20evento\x20para\x20que\x20podamos\x20enviar\x20el\x20pareo\x20a\x20todos\x20los\x20participantes.📋</p>\x0a\x20\x20\x20\x20<br\x20/>\x0a\x20\x20\x0a\x20\x20\x20\x20<p>⋄\x20En\x20el\x20formulario,\x20puedes\x20adjuntar\x20el\x20comprobante\x20de\x20pago.\x20Si\x20no\x20puedes\x20enviarlo\x20a\x20través\x20del\x20formulario,\x20también\x20puedes\x20hacerlo\x20haciendo\x20clic\x20en\x20el\x20logo\x20de\x20WhatsApp.</p>\x0a\x20\x20\x20\x20<br\x20/>\x0a\x20\x20\x0a\x0a\x20\x20\x20\x20<p>⋄\x20El\x20precio\x20de\x20la\x20inscripción\x20es\x20de\x20",
+    "innerHTML",
+    "80ZvnJDz",
+    "50RBxkHL",
+    "#web",
+    "#instagram",
+    "removeAllRanges",
+    "\x0a\x20\x20\x20\x20<h1>🔹\x20Información\x20sobre\x20el\x20Torneo</h1>\x0a\x20\x20\x20\x20<br\x20/>\x0a\x20\x20\x20\x20<p>⋄\x20El\x20Torneo\x20se\x20llevará\x20a\x20cabo\x20el\x20día\x20",
+    "1858452LZVlBn",
+    "querySelector",
+    "getElementById",
+    "active",
+    "https://api.npoint.io/9e0851ac36cbcc210919",
+    ".copy",
+    "copy",
+    "Network\x20response\x20was\x20not\x20ok",
+    ".social-button.whatsapp",
+    "24gdJgqM",
+    "select",
+    "then",
+    "getSelection",
+    "addEventListener",
+    "\x22\x20Target=\x22_blank\x22>\x20",
+    ".✔️</p>\x0a\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20",
+    "remove",
+    "execCommand",
+    "button",
+    "\x20en\x20la<a\x20href=\x22",
+  ];
+  _0x3b00 = function () {
+    return _0x5bb77e;
+  };
+  return _0x3b00();
+}
+function _0x5dbf(_0x3e3dfc, _0x510e5c) {
+  const _0x3b0042 = _0x3b00();
   return (
-    (_0x5685 = function (_0x56852d, _0x38f986) {
-      _0x56852d = _0x56852d - 0x173;
-      let _0x3bcc1d = _0x1e1363[_0x56852d];
-      return _0x3bcc1d;
+    (_0x5dbf = function (_0x5dbf99, _0x47cf70) {
+      _0x5dbf99 = _0x5dbf99 - 0x18b;
+      let _0x5cf541 = _0x3b0042[_0x5dbf99];
+      return _0x5cf541;
     }),
-    _0x5685(_0x134830, _0x2c1ad9)
+    _0x5dbf(_0x3e3dfc, _0x510e5c)
   );
 }
-const aliasInput = document["querySelector"](_0x46173b(0x17d));
-aliasInput["value"] = _0x46173b(0x192);
-function _0x1e13() {
-  const _0x48caf9 = [
-    ".copy",
-    "innerHTML",
-    "4878428GojSOO",
-    "getElementById",
-    "catch",
-    "active",
-    "\x20</a>\x20a\x20las\x20",
-    "select",
-    "click",
-    "\x22\x20Target=\x22_blank\x22>\x20",
-    "copy",
-    "getSelection",
-    "1970610WhZaNx",
-    "addEventListener",
-    "Network\x20response\x20was\x20not\x20ok",
-    "1379928KZrlOP",
-    "19702893twamGK",
-    ".copy\x20input.text",
-    "6487730SOFpPQ",
-    "2629353MAhSup",
-    "input.text",
-    "button",
-    ".\x20Las\x20transferencias\x20destino\x20es\x20a\x20",
-    "add",
-    "aviso",
-    ".social-button.whatsapp",
-    "error",
-    "classList",
-    "then",
-    "href",
-    ".✔️</p>\x0a\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20",
-    "querySelector",
-    "\x20la\x20noche\x20antes\x20del\x20evento\x20para\x20que\x20podamos\x20enviar\x20el\x20pareo\x20a\x20todos\x20los\x20participantes.📋</p>\x0a\x20\x20\x20\x20<br\x20/>\x0a\x20\x20\x0a\x20\x20\x20\x20<p>⋄\x20En\x20el\x20formulario,\x20puedes\x20adjuntar\x20el\x20comprobante\x20de\x20pago.\x20Si\x20no\x20puedes\x20enviarlo\x20a\x20través\x20del\x20formulario,\x20también\x20puedes\x20hacerlo\x20haciendo\x20clic\x20en\x20el\x20logo\x20de\x20WhatsApp.</p>\x0a\x20\x20\x20\x20<br\x20/>\x0a\x20\x20\x0a\x0a\x20\x20\x20\x20<p>⋄\x20El\x20precio\x20de\x20la\x20inscripción\x20es\x20de\x20",
-    "https://api.npoint.io/9e0851ac36cbcc210919",
-    "json",
-    "\x0a\x20\x20\x20\x20<h1>🔹\x20Información\x20sobre\x20el\x20Torneo</h1>\x0a\x20\x20\x20\x20<br\x20/>\x0a\x20\x20\x20\x20<p>⋄\x20El\x20Torneo\x20se\x20llevará\x20a\x20cabo\x20el\x20día\x20",
-    "</p>\x0a\x20\x20\x20\x20<br\x20/>\x0a\x20\x20\x20\x0a\x20\x20\x20\x20<p>⋄\x20Las\x20inscripciones\x20se\x20cerrarán\x20el\x20",
-    "67309qtoDlq",
-    "TIRA.CLASE.RUINA",
-  ];
-  _0x1e13 = function () {
-    return _0x48caf9;
-  };
-  return _0x1e13();
-}
-const whatsappLink = document["querySelector"](_0x46173b(0x185));
-let copyText = document["querySelector"](_0x46173b(0x193)),
-  button = copyText[_0x46173b(0x18b)](_0x46173b(0x181));
-button[_0x46173b(0x179)](_0x46173b(0x174), function () {
-  const _0x4fa0be = _0x46173b;
-  let _0x5949fd = copyText[_0x4fa0be(0x18b)](_0x4fa0be(0x180));
-  _0x5949fd[_0x4fa0be(0x173)](),
-    document["execCommand"](_0x4fa0be(0x176)),
-    copyText[_0x4fa0be(0x187)][_0x4fa0be(0x183)](_0x4fa0be(0x198)),
-    window[_0x4fa0be(0x177)]()["removeAllRanges"](),
+const _0x354533 = _0x5dbf;
+(function (_0x3c5191, _0x2f20b8) {
+  const _0x4f1fe6 = _0x5dbf,
+    _0x1e8788 = _0x3c5191();
+  while (!![]) {
+    try {
+      const _0x48d8f7 =
+        parseInt(_0x4f1fe6(0x1a6)) / 0x1 +
+        (parseInt(_0x4f1fe6(0x1a2)) / 0x2) *
+          (-parseInt(_0x4f1fe6(0x18c)) / 0x3) +
+        -parseInt(_0x4f1fe6(0x199)) / 0x4 +
+        (parseInt(_0x4f1fe6(0x19b)) / 0x5) *
+          (-parseInt(_0x4f1fe6(0x1b1)) / 0x6) +
+        (parseInt(_0x4f1fe6(0x197)) / 0x7) *
+          (parseInt(_0x4f1fe6(0x1ab)) / 0x8) +
+        -parseInt(_0x4f1fe6(0x19a)) / 0x9 +
+        (-parseInt(_0x4f1fe6(0x1ac)) / 0xa) *
+          (-parseInt(_0x4f1fe6(0x1a0)) / 0xb);
+      if (_0x48d8f7 === _0x2f20b8) break;
+      else _0x1e8788["push"](_0x1e8788["shift"]());
+    } catch (_0x2e3d94) {
+      _0x1e8788["push"](_0x1e8788["shift"]());
+    }
+  }
+})(_0x3b00, 0x3ab86);
+const aliasInput = document["querySelector"](".copy\x20input.text"),
+  whatsappLink = document[_0x354533(0x1b2)](_0x354533(0x18b)),
+  webLink = document[_0x354533(0x1b2)](_0x354533(0x1ad)),
+  facebookLink = document[_0x354533(0x1b2)](_0x354533(0x198)),
+  instagramLink = document[_0x354533(0x1b2)](_0x354533(0x1ae));
+let copyText = document[_0x354533(0x1b2)](_0x354533(0x1b6)),
+  button = copyText[_0x354533(0x1b2)](_0x354533(0x195));
+button[_0x354533(0x190)]("click", function () {
+  const _0x1d1c6d = _0x354533;
+  let _0x5a4daa = copyText[_0x1d1c6d(0x1b2)](_0x1d1c6d(0x1a3));
+  _0x5a4daa[_0x1d1c6d(0x18d)](),
+    document[_0x1d1c6d(0x194)](_0x1d1c6d(0x1b7)),
+    copyText[_0x1d1c6d(0x1a8)][_0x1d1c6d(0x1a7)](_0x1d1c6d(0x1b4)),
+    window[_0x1d1c6d(0x18f)]()[_0x1d1c6d(0x1af)](),
     setTimeout(function () {
-      const _0x47c7b9 = _0x4fa0be;
-      copyText["classList"]["remove"](_0x47c7b9(0x198));
+      const _0x1f6951 = _0x1d1c6d;
+      copyText["classList"][_0x1f6951(0x193)](_0x1f6951(0x1b4));
     }, 0x9c4);
 });
-const avisoElement = document[_0x46173b(0x196)](_0x46173b(0x184)),
-  url = _0x46173b(0x18d);
+const avisoElement = document[_0x354533(0x1b3)](_0x354533(0x19e)),
+  url = _0x354533(0x1b5);
 fetch(url)
-  [_0x46173b(0x188)]((_0x175011) => {
-    const _0x21731b = _0x46173b;
-    if (!_0x175011["ok"]) throw new Error(_0x21731b(0x17a));
-    return _0x175011[_0x21731b(0x18e)]();
+  [_0x354533(0x18e)]((_0x1ef773) => {
+    const _0x58b486 = _0x354533;
+    if (!_0x1ef773["ok"]) throw new Error(_0x58b486(0x1b8));
+    return _0x1ef773[_0x58b486(0x19c)]();
   })
-  [_0x46173b(0x188)]((_0x51e626) => {
-    const _0x236cc4 = _0x46173b,
-      _0x256fa9 = _0x51e626[0x0],
+  [_0x354533(0x18e)]((_0xa82bec) => {
+    const _0x1a9f14 = _0x354533,
+      _0x3fe5ac = _0xa82bec[0x0],
       {
-        cierre: _0x2a7a1a,
-        hora: _0xc252a8,
-        alias: _0x28d820,
-        precio: _0x2eef64,
-        fecha: _0x150f05,
-        encargado: _0x13bb4d,
-        maps: _0x196ee8,
-        facu: _0x151c5c,
-      } = _0x256fa9;
-    whatsappLink[_0x236cc4(0x189)] =
-      "https://api.whatsapp.com/send?phone=+5493548500137&text=Hola,\x20entrego\x20el\x20comprobante\x20de\x20pago\x20del\x20torneo\x20del\x20día\x20" +
-      _0x150f05 +
-      "!";
-    const _0x50ff72 =
-      _0x236cc4(0x18f) +
-      _0x150f05 +
-      "\x20en\x20la<a\x20href=\x22" +
-      _0x196ee8 +
-      _0x236cc4(0x175) +
-      _0x151c5c +
-      _0x236cc4(0x199) +
-      _0xc252a8 +
-      _0x236cc4(0x190) +
-      _0x2a7a1a +
-      _0x236cc4(0x18c) +
-      _0x2eef64 +
-      _0x236cc4(0x182) +
-      _0x13bb4d +
-      _0x236cc4(0x18a);
-    avisoElement[_0x236cc4(0x194)] = _0x50ff72;
+        cierre: _0xe99e9d,
+        hora: _0x1bc664,
+        alias: _0x3656d2,
+        precio: _0x407799,
+        fecha: _0x47c5da,
+        transferencias: _0x1ea912,
+        maps: _0x409919,
+        lugar: _0x3bdcef,
+        wpplink: _0xbec5c5,
+        facebook: _0x418c18,
+        web: _0x96aea3,
+        instagram: _0x3adfec,
+      } = _0x3fe5ac;
+    (whatsappLink[_0x1a9f14(0x19d)] = _0xbec5c5 + _0x47c5da + "!"),
+      (instagramLink["href"] = _0x3adfec),
+      (facebookLink[_0x1a9f14(0x19d)] = _0x418c18),
+      (webLink[_0x1a9f14(0x19d)] = _0x96aea3),
+      (aliasInput["value"] = _0x3656d2);
+    const _0x4cae40 =
+      _0x1a9f14(0x1b0) +
+      _0x47c5da +
+      _0x1a9f14(0x196) +
+      _0x409919 +
+      _0x1a9f14(0x191) +
+      _0x3bdcef +
+      _0x1a9f14(0x1a5) +
+      _0x1bc664 +
+      _0x1a9f14(0x1a1) +
+      _0xe99e9d +
+      _0x1a9f14(0x1a9) +
+      _0x407799 +
+      _0x1a9f14(0x19f) +
+      _0x1ea912 +
+      _0x1a9f14(0x192);
+    avisoElement[_0x1a9f14(0x1aa)] = _0x4cae40;
   })
-  [_0x46173b(0x197)]((_0x513036) => {
-    const _0xd9c65e = _0x46173b;
-    console[_0xd9c65e(0x186)]("Error\x20al\x20obtener\x20datos:", _0x513036);
+  [_0x354533(0x1a4)]((_0x13077b) => {
+    console["error"]("Error\x20al\x20obtener\x20datos:", _0x13077b);
   });
