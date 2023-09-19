@@ -1,92 +1,166 @@
-(function (_0x523b80, _0x3aee16) {
-  var _0x2b6de5 = _0x56d4,
-    _0x29e479 = _0x523b80();
-  while (!![]) {
-    try {
-      var _0x759af5 =
-        parseInt(_0x2b6de5(0xcb)) / 0x1 +
-        -parseInt(_0x2b6de5(0xcc)) / 0x2 +
-        parseInt(_0x2b6de5(0xa7)) / 0x3 +
-        -parseInt(_0x2b6de5(0xb3)) / 0x4 +
-        parseInt(_0x2b6de5(0xca)) / 0x5 +
-        parseInt(_0x2b6de5(0xc7)) / 0x6 +
-        (parseInt(_0x2b6de5(0xc0)) / 0x7) * (parseInt(_0x2b6de5(0xc4)) / 0x8);
-      if (_0x759af5 === _0x3aee16) break;
-      else _0x29e479["push"](_0x29e479["shift"]());
-    } catch (_0xeb58ba) {
-      _0x29e479["push"](_0x29e479["shift"]());
-    }
-  }
-})(_0x249b, 0x3f4c4);
-function _0x56d4(_0x3531ba, _0x3e9b4b) {
-  var _0x249b64 = _0x249b();
+function _0x44e4(_0x393646, _0x20f37a) {
+  var _0xfa6324 = _0xfa63();
   return (
-    (_0x56d4 = function (_0x56d420, _0x2c2c03) {
-      _0x56d420 = _0x56d420 - 0xa1;
-      var _0x39d4e4 = _0x249b64[_0x56d420];
-      return _0x39d4e4;
+    (_0x44e4 = function (_0x44e47e, _0x48bb4b) {
+      _0x44e47e = _0x44e47e - 0x170;
+      var _0x1af770 = _0xfa6324[_0x44e47e];
+      return _0x1af770;
     }),
-    _0x56d4(_0x3531ba, _0x3e9b4b)
+    _0x44e4(_0x393646, _0x20f37a)
   );
 }
+function _0xfa63() {
+  var _0x4fb5c8 = [
+    "usuario",
+    "55599wIuoQI",
+    "1519",
+    "Sergio29m",
+    "grupos/primero/grupo1.html",
+    "11631528SdHFty",
+    "a40lancestowin",
+    "password",
+    "5894",
+    "Sherleck",
+    "20CQQyBl",
+    "6290586GFmroN",
+    "value",
+    "getElementById",
+    "grupos/gabriela/gabriela.html",
+    "grupos/mateo/mateo.html",
+    "tatic2022",
+    "loading",
+    "gustavito1979",
+    "grupos/olavo/olavo.html",
+    "14eHGlXR",
+    "grupos/tatiana/tatiana.html",
+    "2901080bWQxSL",
+    "3080",
+    "xfrancool",
+    "Por\x20favor,\x20ingrese\x20usuario\x20y\x20contraseña\x20correctos.",
+    "67964IcGNqc",
+    "Oops...",
+    "339330bhIdpQ",
+    "3984",
+    "class2",
+    "9458",
+    "grupos/fede/fede.html",
+    "grupos/gustavo/gustavo.html",
+    "location",
+    "1820",
+    "fire",
+    "g4br13l4",
+    "Mateo1",
+    "195lMiBtC",
+    "1516",
+    "class1",
+    "3050",
+    "grupos/primeroA/grupoA.html",
+    "hola12",
+    "Hbrian94",
+    "256480",
+    "grupos/brian/brian.html",
+    "789740HNwIWH",
+  ];
+  _0xfa63 = function () {
+    return _0x4fb5c8;
+  };
+  return _0xfa63();
+}
+(function (_0x14d93b, _0x113e3d) {
+  var _0x2d670d = _0x44e4,
+    _0x7d945 = _0x14d93b();
+  while (!![]) {
+    try {
+      var _0x2f7a0e =
+        (parseInt(_0x2d670d(0x185)) / 0x1) *
+          (-parseInt(_0x2d670d(0x198)) / 0x2) +
+        -parseInt(_0x2d670d(0x1a0)) / 0x3 +
+        (parseInt(_0x2d670d(0x19e)) / 0x4) *
+          (-parseInt(_0x2d670d(0x17a)) / 0x5) +
+        -parseInt(_0x2d670d(0x18f)) / 0x6 +
+        -parseInt(_0x2d670d(0x183)) / 0x7 +
+        parseInt(_0x2d670d(0x19a)) / 0x8 +
+        (-parseInt(_0x2d670d(0x189)) / 0x9) *
+          (-parseInt(_0x2d670d(0x18e)) / 0xa);
+      if (_0x2f7a0e === _0x113e3d) break;
+      else _0x7d945["push"](_0x7d945["shift"]());
+    } catch (_0x338a48) {
+      _0x7d945["push"](_0x7d945["shift"]());
+    }
+  }
+})(_0xfa63, 0x97aa0);
 function login() {
-  var _0x14966e = _0x56d4,
-    _0x5d5214,
-    _0x563221;
-  (_0x5d5214 = document[_0x14966e(0xc3)](_0x14966e(0xbb))["value"]),
-    (_0x563221 = document[_0x14966e(0xc3)]("password")[_0x14966e(0xa5)]),
-    (btn = document[_0x14966e(0xc3)](_0x14966e(0xa4)));
-  if (_0x5d5214 == _0x14966e(0xb2) && _0x563221 == "1516")
-    window[_0x14966e(0xa1)] = _0x14966e(0xae);
+  var _0x16f4ec = _0x44e4,
+    _0x28c1b4,
+    _0x182622;
+  (_0x28c1b4 = document[_0x16f4ec(0x191)](_0x16f4ec(0x184))[_0x16f4ec(0x190)]),
+    (_0x182622 = document[_0x16f4ec(0x191)](_0x16f4ec(0x18b))["value"]),
+    (btn = document[_0x16f4ec(0x191)](_0x16f4ec(0x195)));
+  if (_0x28c1b4 == _0x16f4ec(0x18d) && _0x182622 == _0x16f4ec(0x17b))
+    window[_0x16f4ec(0x175)] = _0x16f4ec(0x188);
   else {
-    if (_0x5d5214 == "Joshua" && _0x563221 == "1517")
-      window[_0x14966e(0xa1)] = "grupos/primeroA/grupoA.html";
+    if (_0x28c1b4 == "Joshua" && _0x182622 == "1517")
+      window[_0x16f4ec(0x175)] = _0x16f4ec(0x17e);
     else {
-      if (_0x5d5214 == _0x14966e(0xba) && _0x563221 == _0x14966e(0xaf))
-        window[_0x14966e(0xa1)] = "grupos/sergio/sergio.html";
+      if (_0x28c1b4 == _0x16f4ec(0x187) && _0x182622 == "5445")
+        window[_0x16f4ec(0x175)] = "grupos/sergio/sergio.html";
       else {
-        if (_0x5d5214 == _0x14966e(0xb5) && _0x563221 == _0x14966e(0xc2))
-          window[_0x14966e(0xa1)] = _0x14966e(0xb9);
+        if (_0x28c1b4 == _0x16f4ec(0x19c) && _0x182622 == "15935789")
+          window["location"] = "inicio.html";
         else {
-          if (_0x5d5214 == _0x14966e(0xa2) && _0x563221 == _0x14966e(0xa6))
-            window[_0x14966e(0xa1)] = _0x14966e(0xc8);
+          if (_0x28c1b4 == _0x16f4ec(0x18a) && _0x182622 == _0x16f4ec(0x18c))
+            window[_0x16f4ec(0x175)] = _0x16f4ec(0x197);
           else {
-            if (_0x5d5214 == _0x14966e(0xb6) && _0x563221 == _0x14966e(0xbc))
-              window[_0x14966e(0xa1)] = _0x14966e(0xb1);
+            if (_0x28c1b4 == _0x16f4ec(0x196) && _0x182622 == _0x16f4ec(0x17d))
+              window[_0x16f4ec(0x175)] = _0x16f4ec(0x174);
             else {
-              if (_0x5d5214 == _0x14966e(0xbf) && _0x563221 == _0x14966e(0xa3))
-                window["location"] = "grupos/gabriela/gabriela.html";
+              if (
+                _0x28c1b4 == _0x16f4ec(0x180) &&
+                _0x182622 == _0x16f4ec(0x170)
+              )
+                window["location"] = _0x16f4ec(0x182);
               else {
                 if (
-                  _0x5d5214 == _0x14966e(0xa8) &&
-                  _0x563221 == _0x14966e(0xb8)
+                  _0x28c1b4 == _0x16f4ec(0x194) &&
+                  _0x182622 == _0x16f4ec(0x172)
                 )
-                  window[_0x14966e(0xa1)] = _0x14966e(0xac);
+                  window[_0x16f4ec(0x175)] = _0x16f4ec(0x199);
                 else {
                   if (
-                    _0x5d5214 == _0x14966e(0xcd) &&
-                    _0x563221 == _0x14966e(0xb0)
+                    _0x28c1b4 == _0x16f4ec(0x178) &&
+                    _0x182622 == _0x16f4ec(0x19b)
                   )
-                    window["location"] = "grupos/eric/eric.html";
+                    window[_0x16f4ec(0x175)] = _0x16f4ec(0x192);
                   else {
-                    if (
-                      _0x5d5214 == _0x14966e(0xc1) &&
-                      _0x563221 == _0x14966e(0xc9)
-                    )
-                      window[_0x14966e(0xa1)] = "grupos/fede/fede.html";
+                    if (_0x28c1b4 == "Crmayo" && _0x182622 == _0x16f4ec(0x181))
+                      window[_0x16f4ec(0x175)] = "grupos/crmayo/crmayo.html";
                     else {
-                      if (_0x5d5214 == _0x14966e(0xc6) && _0x563221 == "1519")
-                        window[_0x14966e(0xa1)] = _0x14966e(0xbd);
-                      else
-                        _0x5d5214 == _0x14966e(0xad) &&
-                        _0x563221 == _0x14966e(0xaa)
-                          ? (window[_0x14966e(0xa1)] = _0x14966e(0xb7))
-                          : (Swal[_0x14966e(0xa9)]({
-                              title: "Oops...",
-                              text: _0x14966e(0xb4),
-                            }),
-                            btn[_0x14966e(0xc5)]["remove"](_0x14966e(0xab)),
-                            btn[_0x14966e(0xc5)][_0x14966e(0xbe)]("class2"));
+                      if (_0x28c1b4 == "EricLista" && _0x182622 == "1518")
+                        window["location"] = "grupos/eric/eric.html";
+                      else {
+                        if (
+                          _0x28c1b4 == "Lelinator_9" &&
+                          _0x182622 == _0x16f4ec(0x176)
+                        )
+                          window[_0x16f4ec(0x175)] = _0x16f4ec(0x173);
+                        else {
+                          if (
+                            _0x28c1b4 == _0x16f4ec(0x179) &&
+                            _0x182622 == _0x16f4ec(0x186)
+                          )
+                            window[_0x16f4ec(0x175)] = _0x16f4ec(0x193);
+                          else
+                            _0x28c1b4 == "elimaryarg" &&
+                            _0x182622 == _0x16f4ec(0x17f)
+                              ? (window[_0x16f4ec(0x175)] = "inicio.html")
+                              : (Swal[_0x16f4ec(0x177)]({
+                                  title: _0x16f4ec(0x19f),
+                                  text: _0x16f4ec(0x19d),
+                                }),
+                                btn["classList"]["remove"](_0x16f4ec(0x17c)),
+                                btn["classList"]["add"](_0x16f4ec(0x171)));
+                        }
+                      }
                     }
                   }
                 }
@@ -97,57 +171,4 @@ function login() {
       }
     }
   }
-}
-function _0x249b() {
-  var _0x20e53f = [
-    "Lelinator_9",
-    "3050",
-    "getElementById",
-    "2472iUGvmk",
-    "classList",
-    "Mateo1",
-    "1466574FxlmJs",
-    "grupos/brian/brian.html",
-    "1820",
-    "1660090bqhsKB",
-    "133034aRSNOg",
-    "756478uXNjDH",
-    "EricLista",
-    "location",
-    "Hbrian94",
-    "3080",
-    "loading",
-    "value",
-    "3984",
-    "779595iSHJWZ",
-    "Crmayo",
-    "fire",
-    "hola12",
-    "class1",
-    "grupos/crmayo/crmayo.html",
-    "elimaryarg",
-    "grupos/primero/grupo1.html",
-    "5445",
-    "1518",
-    "grupos/tatiana/tatiana.html",
-    "Sherleck",
-    "1547364BIPajO",
-    "Por\x20favor,\x20ingrese\x20usuario\x20y\x20contraseña\x20correctos.",
-    "gustavito1979",
-    "tatic2022",
-    "inicio.html",
-    "256480",
-    "grupos/gustavo/gustavo.html",
-    "Sergio29m",
-    "usuario",
-    "9458",
-    "grupos/mateo/mateo.html",
-    "add",
-    "g4br13l4",
-    "1246kIyXfy",
-  ];
-  _0x249b = function () {
-    return _0x20e53f;
-  };
-  return _0x249b();
 }
