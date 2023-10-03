@@ -1,173 +1,184 @@
-const _0x2296e8 = _0x9124;
-function _0x9124(_0x33fc7e, _0x52e99b) {
-  const _0x489bac = _0x489b();
+function _0x3bdf(_0x3428db, _0x130b40) {
+  const _0x3aaf02 = _0x3aaf();
   return (
-    (_0x9124 = function (_0x912420, _0x1bc445) {
-      _0x912420 = _0x912420 - 0xe7;
-      let _0x90a37e = _0x489bac[_0x912420];
-      return _0x90a37e;
+    (_0x3bdf = function (_0x3bdf23, _0x90db4e) {
+      _0x3bdf23 = _0x3bdf23 - 0x1a9;
+      let _0x5859bc = _0x3aaf02[_0x3bdf23];
+      return _0x5859bc;
     }),
-    _0x9124(_0x33fc7e, _0x52e99b)
+    _0x3bdf(_0x3428db, _0x130b40)
   );
 }
-function _0x489b() {
-  const _0x176e2e = [
-    "\x0a\x20\x20\x20\x20<h1>🔹\x20Información\x20sobre\x20el\x20Torneo</h1>\x0a\x20\x20\x20\x20<br\x20/>\x0a\x20\x20\x20\x20<p>⋄\x20El\x20Torneo\x20se\x20llevará\x20a\x20cabo\x20el\x20día\x20",
-    "#facebook",
-    "#web",
-    "56322MplQTq",
-    "removeAllRanges",
-    "#instagram",
-    "querySelector",
-    "then",
-    "writeText",
-    "579960yLzJCS",
-    "aviso",
-    "890612cUnLts",
-    "No\x20se\x20pudo\x20copiar\x20al\x20portapapeles:\x20",
-    "href",
-    "</p>\x0a\x20\x20\x20\x20<br\x20/>\x0a\x20\x20\x20\x0a\x20\x20\x20\x20<p>⋄\x20Las\x20inscripciones\x20se\x20cerrarán\x20el\x20",
-    ".copy\x20input.text",
-    "input.text",
-    "getElementById",
-    "setSelectionRange",
-    "error",
-    "classList",
-    "innerHTML",
-    "Network\x20response\x20was\x20not\x20ok",
-    "click",
-    "\x20</a>\x20a\x20las\x20",
-    "31398RxVvPd",
-    "catch",
-    "addEventListener",
-    "value",
-    "add",
-    "11BEADbT",
-    "getSelection",
-    ".\x20Las\x20transferencias\x20destino\x20es\x20a\x20",
-    "4388952bHEolb",
-    "remove",
-    "Error\x20al\x20obtener\x20datos:",
-    "button",
-    "80HDLvyJ",
-    ".social-button.whatsapp",
-    ".copy",
-    "553wUVyIl",
-    "https://api.npoint.io/9e0851ac36cbcc210919",
-    "6JmpYKL",
-    "active",
-    "40ScPHKL",
-    "81997gKuqLd",
-    "5296UAZSuw",
-    "select",
-    ".✔️</p>\x0a\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20",
-    "\x20la\x20noche\x20antes\x20del\x20evento\x20para\x20que\x20podamos\x20enviar\x20el\x20pareo\x20a\x20todos\x20los\x20participantes.📋</p>\x0a\x20\x20\x20\x20<br\x20/>\x0a\x20\x20\x0a\x20\x20\x20\x20<p>⋄\x20En\x20el\x20formulario,\x20puedes\x20adjuntar\x20el\x20comprobante\x20de\x20pago.\x20Si\x20no\x20puedes\x20enviarlo\x20a\x20través\x20del\x20formulario,\x20también\x20puedes\x20hacerlo\x20haciendo\x20clic\x20en\x20el\x20logo\x20de\x20WhatsApp.</p>\x0a\x20\x20\x20\x20<br\x20/>\x0a\x20\x20\x0a\x0a\x20\x20\x20\x20<p>⋄\x20El\x20precio\x20de\x20la\x20inscripción\x20es\x20de\x20",
-  ];
-  _0x489b = function () {
-    return _0x176e2e;
-  };
-  return _0x489b();
-}
-(function (_0x4ad84c, _0x9a964) {
-  const _0x2200ee = _0x9124,
-    _0x418671 = _0x4ad84c();
+const _0x4565b8 = _0x3bdf;
+(function (_0x274144, _0x2a2445) {
+  const _0x209f04 = _0x3bdf,
+    _0xe743c1 = _0x274144();
   while (!![]) {
     try {
-      const _0x941e16 =
-        (-parseInt(_0x2200ee(0x101)) / 0x1) *
-          (-parseInt(_0x2200ee(0xfe)) / 0x2) +
-        parseInt(_0x2200ee(0x10f)) / 0x3 +
-        parseInt(_0x2200ee(0x111)) / 0x4 +
-        (parseInt(_0x2200ee(0xf9)) / 0x5) * (-parseInt(_0x2200ee(0xed)) / 0x6) +
-        (-parseInt(_0x2200ee(0xfc)) / 0x7) *
-          (-parseInt(_0x2200ee(0x102)) / 0x8) +
-        (-parseInt(_0x2200ee(0x109)) / 0x9) *
-          (parseInt(_0x2200ee(0x100)) / 0xa) +
-        (parseInt(_0x2200ee(0xf2)) / 0xb) * (-parseInt(_0x2200ee(0xf5)) / 0xc);
-      if (_0x941e16 === _0x9a964) break;
-      else _0x418671["push"](_0x418671["shift"]());
-    } catch (_0x22eb65) {
-      _0x418671["push"](_0x418671["shift"]());
+      const _0x398a80 =
+        (parseInt(_0x209f04(0x1ce)) / 0x1) *
+          (-parseInt(_0x209f04(0x1bc)) / 0x2) +
+        parseInt(_0x209f04(0x1ae)) / 0x3 +
+        -parseInt(_0x209f04(0x1b2)) / 0x4 +
+        parseInt(_0x209f04(0x1b3)) / 0x5 +
+        -parseInt(_0x209f04(0x1d5)) / 0x6 +
+        (-parseInt(_0x209f04(0x1bf)) / 0x7) *
+          (-parseInt(_0x209f04(0x1b7)) / 0x8) +
+        (parseInt(_0x209f04(0x1d6)) / 0x9) * (parseInt(_0x209f04(0x1c9)) / 0xa);
+      if (_0x398a80 === _0x2a2445) break;
+      else _0xe743c1["push"](_0xe743c1["shift"]());
+    } catch (_0x2a7090) {
+      _0xe743c1["push"](_0xe743c1["shift"]());
     }
   }
-})(_0x489b, 0x3a88c);
-const aliasInput = document[_0x2296e8(0x10c)](_0x2296e8(0x115)),
-  whatsappLink = document["querySelector"](_0x2296e8(0xfa)),
-  webLink = document[_0x2296e8(0x10c)](_0x2296e8(0x108)),
-  facebookLink = document[_0x2296e8(0x10c)](_0x2296e8(0x107)),
-  instagramLink = document[_0x2296e8(0x10c)](_0x2296e8(0x10b));
-let copyText = document["querySelector"](_0x2296e8(0xfb)),
-  button = copyText["querySelector"](_0x2296e8(0xf8)),
-  input = copyText[_0x2296e8(0x10c)](_0x2296e8(0x116));
-button[_0x2296e8(0xef)](_0x2296e8(0xeb), function () {
-  const _0x2b9b30 = _0x2296e8;
-  input[_0x2b9b30(0x103)](),
-    input[_0x2b9b30(0x118)](0x0, 0x1869f),
-    navigator["clipboard"]
-      [_0x2b9b30(0x10e)](input[_0x2b9b30(0xf0)])
-      [_0x2b9b30(0x10d)](function () {
-        const _0x42a08f = _0x2b9b30;
-        copyText[_0x42a08f(0xe8)][_0x42a08f(0xf1)]("active"),
-          window[_0x42a08f(0xf3)]()[_0x42a08f(0x10a)](),
+})(_0x3aaf, 0x72ff7);
+const aliasInput = document[_0x4565b8(0x1c7)](".copy\x20input.text"),
+  whatsappLink = document[_0x4565b8(0x1c7)](_0x4565b8(0x1b9)),
+  webLink = document[_0x4565b8(0x1c7)]("#web"),
+  facebookLink = document[_0x4565b8(0x1c7)](_0x4565b8(0x1d7)),
+  instagramLink = document["querySelector"](_0x4565b8(0x1b0));
+let copyText = document[_0x4565b8(0x1c7)](_0x4565b8(0x1ac)),
+  button = copyText[_0x4565b8(0x1c7)](_0x4565b8(0x1aa)),
+  input = copyText[_0x4565b8(0x1c7)](_0x4565b8(0x1af));
+button[_0x4565b8(0x1d1)](_0x4565b8(0x1bb), function () {
+  const _0x59d40c = _0x4565b8;
+  input[_0x59d40c(0x1be)](),
+    input[_0x59d40c(0x1c1)](0x0, 0x1869f),
+    navigator[_0x59d40c(0x1ad)]
+      ["writeText"](input[_0x59d40c(0x1c6)])
+      ["then"](function () {
+        const _0x3f5227 = _0x59d40c;
+        copyText[_0x3f5227(0x1c2)][_0x3f5227(0x1ca)](_0x3f5227(0x1c8)),
+          window[_0x3f5227(0x1d8)]()[_0x3f5227(0x1ba)](),
           setTimeout(function () {
-            const _0x29c379 = _0x42a08f;
-            copyText[_0x29c379(0xe8)][_0x29c379(0xf6)](_0x29c379(0xff));
+            const _0x217df6 = _0x3f5227;
+            copyText[_0x217df6(0x1c2)][_0x217df6(0x1c5)](_0x217df6(0x1c8));
           }, 0x9c4);
       })
-      [_0x2b9b30(0xee)](function (_0x4a692c) {
-        const _0x11566c = _0x2b9b30;
-        console[_0x11566c(0xe7)](_0x11566c(0x112), _0x4a692c);
+      ["catch"](function (_0x4b3173) {
+        const _0x26e2bc = _0x59d40c;
+        console[_0x26e2bc(0x1cd)](_0x26e2bc(0x1b4), _0x4b3173);
       });
 });
-const avisoElement = document[_0x2296e8(0x117)](_0x2296e8(0x110)),
-  url = _0x2296e8(0xfd);
+const avisoElement = document[_0x4565b8(0x1d3)](_0x4565b8(0x1b6)),
+  url = _0x4565b8(0x1ab);
+function _0x3aaf() {
+  const _0x1f1505 = [
+    "error",
+    "1iKpJvR",
+    "</p>\x0a\x20\x20\x20\x20<br\x20/>\x0a\x20\x20\x0a\x20\x20\x20\x20<p>⋄\x20",
+    ".✔️</p>\x0a\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20",
+    "addEventListener",
+    "\x20en\x20la<a\x20href=\x22",
+    "getElementById",
+    "Error\x20al\x20obtener\x20datos:",
+    "1605540KTMHcB",
+    "36KEMnAR",
+    "#facebook",
+    "getSelection",
+    "\x20</p>\x0a\x20\x20\x20\x20<br\x20/>\x0a\x20\x20\x20\x20<p>⋄\x20",
+    "catch",
+    "innerHTML",
+    "button",
+    "https://api.npoint.io/9e0851ac36cbcc210919",
+    ".copy",
+    "clipboard",
+    "210786StizCs",
+    "input.text",
+    "#instagram",
+    "\x0a\x20\x20\x20\x20<h1>🔹\x20Información\x20sobre\x20el\x20Torneo</h1>\x0a\x20\x20\x20\x20<br\x20/>\x0a\x20\x20\x20\x20<p>⋄\x20",
+    "1422856BNkTxG",
+    "947485wcQVHO",
+    "No\x20se\x20pudo\x20copiar\x20al\x20portapapeles:\x20",
+    "href",
+    "aviso",
+    "8mJNVyE",
+    "\x22\x20Target=\x22_blank\x22>\x20",
+    ".social-button.whatsapp",
+    "removeAllRanges",
+    "click",
+    "1273180jgwsFJ",
+    "Network\x20response\x20was\x20not\x20ok",
+    "select",
+    "73822QkkFkR",
+    "then",
+    "setSelectionRange",
+    "classList",
+    "</p>\x0a\x20\x20\x20\x20<br\x20/>\x0a\x20\x20\x0a\x0a\x20\x20\x20\x20<p>⋄\x20El\x20precio\x20de\x20la\x20inscripción\x20es\x20de\x20",
+    ".\x20Las\x20transferencias\x20destino\x20es\x20a\x20",
+    "remove",
+    "value",
+    "querySelector",
+    "active",
+    "3651550UYwLoV",
+    "add",
+    "\x20</a>\x20a\x20las\x20",
+    "</p>\x0a\x20\x20\x20\x20<br\x20/>\x0a\x20\x20\x20\x0a\x20\x20\x20\x20<p>⋄\x20",
+  ];
+  _0x3aaf = function () {
+    return _0x1f1505;
+  };
+  return _0x3aaf();
+}
 fetch(url)
-  ["then"]((_0x41b30c) => {
-    const _0x512f54 = _0x2296e8;
-    if (!_0x41b30c["ok"]) throw new Error(_0x512f54(0xea));
-    return _0x41b30c["json"]();
+  [_0x4565b8(0x1c0)]((_0x28db8d) => {
+    const _0x4e523c = _0x4565b8;
+    if (!_0x28db8d["ok"]) throw new Error(_0x4e523c(0x1bd));
+    return _0x28db8d["json"]();
   })
-  [_0x2296e8(0x10d)]((_0x13db4c) => {
-    const _0x294cb4 = _0x2296e8,
-      _0x396b1b = _0x13db4c[0x0],
+  ["then"]((_0xaf4c19) => {
+    const _0x3f799f = _0x4565b8,
+      _0x59f158 = _0xaf4c19[0x0],
       {
-        cierre: _0x54f558,
-        hora: _0x12c0f7,
-        alias: _0x3e8a78,
-        precio: _0x26c04d,
-        fecha: _0x411ea9,
-        transferencias: _0x4fa96f,
-        maps: _0x1c8983,
-        lugar: _0x3492a0,
-        wpplink: _0x5d22bd,
-        facebook: _0x2f9872,
-        web: _0x37d7ab,
-        instagram: _0x56fc87,
-      } = _0x396b1b;
-    (whatsappLink[_0x294cb4(0x113)] = _0x5d22bd + _0x411ea9 + "!"),
-      (instagramLink[_0x294cb4(0x113)] = _0x56fc87),
-      (facebookLink["href"] = _0x2f9872),
-      (webLink[_0x294cb4(0x113)] = _0x37d7ab),
-      (aliasInput[_0x294cb4(0xf0)] = _0x3e8a78);
-    const _0x2adf6d =
-      _0x294cb4(0x106) +
-      _0x411ea9 +
-      "\x20en\x20la<a\x20href=\x22" +
-      _0x1c8983 +
-      "\x22\x20Target=\x22_blank\x22>\x20" +
-      _0x3492a0 +
-      _0x294cb4(0xec) +
-      _0x12c0f7 +
-      _0x294cb4(0x114) +
-      _0x54f558 +
-      _0x294cb4(0x105) +
-      _0x26c04d +
-      _0x294cb4(0xf4) +
-      _0x4fa96f +
-      _0x294cb4(0x104);
-    avisoElement[_0x294cb4(0xe9)] = _0x2adf6d;
+        cierre: _0x3aedbf,
+        hora: _0x462646,
+        alias: _0x2be8b5,
+        precio: _0x2cd295,
+        fecha: _0x1f66c8,
+        transferencias: _0x402fc2,
+        maps: _0x5128b2,
+        lugar: _0x1cef02,
+        wpplink: _0x563ba1,
+        facebook: _0x2707d7,
+        web: _0x39fd15,
+        instagram: _0xfa5d85,
+        ritmo: _0x597fd5,
+        catego: _0x429816,
+        premios: _0x45a776,
+        adjuntar: _0x5878c3,
+      } = _0x59f158;
+    (whatsappLink["href"] = _0x563ba1 + _0x1f66c8 + "!"),
+      (instagramLink[_0x3f799f(0x1b5)] = _0xfa5d85),
+      (facebookLink[_0x3f799f(0x1b5)] = _0x2707d7),
+      (webLink[_0x3f799f(0x1b5)] = _0x39fd15),
+      (aliasInput["value"] = _0x2be8b5);
+    const _0x2ba371 =
+      _0x3f799f(0x1b1) +
+      _0x597fd5 +
+      _0x3f799f(0x1d9) +
+      _0x429816 +
+      _0x3f799f(0x1d9) +
+      _0x45a776 +
+      "\x20</p>\x0a\x20\x20\x20\x20<br\x20/>\x0a\x20\x20\x20\x20<p>⋄\x20El\x20Torneo\x20se\x20llevará\x20a\x20cabo\x20el\x20día\x20" +
+      _0x1f66c8 +
+      _0x3f799f(0x1d2) +
+      _0x5128b2 +
+      _0x3f799f(0x1b8) +
+      _0x1cef02 +
+      _0x3f799f(0x1cb) +
+      _0x462646 +
+      _0x3f799f(0x1cc) +
+      _0x3aedbf +
+      _0x3f799f(0x1cf) +
+      _0x5878c3 +
+      _0x3f799f(0x1c3) +
+      _0x2cd295 +
+      _0x3f799f(0x1c4) +
+      _0x402fc2 +
+      _0x3f799f(0x1d0);
+    avisoElement[_0x3f799f(0x1a9)] = _0x2ba371;
   })
-  [_0x2296e8(0xee)]((_0x52cbfb) => {
-    const _0x16be78 = _0x2296e8;
-    console[_0x16be78(0xe7)](_0x16be78(0xf7), _0x52cbfb);
+  [_0x4565b8(0x1da)]((_0x9790de) => {
+    const _0x313547 = _0x4565b8;
+    console[_0x313547(0x1cd)](_0x313547(0x1d4), _0x9790de);
   });
