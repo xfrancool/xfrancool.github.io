@@ -392,7 +392,7 @@ function _0x776c() {
     "SCG",
     "CAN",
     "GNQ",
-    "https://script.google.com/macros/s/AKfycbxJnRpBUGZinMxheUcKu87ARZ0CgQ27h6I-XepUYvwRwxjxM7HQmoDIIQofSD9mwgCdLw/exec",
+    "https://script.google.com/macros/s/AKfycbygq4D5BEnVJfpbByddrDXGDx97qRWrIEqjbhIVSJPdyDWGUfKW5QRDbWdwWDusbsn2pA/exec",
     "DJI",
     "base64",
     "Islas\x20Turcos\x20y\x20Caicos",
