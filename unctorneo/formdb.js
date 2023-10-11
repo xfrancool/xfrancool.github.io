@@ -193,7 +193,7 @@ function _0x3dd3() {
     "QAT",
     "Liechtenstein",
     "Corea\x20del\x20Norte",
-    "https://script.google.com/macros/s/AKfycbzzpcF7VnbuJh8qQoyTSaG7SVZIk_Z-LmRHFr51qgX5jvSnQGwtW2bztJ6yIAGsfP8_7A/exec",
+    "https://script.google.com/macros/s/AKfycbw9QChfsKzkKnIB7wRIT1CJheCzsrpF2NeWv1FdZ6QOCe6ORUi9iBMYt4XUSzmfutUK/exec",
     "innerHTML",
     "MMR",
     "SYC",
