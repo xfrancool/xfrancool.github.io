@@ -122,7 +122,7 @@ button[_0x2e6b55(0x202)](_0x2e6b55(0x1f1), function () {
       });
 });
 const avisoElement = document[_0x2e6b55(0x1e9)](_0x2e6b55(0x1e2)),
-  url = "https://api.npoint.io/9e0851ac36cbcc210919";
+  url = "https://xfrancool.github.io/basejson/plantilla.json";
 fetch(url)
   [_0x2e6b55(0x20a)]((_0x3d4f25) => {
     const _0x536e91 = _0x2e6b55;
