@@ -1,0 +1,407 @@
+[
+  {
+    "name": "Fede",
+    "clase": "Clase 1",
+    "tema": "Finales",
+    "estudio": "https://lichess.org/study/m4Z3Ol1H",
+    "gif": "https://www.mediafire.com/file/lve9apx9jsa821a/Clase_1.pgn/file",
+    "frame": "https://www.youtube.com/embed/Xe9jeovppAs",
+    "mes": "Diciembre"
+  },
+  {
+    "name": "Fede",
+    "clase": "Clase 2",
+    "tema": "Finales",
+    "estudio": "https://lichess.org/study/m4Z3Ol1H",
+    "gif": "https://www.mediafire.com/file/adyjf03t87xtss9/PGN_Diciembre.pgn/file",
+    "frame": "https://www.youtube.com/embed/ULkzCTkIsbM",
+    "mes": "Diciembre"
+  },
+  {
+    "name": "Fede",
+    "clase": "Clase 3",
+    "tema": "Finales",
+    "estudio": "https://lichess.org/study/m4Z3Ol1H",
+    "gif": "https://www.mediafire.com/file/adyjf03t87xtss9/PGN_Diciembre.pgn/file",
+    "frame": "https://www.youtube.com/embed/bZUPCCDtmws",
+    "mes": "Diciembre"
+  },
+  {
+    "name": "Fede",
+    "clase": "Clase 4",
+    "tema": "Finales",
+    "estudio": "https://lichess.org/study/m4Z3Ol1H",
+    "gif": "https://www.mediafire.com/file/adyjf03t87xtss9/PGN_Diciembre.pgn/file",
+    "frame": "https://www.youtube.com/embed/r3YL2dayz28",
+    "mes": "Diciembre"
+  },
+  {
+    "name": "Fede",
+    "clase": "Clase 5",
+    "tema": "Mate de Alfiles",
+    "estudio": "https://lichess.org/study/m4Z3Ol1H/7vqpSUZ2",
+    "gif": "https://www.mediafire.com/file/q3v2banxlxk4k3o/Clase_5.pgn/file",
+    "frame": "https://www.youtube.com/embed/qCJ32cnAv7E",
+    "mes": "Enero"
+  },
+  {
+    "name": "Fede",
+    "clase": "Clase 6",
+    "tema": "Defesa Pasiva",
+    "estudio": "https://lichess.org/study/m4Z3Ol1H/UVdJxctm",
+    "gif": "https://www.mediafire.com/file/y4khx38lrtnc4af/Clase_6.pgn/file",
+    "frame": "https://www.youtube.com/embed/SUD3YOO9S0A",
+    "mes": "Enero"
+  },
+  {
+    "name": "Fede",
+    "clase": "Clase 7",
+    "tema": "Pensar la apertura",
+    "estudio": "https://lichess.org/study/m4Z3Ol1H/ZuZqTIla",
+    "gif": "https://www.mediafire.com/file/yp4usd3abcf2veb/F7.pgn/file",
+    "frame": "https://www.youtube.com/embed/Ku1o6DHSr6k",
+    "mes": "Enero"
+  },
+  {
+    "name": "Fede",
+    "clase": "Clase 8",
+    "tema": "Casilla Reales",
+    "estudio": "https://lichess.org/study/m4Z3Ol1H/e7VSujNX",
+    "gif": "https://www.mediafire.com/file/7k3si808k43x1bz/F8.pgn/file",
+    "frame": "https://www.youtube.com/embed/_VEfQiBbso0",
+    "mes": "Enero"
+  },
+  {
+    "name": "Fede",
+    "clase": "Clase 9",
+    "tema": "Jugadas directas e indirectas",
+    "estudio": "https://lichess.org/study/m4Z3Ol1H/cynNpa92",
+    "gif": "https://www.mediafire.com/file/cjcosyglpoeax3v/F9.pgn/file",
+    "frame": "https://www.youtube.com/embed/JMBC2tQWt_4",
+    "mes": "Enero"
+  },
+  {
+    "name": "Fede",
+    "clase": "Clase 10",
+    "tema": "Casillas reales y las aperturas",
+    "estudio": "https://lichess.org/study/m4Z3Ol1H/HcSrM7At",
+    "gif": "https://www.mediafire.com/file/roxwsgurgtrimw2/C10.pgn/file",
+    "frame": "https://www.youtube.com/embed/a6jRL9odpr0",
+    "mes": "Febrero"
+  },
+  {
+    "name": "Fede",
+    "clase": "Clase 11",
+    "tema": "Tema real de coronación",
+    "estudio": "https://lichess.org/study/m4Z3Ol1H/smXJX1I1",
+    "gif": "https://www.mediafire.com/file/ly98ou0ny4dklyq/C11.pgn/file",
+    "frame": "https://www.youtube.com/embed/hiJzQln88ZA",
+    "mes": "Febrero"
+  },
+  {
+    "name": "Fede",
+    "clase": "Clase 12",
+    "tema": "Tema real puro contra tema real de coronación",
+    "estudio": "https://lichess.org/study/m4Z3Ol1H/VWmu2f1f",
+    "gif": "https://www.mediafire.com/file/t3t9vkz1it3bh1f/C12.pgn/file",
+    "frame": "https://www.youtube.com/embed/PWJAGiPTW_I",
+    "mes": "Febrero"
+  },
+  {
+    "name": "Eric",
+    "clase": "Clase 1",
+    "tema": "Jugar contra las piezas enemigas",
+    "estudio": "https://lichess.org/bITA1wy4THVj",
+    "video": "misvideos.html",
+    "gif": "https://www.mediafire.com/view/d4zm1mfux2nec8j/Clase1.gif/file",
+    "frame": "https://www.youtube.com/embed/-z0zsmr3GZY",
+    "mes": "Octubre"
+  },
+
+  {
+    "name": "Gustavo",
+    "clase": "Clase 1",
+    "tema": "Analisis de partida",
+    "estudio": "https://lichess.org/SIxWaKylAkA8",
+    "video": "misvideos.html",
+    "gif": "https://www.mediafire.com/file/syw00qaqed1u43g/Analisis_de_partida.pgn/file",
+    "frame": "https://www.youtube.com/embed/lLAGKEayyQw",
+    "mes": "Mayo",
+    "idlink": "lLAGKEayyQw"
+  },
+  {
+    "name": "Gustavo",
+    "clase": "Clase 2",
+    "tema": "Desarrollo",
+    "estudio": "https://lichess.org/study/c9lpSf2n/XaU5JmA6",
+    "video": "misvideos.html",
+    "gif": "https://www.mediafire.com/file/cryyqcamantusad/Clase_2.pgn/file",
+    "frame": "https://www.youtube.com/embed/mDu8t9t99bM",
+    "mes": "Mayo",
+    "idlink": "mDu8t9t99bM"
+  },
+  {
+    "name": "Gustavo",
+    "clase": "Clase 3 P1",
+    "tema": "Debilidad de color",
+    "estudio": "https://lichess.org/study/c9lpSf2n/clvJCK64",
+    "video": "misvideos.html",
+    "gif": "https://www.mediafire.com/file/jwk9b40tj6vppjg/Clase_3_P1.pgn/file",
+    "frame": "https://www.youtube.com/embed/DZGiaDAqvp0",
+    "mes": "Mayo",
+    "idlink": "DZGiaDAqvp0"
+  },
+  {
+    "name": "Gustavo",
+    "clase": "Clase 3 P2",
+    "tema": "Restricción de piezas",
+    "estudio": "https://lichess.org/study/c9lpSf2n",
+    "video": "misvideos.html",
+    "gif": "https://www.mediafire.com/file/9ws71r492w7k4tf/Clase_3.pgn/file",
+    "frame": "https://www.youtube.com/embed/7Cuil3nPUEI",
+    "mes": "Mayo",
+    "idlink": "7Cuil3nPUEI"
+  },
+  {
+    "name": "Gustavo",
+    "clase": "Clase 4",
+    "tema": "Análisis de partida",
+    "estudio": "#",
+    "video": "misvideos.html",
+    "gif": "#",
+    "frame": "https://www.youtube.com/embed/S1mVuaYUAtw",
+    "mes": "Junio",
+    "idlink": "S1mVuaYUAtw"
+  },
+  {
+    "name": "Gustavo",
+    "clase": "Clase 5",
+    "tema": "Casillas Reales",
+    "estudio": "https://lichess.org/study/c9lpSf2n/a0NrtfXo",
+    "video": "misvideos.html",
+    "gif": "https://lichess.org/yNSCaWFY/black",
+    "frame": "https://www.youtube.com/embed/YiHlpLKLkcY",
+    "mes": "Junio",
+    "idlink": "YiHlpLKLkcY"
+  },
+  {
+    "name": "Gustavo",
+    "clase": "Clase 6",
+    "tema": "Tema real de coronación",
+    "estudio": "https://lichess.org/study/c9lpSf2n/wc08M40N",
+    "video": "misvideos.html",
+    "gif": "https://www.mediafire.com/file/gc7jpnif8zim22n/Clase_6.pgn/file",
+    "frame": "https://www.youtube.com/embed/148vH4CyZy4",
+    "mes": "Junio",
+    "idlink": "148vH4CyZy4"
+  },
+  {
+    "name": "Gustavo",
+    "clase": "Clase 7",
+    "tema": "Tema real puro contra tema real de coronación",
+    "estudio": "https://lichess.org/study/c9lpSf2n/ik56GL5J",
+    "video": "misvideos.html",
+    "gif": "https://www.mediafire.com/file/evq0za4gefev575/Clase_7.pgn/file",
+    "frame": "https://www.youtube.com/embed/HKPGxWgBCTY",
+    "mes": "Junio",
+    "idlink": "HKPGxWgBCTY"
+  },
+  {
+    "name": "Gustavo",
+    "clase": "Clase 8",
+    "tema": " Alfil del fianchetto",
+    "estudio": "https://lichess.org/study/c9lpSf2n/rmchsC8p",
+    "video": "misvideos.html",
+    "gif": "https://lichess.org/study/c9lpSf2n/rmchsC8p.pgn",
+    "frame": "https://www.youtube.com/embed/u5q0-i4xiA4",
+    "mes": "Julio",
+    "idlink": "u5q0-i4xiA4"
+  },
+  {
+    "name": "Gustavo",
+    "clase": "Clase 9",
+    "tema": "Análisis de partida",
+    "estudio": "https://lichess.org/xsS6tZHa/black#8",
+    "video": "misvideos.html",
+    "gif": "https://lichess.org/game/export/xsS6tZHa?literate=1",
+    "frame": "https://www.youtube.com/embed/LaObxyinGgQ",
+    "mes": "Julio",
+    "idlink": "LaObxyinGgQ"
+  },
+  {
+    "name": "Gustavo",
+    "clase": "Clase 10",
+    "tema": "Debilidad",
+    "estudio": "https://lichess.org/study/c9lpSf2n/iFbxKZ6w",
+    "video": "misvideos.html",
+    "gif": "https://lichess.org/study/c9lpSf2n/iFbxKZ6w.pgn",
+    "frame": "https://www.youtube.com/embed/HeGB_mWOx-w",
+    "mes": "Julio",
+    "idlink": "HeGB_mWOx-w"
+  },
+  {
+    "name": "Gustavo",
+    "clase": "Clase 11",
+    "tema": "Análisis de partida IRT",
+    "estudio": "https://lichess.org/study/c9lpSf2n/x2HrRTec",
+    "video": "misvideos.html",
+    "gif": "https://lichess.org/study/c9lpSf2n/uvC8DaYa",
+    "frame": "https://www.youtube.com/embed/riXWcAbNpNs",
+    "mes": "Julio",
+    "idlink": "riXWcAbNpNs"
+  },
+  {
+    "name": "Gustavo",
+    "clase": "Clase 12",
+    "tema": "Análisis de partida",
+    "estudio": "https://lichess.org/MzbxsHpI",
+    "video": "misvideos.html",
+    "gif": "https://lichess.org/game/export/MzbxsHpI?literate=1",
+    "frame": "https://www.youtube.com/embed/TL_8Gan67fA",
+    "mes": "Agosto",
+    "idlink": "TL_8Gan67fA"
+  },
+  {
+    "name": "Gustavo",
+    "clase": "Clase 13",
+    "tema": "El dominio de una horizontal",
+    "estudio": "https://lichess.org/study/c9lpSf2n/R5820cNw",
+    "video": "misvideos.html",
+    "gif": "https://lichess.org/study/c9lpSf2n/R5820cNw.pgn",
+    "frame": "https://www.youtube.com/embed/80fO__n2fz0",
+    "mes": "Agosto",
+    "idlink": "80fO__n2fz0"
+  },
+  {
+    "name": "Gustavo",
+    "clase": "Clase 14",
+    "tema": "Base Tarrasch",
+    "estudio": "https://lichess.org/study/c9lpSf2n/8en6zsGf",
+    "video": "misvideos.html",
+    "gif": "https://lichess.org/study/c9lpSf2n/8en6zsGf.pgn",
+    "frame": "https://www.youtube.com/embed/u0cPbjPULNU",
+    "mes": "Agosto",
+    "idlink": "u0cPbjPULNU"
+  },
+  {
+    "name": "Gustavo",
+    "clase": "Clase 15",
+    "tema": "Final Rey mejor",
+    "estudio": "https://lichess.org/study/c9lpSf2n/cRij6aTd",
+    "video": "misvideos.html",
+    "gif": "https://lichess.org/study/c9lpSf2n/cRij6aTd.pgn",
+    "frame": "https://www.youtube.com/embed/VCss93T0loQ",
+    "mes": "Agosto",
+    "idlink": "VCss93T0loQ"
+  },
+  {
+    "name": "Gustavo",
+    "clase": "Clase 16",
+    "tema": "Torre contra dos piezas menores",
+    "estudio": "https://lichess.org/study/c9lpSf2n/RDETvUI4",
+    "video": "misvideos.html",
+    "gif": "https://lichess.org/study/c9lpSf2n/RDETvUI4.pgn",
+    "frame": "https://www.youtube.com/embed/z6aRU9fXEhs",
+    "mes": "Septiembre",
+    "idlink": "z6aRU9fXEhs"
+  },
+  {
+    "name": "Gustavo",
+    "clase": "Clase Temática",
+    "tema": "Posicion de lucena philidor kling y horwitz defensa pasiva y torre suicida",
+    "estudio": "https://lichess.org/study/c9lpSf2n/HZN6Yb4M",
+    "video": "misvideos.html",
+    "gif": "https://lichess.org/study/c9lpSf2n/HZN6Yb4M.pgn",
+    "frame": "https://www.youtube.com/embed/laul86js8b8",
+    "mes": "Septiembre",
+    "idlink": "laul86js8b8"
+  },
+  {
+    "name": "Gustavo",
+    "clase": "Clase 17",
+    "tema": "Análisis de partidas",
+    "estudio": "https://lichess.org/study/c9lpSf2n/YHcsZbIT",
+    "video": "misvideos.html",
+    "gif": "https://lichess.org/study/c9lpSf2n/YHcsZbIT.pgn",
+    "frame": "https://www.youtube.com/embed/f8tW84J3JlY",
+    "mes": "Septiembre",
+    "idlink": "f8tW84J3JlY"
+  },
+  {
+    "name": "Gabriela",
+    "clase": "Clase 1",
+    "tema": "Analisis de partida",
+    "estudio": "https://lichess.org/study/GxbljqJV/9FBUZnFQ",
+    "video": "misvideos.html",
+    "gif": "https://lichess.org/QsDumBV9/black",
+    "frame": "https://www.youtube.com/embed/bfexLYcwOZM",
+    "mes": "Julio"
+  },
+  {
+    "name": "Gabriela",
+    "clase": "Clase 2",
+    "tema": "Peones Colgantes",
+    "estudio": "https://lichess.org/study/GxbljqJV/WxrSbhTL",
+    "video": "misvideos.html",
+    "gif": "https://lichess.org/study/4l7FhgQR",
+    "frame": "https://www.youtube.com/embed/Cxdz3qQqA4U",
+    "mes": "Agosto"
+  },
+  [
+    {
+      "name": "Brian",
+      "clase": "Clase 1",
+      "tema": "Finales",
+      "estudio": "https://lichess.org/study/kgnvqqfk",
+      "video": "misvideos.html",
+      "gif": "https://lichess.org/study/kgnvqqfk.pgn",
+      "frame": "https://www.youtube.com/embed/MnhIhj6JeS4",
+      "mes": "Agosto",
+      "idlink": "MnhIhj6JeS4"
+    },
+    {
+      "name": "Brian",
+      "clase": "Clase 2",
+      "tema": "Desarrollo",
+      "estudio": "https://lichess.org/study/kgnvqqfk/TXHQEvwa",
+      "video": "misvideos.html",
+      "gif": "https://lichess.org/study/kgnvqqfk/TXHQEvwa.pgn",
+      "frame": "https://www.youtube.com/embed/Khwh3onFjfw",
+      "mes": "Septiembre",
+      "idlink": "Khwh3onFjfw"
+    },
+    {
+      "name": "Brian",
+      "clase": "Clase 3",
+      "tema": "Debilidades y Combinación",
+      "estudio": "https://lichess.org/study/kgnvqqfk/lrhT6wil",
+      "video": "misvideos.html",
+      "gif": "https://lichess.org/study/kgnvqqfk/lrhT6wil.pgn",
+      "frame": "https://www.youtube.com/embed/8pmnqvnJ8kA",
+      "mes": "Septiembre",
+      "idlink": "8pmnqvnJ8kA"
+    },
+    {
+      "name": "Brian",
+      "clase": "Clase 4",
+      "tema": "Restriccion de piezas, tablero, material, espacio y  tiempo",
+      "estudio": "https://lichess.org/study/kgnvqqfk/Wyn86vOE",
+      "video": "misvideos.html",
+      "gif": "https://lichess.org/study/kgnvqqfk/Wyn86vOE.pgn",
+      "frame": "https://www.youtube.com/embed/cwuXo1UjOmQ",
+      "mes": "Septiembre",
+      "idlink": "cwuXo1UjOmQ"
+    },
+    {
+      "name": "Brian",
+      "clase": "Clase 5",
+      "tema": "Posicion de lucena philidor kling y horwitz defensa pasiva y torre suicida",
+      "estudio": "https://lichess.org/study/kgnvqqfk/ztp3KTV8",
+      "video": "misvideos.html",
+      "gif": "https://lichess.org/study/kgnvqqfk/ztp3KTV8.pgn",
+      "frame": "https://www.youtube.com/embed/laul86js8b8",
+      "mes": "Septiembre",
+      "idlink": "laul86js8b8"
+    }
+  ]
+]
