@@ -50,7 +50,7 @@ function _0x34d8() {
     "temp-select",
     "display",
     "href",
-    "https://api.npoint.io/b198a7e29d4f43b0f907",
+    "https://xfrancool.github.io/seriesjson/whinchester.json",
     "8847fYWrEy",
   ];
   _0x34d8 = function () {
