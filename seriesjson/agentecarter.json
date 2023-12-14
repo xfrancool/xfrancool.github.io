@@ -1,84 +1,82 @@
 [
   "Seleccionar Temporada",
   [],
+  "Temporada 1",
   [
-    "Temporada 1",
-    [
-      {
-        "cap": 1,
-        "link": "https://voe.sx/e/vkt92lkp2yvj"
-      },
-      {
-        "cap": 2,
-        "link": "https://voe.sx/e/resatl06s6r0"
-      },
-      {
-        "cap": 3,
-        "link": "https://voe.sx/e/t44m8990huyn"
-      },
-      {
-        "cap": 4,
-        "link": "https://voe.sx/e/d95hl28ta4qv"
-      },
-      {
-        "cap": 5,
-        "link": "https://voe.sx/e/3bi7b192978h"
-      },
-      {
-        "cap": 6,
-        "link": "https://voe.sx/e/0sev536g5fdp"
-      },
-      {
-        "cap": 7,
-        "link": "https://voe.sx/e/jgghhwau5d2x"
-      },
-      {
-        "cap": 8,
-        "link": "https://voe.sx/e/l4p3cfp3lqvw"
-      }
-    ],
-    "Temporada 2",
-    [
-      {
-        "cap": 1,
-        "link": "https://voe.sx/e/qbjv9300ieoz"
-      },
-      {
-        "cap": 2,
-        "link": "https://voe.sx/e/o6ciqnlz0lrk"
-      },
-      {
-        "cap": 3,
-        "link": "https://voe.sx/e/qf4g3vvi9g1h"
-      },
-      {
-        "cap": 4,
-        "link": "https://voe.sx/e/ukds9vgbfsq3"
-      },
-      {
-        "cap": 5,
-        "link": "https://voe.sx/e/sl9zjzef4l5o"
-      },
-      {
-        "cap": 6,
-        "link": "https://doodstream.com/e/mmyg0yhunoix"
-      },
-      {
-        "cap": 7,
-        "link": "https://doodstream.com/e/xsnhga12mfg7"
-      },
-      {
-        "cap": 8,
-        "link": "https://doodstream.com/e/kedcn7fsqkrb"
-      },
-      {
-        "cap": 9,
-        "link": "https://voe.sx/e/br1lla8b11wp"
-      },
-      {
-        "cap": 10,
-        "link": "https://voe.sx/e/z04o4le5ehwc"
-      }
-    ]
+    {
+      "cap": 1,
+      "link": "https://voe.sx/e/vkt92lkp2yvj"
+    },
+    {
+      "cap": 2,
+      "link": "https://voe.sx/e/resatl06s6r0"
+    },
+    {
+      "cap": 3,
+      "link": "https://voe.sx/e/t44m8990huyn"
+    },
+    {
+      "cap": 4,
+      "link": "https://voe.sx/e/d95hl28ta4qv"
+    },
+    {
+      "cap": 5,
+      "link": "https://voe.sx/e/3bi7b192978h"
+    },
+    {
+      "cap": 6,
+      "link": "https://voe.sx/e/0sev536g5fdp"
+    },
+    {
+      "cap": 7,
+      "link": "https://voe.sx/e/jgghhwau5d2x"
+    },
+    {
+      "cap": 8,
+      "link": "https://voe.sx/e/l4p3cfp3lqvw"
+    }
+  ],
+  "Temporada 2",
+  [
+    {
+      "cap": 1,
+      "link": "https://voe.sx/e/qbjv9300ieoz"
+    },
+    {
+      "cap": 2,
+      "link": "https://voe.sx/e/o6ciqnlz0lrk"
+    },
+    {
+      "cap": 3,
+      "link": "https://voe.sx/e/qf4g3vvi9g1h"
+    },
+    {
+      "cap": 4,
+      "link": "https://voe.sx/e/ukds9vgbfsq3"
+    },
+    {
+      "cap": 5,
+      "link": "https://voe.sx/e/sl9zjzef4l5o"
+    },
+    {
+      "cap": 6,
+      "link": "https://doodstream.com/e/mmyg0yhunoix"
+    },
+    {
+      "cap": 7,
+      "link": "https://doodstream.com/e/xsnhga12mfg7"
+    },
+    {
+      "cap": 8,
+      "link": "https://doodstream.com/e/kedcn7fsqkrb"
+    },
+    {
+      "cap": 9,
+      "link": "https://voe.sx/e/br1lla8b11wp"
+    },
+    {
+      "cap": 10,
+      "link": "https://voe.sx/e/z04o4le5ehwc"
+    }
   ]
 ]
