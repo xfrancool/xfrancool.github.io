@@ -122,7 +122,7 @@ function _0x54f6() {
     "114656nuAPwk",
     "\x0a\x20\x20\x20\x20\x20<div\x20class=\x22cover\x22>\x0a\x0a\x20\x20\x20\x20\x20<img\x20id=\x22img\x22\x20src=\x22",
     "dataset",
-    "https://api.npoint.io/9e11ea10ce7a4312e013",
+    "https://script.google.com/macros/s/AKfycbzMk_hdMzvPXlDi2kghb51lYhi0D-MzCiL6lDGF40alFK4XoFwUtKR1JJHIQrM1Lwbp/exec",
     "button",
     "body",
     "classList",
