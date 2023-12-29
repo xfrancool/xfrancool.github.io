@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Agente Carter</title>
+    <title class="title">Agente Carter Mrv.</title>
     <link rel="stylesheet" href="../boxseries.css" />
     <link rel="stylesheet" href="../nav.css" />
     <link
@@ -38,11 +38,7 @@
     <div class="nav" id="navT"></div>
     <div class="container">
       <!--      <h1>The Big Bang Theory</h1> -->
-      <img
-        src="https://pics.filmaffinity.com/Agent_Carter_Serie_de_TV-759387708-large.jpg"
-        id="logo"
-        alt=""
-      />
+      <img src="" id="logo" alt="" />
       <div id="btn"></div>
 
       <select id="temp-select"></select>
@@ -73,8 +69,32 @@
         >Franeli</a
       >
     </div>
-    <script src="https://xfrancool.github.io/seriesjs/agentecarter.js"></script>
+
     <script src="../nav.js" defer></script>
     <script src="../app.js" defer></script>
+
+    <script src="https://xfrancool.github.io/seriesjs/"></script>
+
+    <script>
+      const defaultName = "agentecarter"; // Cambia el valor según tu necesidad
+      // Encuentra el script existente por su atributo src
+      const scriptElement = document.querySelector(
+        'script[src^="https://xfrancool.github.io/seriesjs/"]'
+      );
+
+      if (scriptElement) {
+        // Elimina el script existente
+        scriptElement.remove();
+
+        // Crea un nuevo elemento <script> con la URL actualizada
+        const newScriptElement = document.createElement("script");
+        newScriptElement.src = `https://xfrancool.github.io/seriesjs/${defaultName}.js`;
+
+        // Añade el nuevo script al final del head
+        document.head.appendChild(newScriptElement);
+      } else {
+        console.error("No se encontró el script para manipular.");
+      }
+    </script>
   </body>
 </html>
