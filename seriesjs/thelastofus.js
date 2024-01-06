@@ -87,7 +87,7 @@ function _0xffe3() {
   };
   return _0xffe3();
 }
-const globalName = "agentecarter";
+const globalName = "thelastofus";
 fetch(series)
   [_0x32f8d1(0x15b)]((_0x32f03d) => _0x32f03d[_0x32f8d1(0x160)]())
   ["then"]((_0x407efb) => {
