@@ -50,7 +50,7 @@ function _0x34d8() {
     "temp-select",
     "display",
     "href",
-    "https://api.npoint.io/8e28b68c5b7a67c4d714",
+    "https://xfrancool.github.io/seriesjson/thelastofus.json",
     "8847fYWrEy",
   ];
   _0x34d8 = function () {
