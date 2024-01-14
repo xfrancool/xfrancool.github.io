@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "MUCHACHOS",
+    "horarios": [
+      "16:30 hs"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "WONKA",
+    "horarios": [
+      "18:30 hs"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "AQUAMAN Y EL REINO PERDIDO",
+    "horarios": [
+      "17:50 hs"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "PATOS 2D",
+    "horarios": [
+      "14:30 hs",
+      "18:30 hs",
+      "22:30 hs"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "WISH EL PODER DE LOS DESEOS",
+    "horarios": [
+      "14:00 hs",
+      "16:00 hs",
+      "20:00 hs",
+      "22:00 hs"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "ALICIA EN EL PAÍS DE LAS PESADILLAS",
+    "horarios": [
+      "20:50 hs",
+      "22:40 hs"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "BEEKEEPER SENTENCIA DE MUERTE",
+    "horarios": [
+      "20:20 hs",
+      "22:30 hs"
+    ]
+  }
+]
