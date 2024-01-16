@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Alicia regresa al país de las maravillas (2010)",
+    "horarios": [
+      "2:15 pm|11:55"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Aquaman y el reino perdido (2023)",
+    "horarios": [
+      "2:05 pm|4:30|4:35|6:55|8:55|9:20|11:20|11:45"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Five Nights at Freddy's (2023)",
+    "horarios": [
+      "2:45 pm|9:45"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "¡Patos! (2023)",
+    "horarios": [
+      "12:15 pm|12:45|2:10|2:40|4:05|6:00|7:00|7:55|9:50|11:45",
+      "6:50 pm|10:40"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Muchachos, la película de la gente (2023)",
+    "horarios": [
+      "1:35 pm|3:35|5:35|7:35|9:45"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Beekeeper: Sentencia de muerte (2024)",
+    "horarios": [
+      "5:50 pm|11:05"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Wonka (2023)",
+    "horarios": [
+      "2:05 pm|4:25|6:40|8:55"
+    ]
+  }
+]
