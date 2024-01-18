@@ -111,7 +111,7 @@ let currentPage = 0x1,
   cardsPerPage = 0xc,
   currentCards = [],
   filteredCards = [];
-fetch("https://xfrancool.github.io/imgmov/cuevanafullv2.json")
+fetch("https://cuevanapelis.onrender.com/cuevana")
   [_0x2abb14(0x161)]((_0x3ade26) => _0x3ade26[_0x2abb14(0x174)]())
   [_0x2abb14(0x161)]((_0x399fea) => {
     const _0xd5dc63 = _0x2abb14;
