@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title class="title">Ted</title>
+    <link rel="stylesheet" href="../boxseries.css" />
+    <link rel="stylesheet" href="../nav.css" />
+    <link
+      rel="shortcut icon"
+      href="https://xfrancool.github.io/imgweb/pop.ico"
+      type="image/x-icon"
+    />
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"
+    ></script>
+
+    <style>
+      #logo {
+        width: 30%;
+        border-radius: 8px;
+        border: 1px solid rgb(212, 210, 210);
+      }
+      @media screen and (max-width: 480px) {
+        #logo {
+          width: 60%;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="nav" id="navT"></div>
+    <div class="container">
+      <!--      <h1>The Big Bang Theory</h1> -->
+      <img src="" id="logo" alt="" />
+      <div id="btn"></div>
+
+      <select id="temp-select"></select>
+      <ul id="cap-list"></ul>
+      <div id="video-container"></div>
+    </div>
+
+    <div class="modal" id="trailer-modal">
+      <div class="modal-content">
+        <span class="close" onclick="">&times;</span>
+        <iframe
+          id="trailer-video"
+          src=""
+          frameborder="0"
+          allowfullscreen
+        ></iframe>
+      </div>
+    </div>
+
+    <button onclick="topFunction()" id="myBtn" title="Go to top" class="top">
+      <ion-icon name="caret-up-circle-outline"></ion-icon>
+    </button>
+
+    <div class="footer">
+      &copy; Derechos reservados | &nbsp;<a
+        href="https://react-portafolio16.netlify.app/"
+        target="_blank"
+        >Franeli</a
+      >
+    </div>
+
+    <script src="../nav.js" defer></script>
+    <script src="../app.js" defer></script>
+
+    <script src="https://xfrancool.github.io/seriesjs/"></script>
+    <script>
+      const globalName = "ted"; // Cambia el valor según tu necesidad
+      // Encuentra el script existente por su atributo src
+      const scriptElement = document.querySelector(
+        'script[src^="https://xfrancool.github.io/seriesjs/"]'
+      );
+
+      if (scriptElement) {
+        // Elimina el script existente
+        scriptElement.remove();
+
+        // Crea un nuevo elemento <script> con la URL actualizada y el atributo type="module"
+        const newScriptElement = document.createElement("script");
+        newScriptElement.src = `https://xfrancool.github.io/seriesjs/${globalName}.js`;
+        newScriptElement.type = "module"; // Agrega el atributo type="module"
+
+        // Añade el nuevo script al final del head
+        document.head.appendChild(newScriptElement);
+      } else {
+        console.error("No se encontró el script para manipular.");
+      }
+    </script>
+  </body>
+</html>
