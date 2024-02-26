@@ -1,14 +1,27 @@
 [
   {
-    "titulo": "6° Torneo",
-    "fecha": "A definir",
-    "descripcion": "Próximamente",
+    "titulo": "7° Torneo (Por equipos)",
+    "fecha": "Próximamente 02 Marzo, 2024",
+    "descripcion": "Próximamente 02 Marzo 2024",
     "imagen": "https://xfrancool.github.io/imgwebeli/logo1.png",
-    "drive": "",
-    "pdf": "",
+    "drive": "#",
+    "chessresults": "#",
+    "pdf": "#",
     "podio1": "-",
     "podio2": "-",
     "podio3": "-"
+  },
+  {
+    "titulo": "6° Torneo",
+    "fecha": "25 Febrero, 2024 (Integración a ciegas en colaboración con el Club Ajedrez Popular)",
+    "descripcion": "Torneos integración a ciegas",
+    "imagen": "https://xfrancool.github.io/eventosacademy/6.jpg",
+    "drive": "https://drive.google.com/drive/folders/1KjJiQbYGc5BcTG0Sf4UGHaC3bZPFHiig?usp=sharing",
+    "chessresults": "#",
+    "pdf": "#",
+    "podio1": "Argento, Elizabeth Mariel",
+    "podio2": "Saponara Caizzi, Jose Maria",
+    "podio3": "Arias, Juan Carlos (CM)"
   },
   {
     "titulo": "5° Torneo",
