@@ -1,0 +1,22 @@
+[
+  {
+    "nombre": "Argento Elizabeth",
+    "descripcion": "Presidente",
+    "foto": "https://xfrancool.github.io/eventosacademy/p1.jpg"
+  },
+  {
+    "nombre": "Argento Ramón",
+    "descripcion": "Viceprecidente",
+    "foto": "https://xfrancool.github.io/eventosacademy/p2.jpg"
+  },
+  {
+    "nombre": "Vargas Nicolás",
+    "descripcion": "Redes Sociales",
+    "foto": "https://xfrancool.github.io/eventosacademy/p3.jpg"
+  },
+  {
+    "nombre": "Ortega Franco",
+    "descripcion": "Plataforma / Organizador",
+    "foto": "https://xfrancool.github.io/eventosacademy/p4.jpg"
+  }
+]

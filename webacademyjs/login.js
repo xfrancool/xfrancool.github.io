@@ -1,186 +1,189 @@
-function _0x3424() {
-  var _0x1a7968 = [
-    "grupos/sergio/sergio.html",
-    "add",
-    "3984",
-    "grupos/primero/grupo1.html",
-    "grupos/primeroA/grupoA.html",
-    "getElementById",
-    "5445",
-    "grupos/tatiana/tatiana.html",
-    "grupos/gabriela/gabriela.html",
-    "a40lancestowin",
-    "Hbrian94",
-    "Por\x20favor,\x20ingrese\x20usuario\x20y\x20contraseña\x20correctos.",
-    "70236zDyVpu",
-    "2562280EVrghJ",
-    "fire",
-    "g4br13l4",
-    "9458",
-    "class2",
-    "value",
-    "40VzzFuA",
-    "8sJNbyZ",
-    "grupos/gustavo/gustavo.html",
-    "Oops...",
-    "xfrancool",
-    "3913208LTOWVQ",
-    "3080",
-    "usuario",
-    "5894",
-    "70940AvhlTc",
-    "Joshua",
-    "remove",
-    "1516",
-    "grupos/fede/fede.html",
-    "gustavito1979",
-    "970837nSTlau",
-    "1990812IccuGZ",
-    "1517",
-    "class1",
-    "Sherleck",
-    "256480",
-    "3050",
-    "inicio.html",
-    "4733496CwXOab",
-    "location",
-    "1820",
-    "grupos/eric/eric.html",
-    "grupos/olavo/olavo.html",
-    "classList",
-    "EricLista",
-    "Sergio29m",
-    "tatic2022",
-    "password",
-    "loading",
-    "Crmayo",
-    "12OFQPcl",
-    "1518",
-    "1519",
-    "grupos/roberto/roberto.html",
-    "Lelinator_9",
-  ];
-  _0x3424 = function () {
-    return _0x1a7968;
-  };
-  return _0x3424();
-}
-function _0x2fa2(_0x2b4032, _0x354f8f) {
-  var _0x342488 = _0x3424();
+function _0x10b2(_0x1f7e66, _0x2088fb) {
+  var _0x44100d = _0x4410();
   return (
-    (_0x2fa2 = function (_0x2fa2ba, _0x41e28c) {
-      _0x2fa2ba = _0x2fa2ba - 0xe8;
-      var _0x193a26 = _0x342488[_0x2fa2ba];
-      return _0x193a26;
+    (_0x10b2 = function (_0x10b2ba, _0x5b7304) {
+      _0x10b2ba = _0x10b2ba - 0x13e;
+      var _0xd72a5f = _0x44100d[_0x10b2ba];
+      return _0xd72a5f;
     }),
-    _0x2fa2(_0x2b4032, _0x354f8f)
+    _0x10b2(_0x1f7e66, _0x2088fb)
   );
 }
-(function (_0x77c28a, _0x4a9b30) {
-  var _0x327d5a = _0x2fa2,
-    _0x6997e6 = _0x77c28a();
+function _0x4410() {
+  var _0x1f8ae6 = [
+    "8380810ecCwAI",
+    "234166POxzsb",
+    "1517",
+    "9458",
+    "3389744iNKuuH",
+    "Oops...",
+    "Joshua",
+    "Sherleck",
+    "695895",
+    "grupos/victor/victor.html",
+    "Crmayo",
+    "6361628CwFyUP",
+    "remove",
+    "inicio.html",
+    "getElementById",
+    "EricLista",
+    "1350682ZGcNzU",
+    "g4br13l4",
+    "159652",
+    "18ABBLUl",
+    "1519",
+    "xfrancool",
+    "value",
+    "grupos/eric/eric.html",
+    "3mTpUPQ",
+    "grupos/brian/brian.html",
+    "1518",
+    "833545wqzSHE",
+    "11UsHpKl",
+    "classList",
+    "grupos/fede/fede.html",
+    "grupos/tatiana/tatiana.html",
+    "3050",
+    "hola12",
+    "loading",
+    "grupos/crmayo/crmayo.html",
+    "usuario",
+    "Mateo1",
+    "grupos/primeroA/grupoA.html",
+    "3984",
+    "18VWiFkJ",
+    "grupos/gustavo/gustavo.html",
+    "Sergio29m",
+    "grupos/primero/grupo1.html",
+    "fire",
+    "class2",
+    "1516",
+    "1449160yrXepN",
+    "Lelinator_9",
+    "grupos/roberto/roberto.html",
+    "location",
+    "password",
+    "grupos/gabriela/gabriela.html",
+    "RobertoZ",
+    "tatic2022",
+  ];
+  _0x4410 = function () {
+    return _0x1f8ae6;
+  };
+  return _0x4410();
+}
+(function (_0x368fce, _0x21b767) {
+  var _0x45bc99 = _0x10b2,
+    _0x13bd29 = _0x368fce();
   while (!![]) {
     try {
-      var _0x2ec996 =
-        (-parseInt(_0x327d5a(0x115)) / 0x1) *
-          (-parseInt(_0x327d5a(0xfb)) / 0x2) +
-        -parseInt(_0x327d5a(0x102)) / 0x3 +
-        -parseInt(_0x327d5a(0xf7)) / 0x4 +
-        -parseInt(_0x327d5a(0xec)) / 0x5 +
-        -parseInt(_0x327d5a(0xeb)) / 0x6 +
-        (parseInt(_0x327d5a(0x101)) / 0x7) * (parseInt(_0x327d5a(0xf3)) / 0x8) +
-        (-parseInt(_0x327d5a(0x109)) / 0x9) *
-          (-parseInt(_0x327d5a(0xf2)) / 0xa);
-      if (_0x2ec996 === _0x4a9b30) break;
-      else _0x6997e6["push"](_0x6997e6["shift"]());
-    } catch (_0x2ace46) {
-      _0x6997e6["push"](_0x6997e6["shift"]());
+      var _0x54091f =
+        parseInt(_0x45bc99(0x149)) / 0x1 +
+        parseInt(_0x45bc99(0x158)) / 0x2 +
+        (parseInt(_0x45bc99(0x160)) / 0x3) *
+          (parseInt(_0x45bc99(0x140)) / 0x4) +
+        (-parseInt(_0x45bc99(0x163)) / 0x5) *
+          (-parseInt(_0x45bc99(0x170)) / 0x6) +
+        parseInt(_0x45bc99(0x153)) / 0x7 +
+        (parseInt(_0x45bc99(0x14c)) / 0x8) *
+          (-parseInt(_0x45bc99(0x15b)) / 0x9) +
+        (-parseInt(_0x45bc99(0x148)) / 0xa) *
+          (parseInt(_0x45bc99(0x164)) / 0xb);
+      if (_0x54091f === _0x21b767) break;
+      else _0x13bd29["push"](_0x13bd29["shift"]());
+    } catch (_0x37704b) {
+      _0x13bd29["push"](_0x13bd29["shift"]());
     }
   }
-})(_0x3424, 0x7a917);
+})(_0x4410, 0xf2f8b);
 function login() {
-  var _0x1101b4 = _0x2fa2,
-    _0x12c43d,
-    _0x592ab0;
-  (_0x12c43d = document[_0x1101b4(0x11f)](_0x1101b4(0xf9))[_0x1101b4(0xf1)]),
-    (_0x592ab0 = document[_0x1101b4(0x11f)](_0x1101b4(0x112))[_0x1101b4(0xf1)]),
-    (btn = document[_0x1101b4(0x11f)](_0x1101b4(0x113)));
-  if (_0x12c43d == _0x1101b4(0x105) && _0x592ab0 == _0x1101b4(0xfe))
-    window[_0x1101b4(0x10a)] = _0x1101b4(0x11d);
+  var _0xce1381 = _0x10b2,
+    _0x5a38e5,
+    _0x3b6493;
+  (_0x5a38e5 = document[_0xce1381(0x156)](_0xce1381(0x16c))[_0xce1381(0x15e)]),
+    (_0x3b6493 = document[_0xce1381(0x156)](_0xce1381(0x144))[
+      _0xce1381(0x15e)
+    ]),
+    (btn = document[_0xce1381(0x156)](_0xce1381(0x16a)));
+  if (_0x5a38e5 == _0xce1381(0x14f) && _0x3b6493 == _0xce1381(0x13f))
+    window[_0xce1381(0x143)] = _0xce1381(0x173);
   else {
-    if (_0x12c43d == _0x1101b4(0xfc) && _0x592ab0 == _0x1101b4(0x103))
-      window[_0x1101b4(0x10a)] = _0x1101b4(0x11e);
+    if (_0x5a38e5 == _0xce1381(0x14e) && _0x3b6493 == _0xce1381(0x14a))
+      window[_0xce1381(0x143)] = _0xce1381(0x16e);
     else {
-      if (_0x12c43d == _0x1101b4(0x110) && _0x592ab0 == _0x1101b4(0x120))
-        window[_0x1101b4(0x10a)] = _0x1101b4(0x11a);
+      if (_0x5a38e5 == _0xce1381(0x172) && _0x3b6493 == "5445")
+        window[_0xce1381(0x143)] = "grupos/sergio/sergio.html";
       else {
-        if (_0x12c43d == _0x1101b4(0xf6) && _0x592ab0 == "15935789")
-          window["location"] = "inicio.html";
+        if (_0x5a38e5 == _0xce1381(0x15d) && _0x3b6493 == "15935789")
+          window[_0xce1381(0x143)] = "inicio.html";
         else {
-          if (_0x12c43d == _0x1101b4(0xe8) && _0x592ab0 == _0x1101b4(0xfa))
-            window[_0x1101b4(0x10a)] = _0x1101b4(0x10d);
+          if (_0x5a38e5 == "a40lancestowin" && _0x3b6493 == "5894")
+            window[_0xce1381(0x143)] = "grupos/olavo/olavo.html";
           else {
-            if (_0x12c43d == _0x1101b4(0x100) && _0x592ab0 == _0x1101b4(0x107))
-              window[_0x1101b4(0x10a)] = _0x1101b4(0xf4);
+            if (_0x5a38e5 == "gustavito1979" && _0x3b6493 == _0xce1381(0x168))
+              window["location"] = _0xce1381(0x171);
             else {
-              if (_0x12c43d == _0x1101b4(0xe9) && _0x592ab0 == _0x1101b4(0x11c))
-                window["location"] = "grupos/brian/brian.html";
+              if (_0x5a38e5 == "Hbrian94" && _0x3b6493 == _0xce1381(0x16f))
+                window["location"] = _0xce1381(0x161);
               else {
                 if (
-                  _0x12c43d == _0x1101b4(0x111) &&
-                  _0x592ab0 == _0x1101b4(0xef)
+                  _0x5a38e5 == _0xce1381(0x147) &&
+                  _0x3b6493 == _0xce1381(0x14b)
                 )
-                  window[_0x1101b4(0x10a)] = _0x1101b4(0x121);
+                  window[_0xce1381(0x143)] = _0xce1381(0x167);
                 else {
-                  if (
-                    _0x12c43d == _0x1101b4(0xee) &&
-                    _0x592ab0 == _0x1101b4(0xf8)
-                  )
-                    window[_0x1101b4(0x10a)] = _0x1101b4(0x122);
+                  if (_0x5a38e5 == _0xce1381(0x159) && _0x3b6493 == "3080")
+                    window[_0xce1381(0x143)] = _0xce1381(0x145);
                   else {
-                    if (
-                      _0x12c43d == _0x1101b4(0x114) &&
-                      _0x592ab0 == _0x1101b4(0x106)
-                    )
-                      window["location"] = "grupos/crmayo/crmayo.html";
+                    if (_0x5a38e5 == _0xce1381(0x152) && _0x3b6493 == "256480")
+                      window[_0xce1381(0x143)] = _0xce1381(0x16b);
                     else {
                       if (
-                        _0x12c43d == _0x1101b4(0x10f) &&
-                        _0x592ab0 == _0x1101b4(0x116)
+                        _0x5a38e5 == _0xce1381(0x157) &&
+                        _0x3b6493 == _0xce1381(0x162)
                       )
-                        window[_0x1101b4(0x10a)] = _0x1101b4(0x10c);
+                        window[_0xce1381(0x143)] = _0xce1381(0x15f);
                       else {
                         if (
-                          _0x12c43d == _0x1101b4(0x119) &&
-                          _0x592ab0 == _0x1101b4(0x10b)
+                          _0x5a38e5 == _0xce1381(0x141) &&
+                          _0x3b6493 == "1820"
                         )
-                          window[_0x1101b4(0x10a)] = _0x1101b4(0xff);
+                          window[_0xce1381(0x143)] = _0xce1381(0x166);
                         else {
                           if (
-                            _0x12c43d == "Mateo1" &&
-                            _0x592ab0 == _0x1101b4(0x117)
+                            _0x5a38e5 == _0xce1381(0x16d) &&
+                            _0x3b6493 == _0xce1381(0x15c)
                           )
-                            window[_0x1101b4(0x10a)] =
+                            window[_0xce1381(0x143)] =
                               "grupos/mateo/mateo.html";
                           else {
                             if (
-                              _0x12c43d == "RobertoZ" &&
-                              _0x592ab0 == "159652"
+                              _0x5a38e5 == _0xce1381(0x146) &&
+                              _0x3b6493 == _0xce1381(0x15a)
                             )
-                              window["location"] = _0x1101b4(0x118);
-                            else
-                              _0x12c43d == "elimaryarg" && _0x592ab0 == "hola12"
-                                ? (window["location"] = _0x1101b4(0x108))
-                                : (Swal[_0x1101b4(0xed)]({
-                                    title: _0x1101b4(0xf5),
-                                    text: _0x1101b4(0xea),
-                                  }),
-                                  btn[_0x1101b4(0x10e)][_0x1101b4(0xfd)](
-                                    _0x1101b4(0x104)
-                                  ),
-                                  btn[_0x1101b4(0x10e)][_0x1101b4(0x11b)](
-                                    _0x1101b4(0xf0)
-                                  ));
+                              window[_0xce1381(0x143)] = _0xce1381(0x142);
+                            else {
+                              if (
+                                _0x5a38e5 == "victorluis" &&
+                                _0x3b6493 == _0xce1381(0x150)
+                              )
+                                window[_0xce1381(0x143)] = _0xce1381(0x151);
+                              else
+                                _0x5a38e5 == "elimaryarg" &&
+                                _0x3b6493 == _0xce1381(0x169)
+                                  ? (window[_0xce1381(0x143)] =
+                                      _0xce1381(0x155))
+                                  : (Swal[_0xce1381(0x174)]({
+                                      title: _0xce1381(0x14d),
+                                      text: "Por\x20favor,\x20ingrese\x20usuario\x20y\x20contraseña\x20correctos.",
+                                    }),
+                                    btn[_0xce1381(0x165)][_0xce1381(0x154)](
+                                      "class1"
+                                    ),
+                                    btn[_0xce1381(0x165)]["add"](
+                                      _0xce1381(0x13e)
+                                    ));
+                            }
                           }
                         }
                       }
