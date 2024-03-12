@@ -1,188 +1,131 @@
-function _0x10b2(_0x1f7e66, _0x2088fb) {
-  var _0x44100d = _0x4410();
-  return (
-    (_0x10b2 = function (_0x10b2ba, _0x5b7304) {
-      _0x10b2ba = _0x10b2ba - 0x13e;
-      var _0xd72a5f = _0x44100d[_0x10b2ba];
-      return _0xd72a5f;
-    }),
-    _0x10b2(_0x1f7e66, _0x2088fb)
-  );
-}
-function _0x4410() {
-  var _0x1f8ae6 = [
-    "8380810ecCwAI",
-    "234166POxzsb",
-    "1517",
-    "9458",
-    "3389744iNKuuH",
-    "Oops...",
-    "Joshua",
-    "Sherleck",
-    "695895",
-    "grupos/victor/victor.html",
-    "Crmayo",
-    "6361628CwFyUP",
-    "remove",
-    "inicio.html",
-    "getElementById",
-    "EricLista",
-    "1350682ZGcNzU",
-    "g4br13l4",
-    "159652",
-    "18ABBLUl",
-    "1519",
-    "xfrancool",
-    "value",
-    "grupos/eric/eric.html",
-    "3mTpUPQ",
-    "grupos/brian/brian.html",
-    "1518",
-    "833545wqzSHE",
-    "11UsHpKl",
-    "classList",
-    "grupos/fede/fede.html",
-    "grupos/tatiana/tatiana.html",
-    "3050",
-    "hola12",
-    "loading",
-    "grupos/crmayo/crmayo.html",
-    "usuario",
-    "Mateo1",
-    "grupos/primeroA/grupoA.html",
-    "3984",
-    "18VWiFkJ",
-    "grupos/gustavo/gustavo.html",
-    "Sergio29m",
-    "grupos/primero/grupo1.html",
-    "fire",
-    "class2",
-    "1516",
-    "1449160yrXepN",
-    "Lelinator_9",
-    "grupos/roberto/roberto.html",
-    "location",
-    "password",
-    "grupos/gabriela/gabriela.html",
-    "RobertoZ",
-    "tatic2022",
-  ];
-  _0x4410 = function () {
-    return _0x1f8ae6;
-  };
-  return _0x4410();
-}
-(function (_0x368fce, _0x21b767) {
-  var _0x45bc99 = _0x10b2,
-    _0x13bd29 = _0x368fce();
+(function (_0x170f31, _0x270a55) {
+  var _0x4de34d = _0x37c1,
+    _0x30f145 = _0x170f31();
   while (!![]) {
     try {
-      var _0x54091f =
-        parseInt(_0x45bc99(0x149)) / 0x1 +
-        parseInt(_0x45bc99(0x158)) / 0x2 +
-        (parseInt(_0x45bc99(0x160)) / 0x3) *
-          (parseInt(_0x45bc99(0x140)) / 0x4) +
-        (-parseInt(_0x45bc99(0x163)) / 0x5) *
-          (-parseInt(_0x45bc99(0x170)) / 0x6) +
-        parseInt(_0x45bc99(0x153)) / 0x7 +
-        (parseInt(_0x45bc99(0x14c)) / 0x8) *
-          (-parseInt(_0x45bc99(0x15b)) / 0x9) +
-        (-parseInt(_0x45bc99(0x148)) / 0xa) *
-          (parseInt(_0x45bc99(0x164)) / 0xb);
-      if (_0x54091f === _0x21b767) break;
-      else _0x13bd29["push"](_0x13bd29["shift"]());
-    } catch (_0x37704b) {
-      _0x13bd29["push"](_0x13bd29["shift"]());
+      var _0x503caf =
+        (-parseInt(_0x4de34d(0x14d)) / 0x1) *
+          (-parseInt(_0x4de34d(0x144)) / 0x2) +
+        (-parseInt(_0x4de34d(0x124)) / 0x3) *
+          (parseInt(_0x4de34d(0x13b)) / 0x4) +
+        (parseInt(_0x4de34d(0x126)) / 0x5) *
+          (parseInt(_0x4de34d(0x141)) / 0x6) +
+        (-parseInt(_0x4de34d(0x122)) / 0x7) *
+          (-parseInt(_0x4de34d(0x118)) / 0x8) +
+        -parseInt(_0x4de34d(0x125)) / 0x9 +
+        -parseInt(_0x4de34d(0x147)) / 0xa +
+        parseInt(_0x4de34d(0x129)) / 0xb;
+      if (_0x503caf === _0x270a55) break;
+      else _0x30f145["push"](_0x30f145["shift"]());
+    } catch (_0x1108ee) {
+      _0x30f145["push"](_0x30f145["shift"]());
     }
   }
-})(_0x4410, 0xf2f8b);
+})(_0x5ca4, 0xb1e46);
+function _0x37c1(_0x583e92, _0x2fb929) {
+  var _0x5ca4f4 = _0x5ca4();
+  return (
+    (_0x37c1 = function (_0x37c184, _0x3d177e) {
+      _0x37c184 = _0x37c184 - 0x114;
+      var _0x5d2d76 = _0x5ca4f4[_0x37c184];
+      return _0x5d2d76;
+    }),
+    _0x37c1(_0x583e92, _0x2fb929)
+  );
+}
 function login() {
-  var _0xce1381 = _0x10b2,
-    _0x5a38e5,
-    _0x3b6493;
-  (_0x5a38e5 = document[_0xce1381(0x156)](_0xce1381(0x16c))[_0xce1381(0x15e)]),
-    (_0x3b6493 = document[_0xce1381(0x156)](_0xce1381(0x144))[
-      _0xce1381(0x15e)
-    ]),
-    (btn = document[_0xce1381(0x156)](_0xce1381(0x16a)));
-  if (_0x5a38e5 == _0xce1381(0x14f) && _0x3b6493 == _0xce1381(0x13f))
-    window[_0xce1381(0x143)] = _0xce1381(0x173);
+  var _0x23fd7a = _0x37c1,
+    _0x2da01e,
+    _0x4d9df3;
+  (_0x2da01e = document["getElementById"]("usuario")[_0x23fd7a(0x13f)]),
+    (_0x4d9df3 = document[_0x23fd7a(0x146)]("password")[_0x23fd7a(0x13f)]),
+    (btn = document[_0x23fd7a(0x146)](_0x23fd7a(0x119)));
+  if (_0x2da01e == _0x23fd7a(0x11a) && _0x4d9df3 == _0x23fd7a(0x115))
+    window[_0x23fd7a(0x130)] = _0x23fd7a(0x13d);
   else {
-    if (_0x5a38e5 == _0xce1381(0x14e) && _0x3b6493 == _0xce1381(0x14a))
-      window[_0xce1381(0x143)] = _0xce1381(0x16e);
+    if (_0x2da01e == _0x23fd7a(0x114) && _0x4d9df3 == _0x23fd7a(0x12c))
+      window["location"] = _0x23fd7a(0x14c);
     else {
-      if (_0x5a38e5 == _0xce1381(0x172) && _0x3b6493 == "5445")
-        window[_0xce1381(0x143)] = "grupos/sergio/sergio.html";
+      if (_0x2da01e == "Sergio29m" && _0x4d9df3 == _0x23fd7a(0x11f))
+        window["location"] = _0x23fd7a(0x128);
       else {
-        if (_0x5a38e5 == _0xce1381(0x15d) && _0x3b6493 == "15935789")
-          window[_0xce1381(0x143)] = "inicio.html";
+        if (_0x2da01e == "xfrancool" && _0x4d9df3 == "15935789")
+          window[_0x23fd7a(0x130)] = "inicio.html";
         else {
-          if (_0x5a38e5 == "a40lancestowin" && _0x3b6493 == "5894")
-            window[_0xce1381(0x143)] = "grupos/olavo/olavo.html";
+          if (_0x2da01e == _0x23fd7a(0x14b) && _0x4d9df3 == "5894")
+            window[_0x23fd7a(0x130)] = _0x23fd7a(0x140);
           else {
-            if (_0x5a38e5 == "gustavito1979" && _0x3b6493 == _0xce1381(0x168))
-              window["location"] = _0xce1381(0x171);
+            if (_0x2da01e == _0x23fd7a(0x13e) && _0x4d9df3 == _0x23fd7a(0x11e))
+              window["location"] = _0x23fd7a(0x11b);
             else {
-              if (_0x5a38e5 == "Hbrian94" && _0x3b6493 == _0xce1381(0x16f))
-                window["location"] = _0xce1381(0x161);
+              if (_0x2da01e == "Hbrian94" && _0x4d9df3 == _0x23fd7a(0x132))
+                window["location"] = _0x23fd7a(0x150);
               else {
-                if (
-                  _0x5a38e5 == _0xce1381(0x147) &&
-                  _0x3b6493 == _0xce1381(0x14b)
-                )
-                  window[_0xce1381(0x143)] = _0xce1381(0x167);
+                if (_0x2da01e == "tatic2022" && _0x4d9df3 == _0x23fd7a(0x134))
+                  window[_0x23fd7a(0x130)] = _0x23fd7a(0x133);
                 else {
-                  if (_0x5a38e5 == _0xce1381(0x159) && _0x3b6493 == "3080")
-                    window[_0xce1381(0x143)] = _0xce1381(0x145);
+                  if (
+                    _0x2da01e == _0x23fd7a(0x14e) &&
+                    _0x4d9df3 == _0x23fd7a(0x14f)
+                  )
+                    window[_0x23fd7a(0x130)] = _0x23fd7a(0x12e);
                   else {
-                    if (_0x5a38e5 == _0xce1381(0x152) && _0x3b6493 == "256480")
-                      window[_0xce1381(0x143)] = _0xce1381(0x16b);
+                    if (_0x2da01e == _0x23fd7a(0x137) && _0x4d9df3 == "256480")
+                      window["location"] = _0x23fd7a(0x116);
                     else {
                       if (
-                        _0x5a38e5 == _0xce1381(0x157) &&
-                        _0x3b6493 == _0xce1381(0x162)
+                        _0x2da01e == _0x23fd7a(0x117) &&
+                        _0x4d9df3 == _0x23fd7a(0x120)
                       )
-                        window[_0xce1381(0x143)] = _0xce1381(0x15f);
+                        window["location"] = _0x23fd7a(0x11c);
                       else {
                         if (
-                          _0x5a38e5 == _0xce1381(0x141) &&
-                          _0x3b6493 == "1820"
+                          _0x2da01e == _0x23fd7a(0x13a) &&
+                          _0x4d9df3 == _0x23fd7a(0x12b)
                         )
-                          window[_0xce1381(0x143)] = _0xce1381(0x166);
+                          window["location"] = _0x23fd7a(0x136);
                         else {
                           if (
-                            _0x5a38e5 == _0xce1381(0x16d) &&
-                            _0x3b6493 == _0xce1381(0x15c)
+                            _0x2da01e == _0x23fd7a(0x139) &&
+                            _0x4d9df3 == "1519"
                           )
-                            window[_0xce1381(0x143)] =
+                            window[_0x23fd7a(0x130)] =
                               "grupos/mateo/mateo.html";
                           else {
                             if (
-                              _0x5a38e5 == _0xce1381(0x146) &&
-                              _0x3b6493 == _0xce1381(0x15a)
+                              _0x2da01e == _0x23fd7a(0x127) &&
+                              _0x4d9df3 == _0x23fd7a(0x14a)
                             )
-                              window[_0xce1381(0x143)] = _0xce1381(0x142);
+                              window[_0x23fd7a(0x130)] = _0x23fd7a(0x13c);
                             else {
                               if (
-                                _0x5a38e5 == "victorluis" &&
-                                _0x3b6493 == _0xce1381(0x150)
+                                _0x2da01e == _0x23fd7a(0x121) &&
+                                _0x4d9df3 == _0x23fd7a(0x11d)
                               )
-                                window[_0xce1381(0x143)] = _0xce1381(0x151);
-                              else
-                                _0x5a38e5 == "elimaryarg" &&
-                                _0x3b6493 == _0xce1381(0x169)
-                                  ? (window[_0xce1381(0x143)] =
-                                      _0xce1381(0x155))
-                                  : (Swal[_0xce1381(0x174)]({
-                                      title: _0xce1381(0x14d),
-                                      text: "Por\x20favor,\x20ingrese\x20usuario\x20y\x20contraseña\x20correctos.",
-                                    }),
-                                    btn[_0xce1381(0x165)][_0xce1381(0x154)](
-                                      "class1"
-                                    ),
-                                    btn[_0xce1381(0x165)]["add"](
-                                      _0xce1381(0x13e)
-                                    ));
+                                window[_0x23fd7a(0x130)] = _0x23fd7a(0x145);
+                              else {
+                                if (
+                                  _0x2da01e == _0x23fd7a(0x142) &&
+                                  _0x4d9df3 == _0x23fd7a(0x131)
+                                )
+                                  window[_0x23fd7a(0x130)] =
+                                    "grupos/hernan/hernan.html";
+                                else
+                                  _0x2da01e == _0x23fd7a(0x148) &&
+                                  _0x4d9df3 == _0x23fd7a(0x143)
+                                    ? (window[_0x23fd7a(0x130)] =
+                                        _0x23fd7a(0x123))
+                                    : (Swal[_0x23fd7a(0x12d)]({
+                                        title: _0x23fd7a(0x138),
+                                        text: _0x23fd7a(0x12f),
+                                      }),
+                                      btn["classList"][_0x23fd7a(0x135)](
+                                        "class1"
+                                      ),
+                                      btn[_0x23fd7a(0x151)][_0x23fd7a(0x149)](
+                                        _0x23fd7a(0x12a)
+                                      ));
+                              }
                             }
                           }
                         }
@@ -197,4 +140,74 @@ function login() {
       }
     }
   }
+}
+function _0x5ca4() {
+  var _0x312dc8 = [
+    "Lelinator_9",
+    "16rXHhFG",
+    "grupos/roberto/roberto.html",
+    "grupos/primero/grupo1.html",
+    "gustavito1979",
+    "value",
+    "grupos/olavo/olavo.html",
+    "6tlSXWp",
+    "hernan2531",
+    "hola12",
+    "2VJVkBB",
+    "grupos/victor/victor.html",
+    "getElementById",
+    "7840650kFnkJc",
+    "elimaryarg",
+    "add",
+    "159652",
+    "a40lancestowin",
+    "grupos/primeroA/grupoA.html",
+    "400829kFGhRb",
+    "g4br13l4",
+    "3080",
+    "grupos/brian/brian.html",
+    "classList",
+    "Joshua",
+    "1516",
+    "grupos/crmayo/crmayo.html",
+    "EricLista",
+    "8tJXDiE",
+    "loading",
+    "Sherleck",
+    "grupos/gustavo/gustavo.html",
+    "grupos/eric/eric.html",
+    "695895",
+    "3050",
+    "5445",
+    "1518",
+    "victorluis",
+    "2095429EIPrSy",
+    "inicio.html",
+    "426567Ahqamx",
+    "5010264EFWgMZ",
+    "7017980eTqNLu",
+    "RobertoZ",
+    "grupos/sergio/sergio.html",
+    "5878301AJWIlg",
+    "class2",
+    "1820",
+    "1517",
+    "fire",
+    "grupos/gabriela/gabriela.html",
+    "Por\x20favor,\x20ingrese\x20usuario\x20y\x20contraseña\x20correctos.",
+    "location",
+    "259648",
+    "3984",
+    "grupos/tatiana/tatiana.html",
+    "9458",
+    "remove",
+    "grupos/fede/fede.html",
+    "Crmayo",
+    "Oops...",
+    "Mateo1",
+  ];
+  _0x5ca4 = function () {
+    return _0x312dc8;
+  };
+  return _0x5ca4();
 }
