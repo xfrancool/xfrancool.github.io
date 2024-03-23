@@ -1,0 +1,92 @@
+{
+  "eventos": [
+    {
+      "titulo": "Próximo torneo Sub 20",
+      "fecha": "7 de Abril, 2024",
+      "lugar": "Ituzaingó 167",
+
+      "ritmo": "15+10",
+      "rondas": "6",
+      "categoria": "Sub-20",
+      "precio": "$2500",
+      "arbitro": "AR Argento Elizabeth",
+
+      "descripcion": "Se realizará en la Sociedad Sirio Libanesa de Córdoba ✔",
+      "masinfo": "Realizar Inscripción👈",
+      "event": "/event1",
+      "maps": "https://maps.app.goo.gl/wbNw5nB1aWJ1yai19",
+      "imagen1": "https://xfrancool.github.io/torneopensado/1t.jpg",
+
+      "imagen2": "https://lh3.googleusercontent.com/p/AF1QipP_jx5CiDYL6ATQmmJc_dz1qq1oKwX6dHIb1IoS=s680-w680-h510",
+      "imagen3": "https://lh3.googleusercontent.com/p/AF1QipNUbUh2CptkrUj-lrYQpH8nz-hKYFqA58rU3DrH=s680-w680-h510",
+      "imagen4": "https://lh3.googleusercontent.com/p/AF1QipNEVsliOuQ9McIdgzW2Cg4tjp3Recom9SawK3rN=s680-w680-h510",
+      "imagen5": "https://lh3.googleusercontent.com/p/AF1QipMSf2yMTubMAAGecPNiU-_uFsatNXmixCZ5q_uj=s680-w680-h510"
+    },
+    {
+      "titulo": "Próximo torneo Pensado",
+      "fecha": "4 y 5 de Mayo, 2024",
+      "lugar": "Ituzaingó 167",
+
+      "ritmo": "30+30",
+      "rondas": "6",
+      "categoria": "Abierto",
+      "precio": "$4000 hasta el 31 de marzo, luego $5000 incluye baucher de almuerzo del sábado",
+      "arbitro": "AR Argento Elizabeth",
+
+      "descripcion": "Se realizará en la Sociedad Sirio Libanesa de Córdoba ✔",
+      "masinfo": "Realizar Inscripción👈",
+      "event": "/event2",
+      "maps": "https://maps.app.goo.gl/wbNw5nB1aWJ1yai19",
+      "imagen1": "https://xfrancool.github.io/eventosacademy/2t.jpg",
+
+      "imagen2": "https://lh3.googleusercontent.com/p/AF1QipP_jx5CiDYL6ATQmmJc_dz1qq1oKwX6dHIb1IoS=s680-w680-h510",
+      "imagen3": "https://lh3.googleusercontent.com/p/AF1QipNUbUh2CptkrUj-lrYQpH8nz-hKYFqA58rU3DrH=s680-w680-h510",
+      "imagen4": "https://lh3.googleusercontent.com/p/AF1QipNEVsliOuQ9McIdgzW2Cg4tjp3Recom9SawK3rN=s680-w680-h510",
+      "imagen5": "https://lh3.googleusercontent.com/p/AF1QipMSf2yMTubMAAGecPNiU-_uFsatNXmixCZ5q_uj=s680-w680-h510"
+    },
+    {
+      "titulo": "Próximo torneo Blitz de Parejas",
+      "fecha": "4 de Mayo, 2024",
+      "lugar": "Ituzaingó 167",
+
+      "ritmo": "3+2",
+      "rondas": "6",
+      "categoria": "Abierto",
+      "precio": "$3000 por parejas",
+      "arbitro": "AR Argento Elizabeth",
+
+      "descripcion": "Se realizará en la Sociedad Sirio Libanesa de Córdoba ✔",
+      "masinfo": "Realizar Inscripción👈",
+      "event": "/event3",
+      "maps": "https://maps.app.goo.gl/wbNw5nB1aWJ1yai19",
+      "imagen1": "https://xfrancool.github.io/eventosacademy/3t.jpg",
+
+      "imagen2": "https://lh3.googleusercontent.com/p/AF1QipP_jx5CiDYL6ATQmmJc_dz1qq1oKwX6dHIb1IoS=s680-w680-h510",
+      "imagen3": "https://lh3.googleusercontent.com/p/AF1QipNUbUh2CptkrUj-lrYQpH8nz-hKYFqA58rU3DrH=s680-w680-h510",
+      "imagen4": "https://lh3.googleusercontent.com/p/AF1QipNEVsliOuQ9McIdgzW2Cg4tjp3Recom9SawK3rN=s680-w680-h510",
+      "imagen5": "https://lh3.googleusercontent.com/p/AF1QipMSf2yMTubMAAGecPNiU-_uFsatNXmixCZ5q_uj=s680-w680-h510"
+    },
+    {
+      "titulo": "Próximo torneo Infantil por equipos",
+      "fecha": "4 y 5 de Mayo, 2024",
+      "lugar": "Ituzaingó 167",
+
+      "ritmo": "7+3",
+      "rondas": "9 Rondas",
+      "categoria": "Abierto",
+      "precio": "$2500 por integrantes incluye baucher de comida",
+      "arbitro": "AR Argento Elizabeth",
+
+      "descripcion": "Se realizará en la Sociedad Sirio Libanesa de Córdoba ✔",
+      "masinfo": "Realizar Inscripción👈",
+      "event": "/eventeq",
+      "maps": "https://maps.app.goo.gl/wbNw5nB1aWJ1yai19",
+      "imagen1": "https://xfrancool.github.io/eventosacademy/4t.jpg",
+
+      "imagen2": "https://lh3.googleusercontent.com/p/AF1QipP_jx5CiDYL6ATQmmJc_dz1qq1oKwX6dHIb1IoS=s680-w680-h510",
+      "imagen3": "https://lh3.googleusercontent.com/p/AF1QipNUbUh2CptkrUj-lrYQpH8nz-hKYFqA58rU3DrH=s680-w680-h510",
+      "imagen4": "https://lh3.googleusercontent.com/p/AF1QipNEVsliOuQ9McIdgzW2Cg4tjp3Recom9SawK3rN=s680-w680-h510",
+      "imagen5": "https://lh3.googleusercontent.com/p/AF1QipMSf2yMTubMAAGecPNiU-_uFsatNXmixCZ5q_uj=s680-w680-h510"
+    }
+  ]
+}
