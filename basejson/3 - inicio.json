@@ -1,0 +1,27 @@
+{
+  "eventos": [
+    {
+      "titulo": "Próximamente",
+      "fecha": "Cronograma",
+      "lugar": "Ituzaingó 167",
+
+      "ritmo": "",
+      "rondas": "",
+      "categoria": "",
+      "precio": "",
+      "arbitro": "",
+
+      "descripcion": "Se realizará en la Sociedad Sirio Libanesa de Córdoba ✔",
+      "masinfo": "Inscribirme a un torneo 👈",
+      "event": "/crono",
+      "maps": "https://maps.app.goo.gl/wbNw5nB1aWJ1yai19",
+      "imagen1": "https://xfrancool.github.io/eventosacademy/Crono.jpg",
+
+      "imagen2": "https://lh3.googleusercontent.com/p/AF1QipN0swHILZxgRbfVsZgJhu_teRHRT8-XywmhTzr0=s680-w680-h510",
+      "imagen3": "https://lh3.googleusercontent.com/p/AF1QipMPySVoOYWhEcw3nxnE_MuGL_05Kcig8MwyEVJ1=s680-w680-h510",
+      "imagen4": "https://lh3.googleusercontent.com/p/AF1QipOoufwB-yHwTpeV15RI2_-pH7emWxM5ua-_V-H4=s680-w680-h510",
+      "imagen5": "https://lh3.googleusercontent.com/p/AF1QipMH-eq9kafzO-v-KU5eGjz1VYN2xlkyiMLH5MHt=s680-w680-h510",
+      "imagen6": "https://lh3.googleusercontent.com/p/AF1QipMjln_RXhHET14LE0Fr2-s_uBo7yIglbCet4zLs=s680-w680-h510"
+    }
+  ]
+}

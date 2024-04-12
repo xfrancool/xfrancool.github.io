@@ -1,26 +1,38 @@
 {
   "eventos": [
     {
-      "titulo": "Próximo torneo Sub 20",
-      "fecha": "7 de Abril, 2024",
+      "titulo": "Próximo torneo Abierto",
+      "fecha": "13 de Abril, 2024",
       "lugar": "Ituzaingó 167",
 
-      "ritmo": "15+10",
+      "ritmo": "10+5",
       "rondas": "6",
-      "categoria": "Sub-20",
-      "precio": "$2500",
+      "categoria": "Abierto",
+      "precio": "$3000",
+      "arbitro": "AR Vargas Ezequiel Nicolás",
+
+      "descripcion": "Se realizará en la Sociedad Sirio Libanesa de Córdoba ✔",
+      "masinfo": "Realizar Inscripción 👈",
+      "event": "/event6",
+      "maps": "https://maps.app.goo.gl/wbNw5nB1aWJ1yai19",
+      "imagen1": "https://xfrancool.github.io/eventosacademy/6t.jpg"
+    },
+    {
+      "titulo": "Próximo torneo Rápido",
+      "fecha": "28 de Abril, 2024",
+      "lugar": "Ituzaingó 167",
+
+      "ritmo": "10+15",
+      "rondas": "6",
+      "categoria": "Abierto",
+      "precio": "$3000",
       "arbitro": "AR Argento Elizabeth",
 
       "descripcion": "Se realizará en la Sociedad Sirio Libanesa de Córdoba ✔",
-      "masinfo": "Realizar Inscripción👈",
-      "event": "/event1",
+      "masinfo": "Realizar Inscripción 👈",
+      "event": "/event7",
       "maps": "https://maps.app.goo.gl/wbNw5nB1aWJ1yai19",
-      "imagen1": "https://xfrancool.github.io/torneopensado/1t.jpg",
-
-      "imagen2": "https://lh3.googleusercontent.com/p/AF1QipP_jx5CiDYL6ATQmmJc_dz1qq1oKwX6dHIb1IoS=s680-w680-h510",
-      "imagen3": "https://lh3.googleusercontent.com/p/AF1QipNUbUh2CptkrUj-lrYQpH8nz-hKYFqA58rU3DrH=s680-w680-h510",
-      "imagen4": "https://lh3.googleusercontent.com/p/AF1QipNEVsliOuQ9McIdgzW2Cg4tjp3Recom9SawK3rN=s680-w680-h510",
-      "imagen5": "https://lh3.googleusercontent.com/p/AF1QipMSf2yMTubMAAGecPNiU-_uFsatNXmixCZ5q_uj=s680-w680-h510"
+      "imagen1": "https://xfrancool.github.io/eventosacademy/7t.jpg"
     },
     {
       "titulo": "Próximo torneo Pensado",
@@ -34,15 +46,10 @@
       "arbitro": "AR Argento Elizabeth",
 
       "descripcion": "Se realizará en la Sociedad Sirio Libanesa de Córdoba ✔",
-      "masinfo": "Realizar Inscripción👈",
+      "masinfo": "Realizar Inscripción 👈",
       "event": "/event2",
       "maps": "https://maps.app.goo.gl/wbNw5nB1aWJ1yai19",
-      "imagen1": "https://xfrancool.github.io/eventosacademy/2t.jpg",
-
-      "imagen2": "https://lh3.googleusercontent.com/p/AF1QipP_jx5CiDYL6ATQmmJc_dz1qq1oKwX6dHIb1IoS=s680-w680-h510",
-      "imagen3": "https://lh3.googleusercontent.com/p/AF1QipNUbUh2CptkrUj-lrYQpH8nz-hKYFqA58rU3DrH=s680-w680-h510",
-      "imagen4": "https://lh3.googleusercontent.com/p/AF1QipNEVsliOuQ9McIdgzW2Cg4tjp3Recom9SawK3rN=s680-w680-h510",
-      "imagen5": "https://lh3.googleusercontent.com/p/AF1QipMSf2yMTubMAAGecPNiU-_uFsatNXmixCZ5q_uj=s680-w680-h510"
+      "imagen1": "https://xfrancool.github.io/eventosacademy/2t.jpg"
     },
     {
       "titulo": "Próximo torneo Blitz de Parejas",
@@ -56,15 +63,10 @@
       "arbitro": "AR Argento Elizabeth",
 
       "descripcion": "Se realizará en la Sociedad Sirio Libanesa de Córdoba ✔",
-      "masinfo": "Realizar Inscripción👈",
+      "masinfo": "Realizar Inscripción 👈",
       "event": "/event3",
       "maps": "https://maps.app.goo.gl/wbNw5nB1aWJ1yai19",
-      "imagen1": "https://xfrancool.github.io/eventosacademy/3t.jpg",
-
-      "imagen2": "https://lh3.googleusercontent.com/p/AF1QipP_jx5CiDYL6ATQmmJc_dz1qq1oKwX6dHIb1IoS=s680-w680-h510",
-      "imagen3": "https://lh3.googleusercontent.com/p/AF1QipNUbUh2CptkrUj-lrYQpH8nz-hKYFqA58rU3DrH=s680-w680-h510",
-      "imagen4": "https://lh3.googleusercontent.com/p/AF1QipNEVsliOuQ9McIdgzW2Cg4tjp3Recom9SawK3rN=s680-w680-h510",
-      "imagen5": "https://lh3.googleusercontent.com/p/AF1QipMSf2yMTubMAAGecPNiU-_uFsatNXmixCZ5q_uj=s680-w680-h510"
+      "imagen1": "https://xfrancool.github.io/eventosacademy/3t.jpg"
     },
     {
       "titulo": "Próximo torneo Infantil por equipos",
@@ -78,15 +80,44 @@
       "arbitro": "AR Argento Elizabeth",
 
       "descripcion": "Se realizará en la Sociedad Sirio Libanesa de Córdoba ✔",
-      "masinfo": "Realizar Inscripción👈",
-      "event": "/eventeq",
+      "masinfo": "Realizar Inscripción 👈",
+      "event": "/event4",
       "maps": "https://maps.app.goo.gl/wbNw5nB1aWJ1yai19",
-      "imagen1": "https://xfrancool.github.io/eventosacademy/4t.jpg",
+      "imagen1": "https://xfrancool.github.io/eventosacademy/4t.jpg"
+    },
+    {
+      "titulo": "Próximo IRT Rápido",
+      "fecha": "12 de Mayo, 2024",
+      "lugar": "Ituzaingó 167",
 
-      "imagen2": "https://lh3.googleusercontent.com/p/AF1QipP_jx5CiDYL6ATQmmJc_dz1qq1oKwX6dHIb1IoS=s680-w680-h510",
-      "imagen3": "https://lh3.googleusercontent.com/p/AF1QipNUbUh2CptkrUj-lrYQpH8nz-hKYFqA58rU3DrH=s680-w680-h510",
-      "imagen4": "https://lh3.googleusercontent.com/p/AF1QipNEVsliOuQ9McIdgzW2Cg4tjp3Recom9SawK3rN=s680-w680-h510",
-      "imagen5": "https://lh3.googleusercontent.com/p/AF1QipMSf2yMTubMAAGecPNiU-_uFsatNXmixCZ5q_uj=s680-w680-h510"
+      "ritmo": "10+5",
+      "rondas": "6",
+      "categoria": "Abierto",
+      "precio": "$4000",
+      "arbitro": "AR Argento Elizabeth & AR Dario Soto",
+
+      "descripcion": "Se realizará en la Sociedad Sirio Libanesa de Córdoba ✔",
+      "masinfo": "Realizar Inscripción 👈",
+      "event": "/event8",
+      "maps": "https://maps.app.goo.gl/wbNw5nB1aWJ1yai19",
+      "imagen1": "https://xfrancool.github.io/eventosacademy/8tr.jpg"
+    },
+    {
+      "titulo": "Próximo Provincial Blitz IRT",
+      "fecha": "26 de Mayo, 2024",
+      "lugar": "Ituzaingó 167",
+
+      "ritmo": "3+2",
+      "rondas": "9",
+      "categoria": "Abierto",
+      "precio": "$4000",
+      "arbitro": "AR Argento Elizabeth & AR Dario Soto (Organizador. Pablo Jacobo)",
+
+      "descripcion": "Se realizará en la Sociedad Sirio Libanesa de Córdoba ✔",
+      "masinfo": "Realizar Inscripción 👈",
+      "event": "/event9",
+      "maps": "https://maps.app.goo.gl/wbNw5nB1aWJ1yai19",
+      "imagen1": "https://xfrancool.github.io/eventosacademy/9tr.jpg"
     }
   ]
 }
