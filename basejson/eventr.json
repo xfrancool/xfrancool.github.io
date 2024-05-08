@@ -10,6 +10,8 @@
       "transferencias": "Elizabeth Argento",
       "whatsapp": "Whatsapp 👈🏻",
       "cochera": "$2000",
+
+      "drive": "Trofeos",
       "wpplink": "https://api.whatsapp.com/send?phone=+5493548500137&text=Hola, entrego el comprobante de pago del ",
       "gwhat": "https://chat.whatsapp.com/JBokoNTz23n4XZOzHwgkik",
 
@@ -33,7 +35,8 @@
       "chessresults": "https://chess-results.com/Tnr930093.aspx?lan=2",
       "canon": "",
       "textcanon": "",
-      "calendar": ""
+      "calendar": "",
+      "premios": " Premios: 1:🏆 2:🏆 3:🏆"
     },
     "event2": {
       "nombre": "Torneo Sub 20",
@@ -48,7 +51,24 @@
       "chessresults": "https://chess-results.com/tnr917522.aspx?lan=2&turdet=YES",
       "canon": "https://federacionargentinadeajedrez.org/?page_id=2628",
       "textcanon": "Ver como abonarlo aqui 👈🏻",
-      "calendar": "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N3RlaW10YWt0dmxiNnFvNTFzZjZwZXJ1NDkgYWNhZGVtaWFkZWFqZWRyZXphbGZpbGRhbWFAbQ&tmsrc=academiadeajedrezalfildama%40gmail.com"
+      "calendar": "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N3RlaW10YWt0dmxiNnFvNTFzZjZwZXJ1NDkgYWNhZGVtaWFkZWFqZWRyZXphbGZpbGRhbWFAbQ&tmsrc=academiadeajedrezalfildama%40gmail.com",
+      "premios": " Premios: 1:🏆 2:🏆 3:🏆"
+    },
+    "event3": {
+      "nombre": "Torneo Blitz de pareja",
+      "fecha": "04 de Mayo del 2024",
+      "lugar": "Sociedad Sirio Libanesa (Ituzaingó 167, Córdoba)",
+      "hora": "10:00 am.",
+      "cierre": "Las inscripciones se cerrarán el Sábado 04/05/2024 a las 09am.",
+      "ritmo": "Ritmo de juego: 9 Rondas de 3+2 en digitales o 5 a finish en analógicos.",
+      "categoria": "Categoría: Abierto.",
+      "precio": "$3000",
+      "maps": "https://maps.app.goo.gl/X3kdESYF4SE6qmj27",
+      "chessresults": "https://chess-results.com/tnr917522.aspx?lan=2&turdet=YES",
+      "canon": "https://federacionargentinadeajedrez.org/?page_id=2628",
+      "textcanon": "Ver como abonarlo aqui 👈🏻",
+      "calendar": "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N3RlaW10YWt0dmxiNnFvNTFzZjZwZXJ1NDkgYWNhZGVtaWFkZWFqZWRyZXphbGZpbGRhbWFAbQ&tmsrc=academiadeajedrezalfildama%40gmail.com",
+      "premios": " Premios: 1:🏆 2:🏆 3:🏆"
     }
   }
 ]
