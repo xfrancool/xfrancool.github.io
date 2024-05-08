@@ -32,7 +32,8 @@
       "maps": "https://maps.app.goo.gl/X3kdESYF4SE6qmj27",
       "chessresults": "https://chess-results.com/Tnr930093.aspx?lan=2",
       "canon": "",
-      "textcanon": ""
+      "textcanon": "",
+      "calendar": ""
     },
     "event2": {
       "nombre": "Torneo Sub 20",
@@ -46,7 +47,8 @@
       "maps": "https://maps.app.goo.gl/X3kdESYF4SE6qmj27",
       "chessresults": "https://chess-results.com/tnr917522.aspx?lan=2&turdet=YES",
       "canon": "https://federacionargentinadeajedrez.org/?page_id=2628",
-      "textcanon": "Ver como abonarlo aqui 👈🏻"
+      "textcanon": "Ver como abonarlo aqui 👈🏻",
+      "calendar": "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N3RlaW10YWt0dmxiNnFvNTFzZjZwZXJ1NDkgYWNhZGVtaWFkZWFqZWRyZXphbGZpbGRhbWFAbQ&tmsrc=academiadeajedrezalfildama%40gmail.com"
     }
   }
 ]
