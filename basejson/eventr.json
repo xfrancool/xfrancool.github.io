@@ -7,6 +7,7 @@
       "adjuntar": "En el formulario puedes adjuntar el comprobante de pago. Si no puedes enviarlo a través del formulario también puedes hacerlo haciendo clic en el logo de WhatsApp.",
       "mp": "Desde el formulario se puede cerrar la inscripción con Mercado Pago.✔️",
       "alias": "academia.alfil.dama",
+      "transferencias": "Elizabeth Argento",
       "whatsapp": "Whatsapp 👈🏻",
       "cochera": "$2000",
       "wpplink": "https://api.whatsapp.com/send?phone=+5493548500137&text=Hola, entrego el comprobante de pago del ",
@@ -28,9 +29,10 @@
       "ritmo": "Ritmo de juego: 6 Rondas de 10+5 en digitales o 15 a finish en analógicos.",
       "categoria": "Categoría: Abierto.",
       "precio": "$3000 incluye inscripción al blitz por parejas (Combo)",
+      "maps": "https://maps.app.goo.gl/X3kdESYF4SE6qmj27",
       "chessresults": "https://chess-results.com/Tnr930093.aspx?lan=2",
-      "canon": "https://federacionargentinadeajedrez.org/?page_id=2628",
-      "textcanon": "Ver como abonarlo aqui 👈🏻"
+      "canon": "",
+      "textcanon": ""
     },
     "event2": {
       "nombre": "Torneo Sub 20",
@@ -41,6 +43,7 @@
       "ritmo": "Ritmo de juego: 6 Rondas de 15+10 en digitales o 25 a finish en analógicos.",
       "categoria": "Categoría: Abierto.",
       "precio": "$2500",
+      "maps": "https://maps.app.goo.gl/X3kdESYF4SE6qmj27",
       "chessresults": "https://chess-results.com/tnr917522.aspx?lan=2&turdet=YES",
       "canon": "https://federacionargentinadeajedrez.org/?page_id=2628",
       "textcanon": "Ver como abonarlo aqui 👈🏻"
