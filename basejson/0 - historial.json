@@ -1,51 +1,179 @@
 [
   {
+    "mes_numero": 6,
+    "titulo": "20° Torneo",
+    "fecha": "Próximamente 1 & 2 Junio, 2024",
+    "descripcion": "",
+    "details": "Coorganizador Sociedad Sirio Libanesa de Córdoba & COYS (ARG)",
+    "imagen": "https://xfrancool.github.io/imgwebeli/logo1.png",
+    "ig": "https://xfrancool.github.io/unctorneo/proximotorneo.jpg",
+    "drive": "#",
+    "chessresults": "#",
+    "pdf": "#",
+    "podio1": "",
+    "podio2": "",
+    "podio3": ""
+  },
+
+  {
+    "mes_numero": 5,
+    "titulo": "19° Torneo",
+    "fecha": "Próximamente 26 Mayo, 2024",
+    "descripcion": "",
+    "details": "Coorganizador Sociedad Sirio Libanesa de Córdoba & COYS (ARG)",
+    "imagen": "https://xfrancool.github.io/imgwebeli/logo1.png",
+    "ig": "https://xfrancool.github.io/unctorneo/proximotorneo.jpg",
+    "drive": "#",
+    "chessresults": "#",
+    "pdf": "#",
+    "podio1": "",
+    "podio2": "",
+    "podio3": ""
+  },
+  {
+    "mes_numero": 5,
+    "titulo": "18° Tr. Eliskases Adultos",
+    "fecha": "19 26 Mayo, 2024",
+    "descripcion": "",
+    "details": "Coorganizador Sociedad Sirio Libanesa de Córdoba & COYS (ARG)",
+    "imagen": "https://xfrancool.github.io/imgwebeli/logo1.png",
+    "ig": "https://www.instagram.com/p/C7KPbKjOV94/embed",
+    "drive": "https://drive.google.com/drive/folders/17cVALACPO1-TIEDqWWNWUJHWGHRf6eZD",
+    "chessresults": "#",
+    "pdf": "#",
+    "podio1": "Olmedo, Nicolás Gabriel",
+    "podio2": "Velez, Leonel Luca",
+    "podio3": "Tornquist, Carlos"
+  },
+  {
+    "mes_numero": 5,
+    "titulo": "17° Tr. Eliskases Infantil",
+    "fecha": "19 Mayo, 2024",
+    "descripcion": "",
+    "details": "Coorganizador Sociedad Sirio Libanesa de Córdoba & COYS (ARG)",
+    "imagen": "https://xfrancool.github.io/imgwebeli/logo1.png",
+    "ig": "https://www.instagram.com/p/C7KOTvku-Ob/embed",
+    "drive": "https://drive.google.com/drive/folders/17cVALACPO1-TIEDqWWNWUJHWGHRf6eZD",
+    "chessresults": "https://chess-results.com/tnr941353.aspx?lan=2&art=1&rd=6",
+    "pdf": "#",
+    "podio1": "Quinteros, Ismael",
+    "podio2": "Franco, Santino Leon",
+    "podio3": "Murillo, Mateo"
+  },
+  {
+    "mes_numero": 5,
+    "titulo": "16° Torneo IRT Rápido",
+    "fecha": "12 Mayo, 2024",
+    "descripcion": "",
+    "details": "Coorganizador Sociedad Sirio Libanesa de Córdoba & COYS (ARG)",
+    "imagen": "https://xfrancool.github.io/imgwebeli/logo1.png",
+    "ig": "https://www.instagram.com/p/C642E_Duk9O/embed",
+    "drive": "https://drive.google.com/drive/folders/1iwKOyCE9JEDgvDZ123Cu1sR7WogNpU4O",
+    "chessresults": "https://chess-results.com/tnr922222.aspx?lan=2&art=1&rd=6&turdet=YES",
+    "pdf": "https://drive.google.com/file/d/1USMHrE5MbubqYPrSM5g8iUP9xzjy52xU/view?usp=sharing",
+    "podio1": "Casado Davis, Joaquin",
+    "podio2": "Canello, Jose Luis",
+    "podio3": "	Gonzalez, David Gerardo	"
+  },
+  {
+    "mes_numero": 5,
+    "titulo": "15° Torneo",
+    "fecha": "05 Mayo, 2024",
+    "descripcion": "",
+    "details": "Coorganizador Sociedad Sirio Libanesa de Córdoba & COYS (ARG)",
+
+    "imagen": "https://xfrancool.github.io/imgwebeli/logo1.png",
+    "ig": "https://www.instagram.com/p/C6mMJZdu2n_/embed",
+    "drive": "https://drive.google.com/drive/folders/1ddC35kD4fRrc-REnIMAuQEWn-1WmQdVQ",
+    "chessresults": "https://chess-results.com/tnr930105.aspx?lan=2&art=1&rd=6",
+    "pdf": "https://drive.google.com/file/d/1YGrq48Yc9uhxr7hFSVm5N9SLBPSL7Fx3/view?usp=drive_link",
+    "podio1": "Quinteros, Ismael",
+    "podio2": "Chazarreta, Francisco",
+    "podio3": "Rosales Soria, Geronimo"
+  },
+  {
+    "mes_numero": 5,
+    "titulo": "14° Torneo (15hs.)",
+    "fecha": "04 Mayo, 2024",
+    "descripcion": "Blitz por parejas (15hs.)",
+    "details": "Coorganizador Sociedad Sirio Libanesa de Córdoba & COYS (ARG)",
+    "imagen": "https://www.instagram.com/p/C6kKvwUu083/embed",
+    "ig": "https://www.instagram.com/p/C6kKvwUu083/embed",
+    "drive": "https://drive.google.com/drive/folders/1SRnR7xXN1WWX2q2pKTXuE3KlV8afQGiE",
+    "chessresults": "https://chess-results.com/tnr932569.aspx?lan=2&art=1",
+    "pdf": "https://drive.google.com/file/d/1bMs7L8UrmI028GwMjiH41f6LLOMEB6hP/view?usp=drive_link",
+    "podio1": "Dupla Galactica",
+    "podio2": "Duelistas",
+    "podio3": "Felixes"
+  },
+  {
+    "mes_numero": 5,
+    "titulo": "13° Torneo (10am.)",
+    "fecha": "04 Mayo, 2024",
+    "descripcion": "(10am)",
+    "details": "Coorganizador Sociedad Sirio Libanesa de Córdoba & COYS (ARG)",
+    "imagen": "https://www.instagram.com/p/C6kIxZNuqyd/embed",
+    "ig": "https://www.instagram.com/p/C6kIxZNuqyd/embed",
+    "drive": "https://drive.google.com/drive/folders/1h7qY7ZkgbeuohBrXYWQSqt2y12IFB-kx?usp=sharing",
+    "chessresults": "https://chess-results.com/tnr930093.aspx?lan=2&art=1&rd=6&turdet=YES",
+    "pdf": "https://drive.google.com/file/d/1Lmqw9JTcVy4A671Pe9u6ZjbE_soOQWIH/view?usp=drive_link",
+
+    "podio1": "Vallejo, Facundo",
+    "podio2": "Perafan, Franco",
+    "podio3": "Romero, José Luis"
+  },
+  {
+    "mes_numero": 4,
     "titulo": "12° Torneo",
-    "fecha": "Próximamente 28 Abril, 2024",
+    "fecha": "28 Abril, 2024",
     "descripcion": "",
-    "details": "Coorganizador Sociedad Sirio Libanesa de Córdoba (ARG)",
-    "imagen": "https://xfrancool.github.io/imgwebeli/logo1.png",
-    "ig": "https://xfrancool.github.io/unctorneo/proximotorneo.jpg",
-    "drive": "#",
-    "chessresults": "#",
-    "pdf": "#",
-    "podio1": "",
-    "podio2": "",
-    "podio3": ""
+    "details": "Coorganizador Sociedad Sirio Libanesa de Córdoba & COYS (ARG)",
+    "imagen": "https://www.instagram.com/p/C6UydZkuJhK/embed",
+    "ig": "https://www.instagram.com/p/C6UydZkuJhK/embed",
+    "drive": "https://drive.google.com/drive/folders/1-5dXgEsxuEEub2d0AtbVHXsnhiOBkVLD",
+    "chessresults": "https://chess-results.com/tnr928659.aspx?lan=2&art=1&rd=6&turdet=YES",
+    "pdf": "https://drive.google.com/file/d/1T96XrYmdOqRfGq66JkXbpQ4j1LEbUnnl/view?usp=sharing",
+    "podio1": "CM Arias, Juan Carlos",
+    "podio2": "Velez, Leonel Luca",
+    "podio3": "Lammers, Anton"
   },
   {
+    "mes_numero": 4,
     "titulo": "11° Torneo",
-    "fecha": "Próximamente 13 Abril, 2024",
+    "fecha": "13 Abril, 2024",
     "descripcion": "",
-    "details": "Coorganizador Sociedad Sirio Libanesa de Córdoba (ARG)",
+    "details": "Coorganizador Sociedad Sirio Libanesa de Córdoba & COYS (ARG)",
     "imagen": "https://xfrancool.github.io/imgwebeli/logo1.png",
-    "ig": "https://xfrancool.github.io/unctorneo/proximotorneo.jpg",
-    "drive": "#",
-    "chessresults": "#",
-    "pdf": "#",
-    "podio1": "",
-    "podio2": "",
-    "podio3": ""
+    "ig": "https://xfrancool.github.io/imgwebeli/logo1.png",
+    "ig": "https://www.instagram.com/p/C5t7Imsuu8S/embed",
+    "drive": "https://drive.google.com/drive/folders/1rwKWlZjUF1q3W3XLNut586RpPWYsyIps?usp=sharing",
+    "chessresults": "https://chess-results.com/tnr921679.aspx?lan=2&art=1&rd=6&turdet=YES",
+    "pdf": "https://drive.google.com/file/d/1S-CP3I5Ak_dPGYoNbCuvZd-Tri_EB2HH/view?usp=sharing",
+    "podio1": "Moisset, Hernan",
+    "podio2": "Velez, Leonel Luca",
+    "podio3": "Martinez, Santiago Dario"
   },
   {
+    "mes_numero": 4,
     "titulo": "10° Torneo",
-    "fecha": "7 Abril, 2024",
+    "fecha": "07 Abril, 2024",
     "descripcion": "",
-    "details": "Coorganizador Sociedad Sirio Libanesa de Córdoba (ARG)",
+    "details": "Coorganizador Sociedad Sirio Libanesa de Córdoba & COYS (ARG)",
     "imagen": "https://xfrancool.github.io/imgwebeli/logo1.png",
     "ig": "https://www.instagram.com/p/C5eiev_Oaxh/embed",
     "drive": "https://drive.google.com/drive/folders/1OsIiV7F3jGF0N3HUfxgbRoruxQX7HGIk",
     "chessresults": "https://chess-results.com/tnr917522.aspx?lan=2&art=1&rd=6&turdet=YES",
     "pdf": "https://drive.google.com/file/d/1272NSXd7J7v4cL5LIoVqpHVg781AXiBF/view?usp=sharing",
-    "podio1": "Bellagamba, Abelardo Ladislao Marino	",
+    "podio1": "Bellagamba, Abelardo Ladislao Marino",
     "podio2": "Soria, Felipe",
-    "podio3": "Quinteros, Ismael"
+    "podio3": "Bilbao, León Jerónimo"
   },
   {
+    "mes_numero": 3,
     "titulo": "9° Torneo",
     "fecha": "30 Marzo, 2024",
     "descripcion": "",
-    "details": "Coorganizador Sociedad Sirio Libanesa de Córdoba (ARG)",
+    "details": "Coorganizador Sociedad Sirio Libanesa de Córdoba & COYS (ARG)",
     "imagen": "https://xfrancool.github.io/imgwebeli/logo1.png",
     "ig": "https://www.instagram.com/p/C5JhrFIOFeK/embed",
     "drive": "https://drive.google.com/drive/folders/1LVnxZ4SN63nxK3It4twUdrMOt3G8UcmO?usp=sharing",
@@ -56,6 +184,7 @@
     "podio3": "Moisset, Hernán"
   },
   {
+    "mes_numero": 3,
     "titulo": "8° Torneo",
     "fecha": "17 Marzo, 2024",
     "descripcion": "",
@@ -70,6 +199,7 @@
     "podio3": "Cufre, Santiago"
   },
   {
+    "mes_numero": 3,
     "titulo": "7° Torneo (Por equipos)",
     "fecha": "02 Marzo, 2024",
     "descripcion": "02 Marzo, 2024",
@@ -84,6 +214,7 @@
     "podio3": "La tripulación traviesa"
   },
   {
+    "mes_numero": 2,
     "titulo": "6° Torneo",
     "fecha": "25 Febrero, 2024 ",
     "descripcion": "Torneos integración a ciegas",
@@ -98,8 +229,9 @@
     "podio3": "CM Arias, Juan Carlos"
   },
   {
+    "mes_numero": 12,
     "titulo": "5° Torneo",
-    "fecha": "22 de Diciembre, 2023",
+    "fecha": "22 Diciembre, 2023",
     "descripcion": "Descripción del evento 3",
     "details": "",
     "imagen": "https://xfrancool.github.io/eventosacademy/5.jpg",
@@ -112,8 +244,9 @@
     "podio3": "Halac, Cristian"
   },
   {
+    "mes_numero": 12,
     "titulo": "4° Torneo",
-    "fecha": "02 de Diciembre, 2023",
+    "fecha": "02 Diciembre, 2023",
     "descripcion": "Descripción del evento 3",
     "details": "",
     "imagen": "https://xfrancool.github.io/eventosacademy/4.jpg",
@@ -127,8 +260,9 @@
     "podio3": "Mansilla, Lucas"
   },
   {
+    "mes_numero": 11,
     "titulo": "3° Torneo",
-    "fecha": "17 de Noviembre, 2023",
+    "fecha": "17 Noviembre, 2023",
     "descripcion": "Descripción del evento 3",
     "details": "",
     "imagen": "https://xfrancool.github.io/eventosacademy/3.jpg",
@@ -141,10 +275,12 @@
     "podio3": "Halac, Cristian"
   },
   {
+    "mes_numero": 10,
     "titulo": "2° Torneo",
-    "fecha": "21 de Octubre, 2023",
+    "fecha": "21 Octubre, 2023",
     "descripcion": "Descripción del evento 2",
     "details": "",
+
     "imagen": "https://xfrancool.github.io/eventosacademy/2.jpg",
     "ig": "https://www.instagram.com/p/Cyr7f91u-Jh/embed",
     "drive": "https://drive.google.com/drive/folders/10ZfXz4MN3coB3CYRp2zAwhrJZV0VnkGd?usp=drive_link",
@@ -156,9 +292,11 @@
   },
 
   {
+    "mes_numero": 10,
     "titulo": "1° Torneo",
-    "fecha": "07 de Octubre, 2023",
+    "fecha": "07 Octubre, 2023",
     "details": "",
+
     "imagen": "https://xfrancool.github.io/eventosacademy/1.jpg",
     "ig": "https://www.instagram.com/p/CyJtpMzuYSE/embed",
     "drive": "https://drive.google.com/drive/folders/1XSntLd1T4luXFp020PJHURpXEqx2OpHL?usp=drive_link",
