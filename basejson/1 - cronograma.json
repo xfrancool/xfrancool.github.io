@@ -1,24 +1,7 @@
 {
   "eventos": [
     {
-      "titulo": "Próximo Provincial Blitz IRT",
-      "fecha": "26 de Mayo, 2024",
-      "lugar": "Ituzaingó 167",
-
-      "ritmo": "3+2",
-      "rondas": "9",
-      "categoria": "Abierto",
-      "precio": "$4000 si pagaste  canon, $6000 si no lo pagas.",
-      "arbitro": "AR Argento Elizabeth & AR Dario Soto (Organizador. Pablo Jacobo)",
-
-      "descripcion": "Se realizará en la Sociedad Sirio Libanesa de Córdoba ✔",
-      "masinfo": "Realizar Inscripción 👈🏻",
-      "event": "/event9",
-      "maps": "https://maps.app.goo.gl/wbNw5nB1aWJ1yai19",
-      "imagen1": "https://xfrancool.github.io/eventosacademy/9tr.jpg"
-    },
-    {
-      "titulo": "Próximo IRT Pensado",
+      "titulo": "Próximo IRT Pensado (Inscripciones Cerrdas)",
       "fecha": "1 y 2 Junio, 2024",
       "lugar": "Ituzaingó 167",
 
@@ -26,11 +9,11 @@
       "rondas": "6 (3 Rondas cada fecha)",
       "categoria": "Abierto",
       "precio": "$7000",
-      "arbitro": "AR Argento Elizabeth & AR Dario Soto (Organizador. Pablo Jacobo)",
+      "arbitro": "AR Argento Elizabeth & AR Dario Soto (Organizador Pablo Jacobo)",
 
       "descripcion": "Se realizará en la Sociedad Sirio Libanesa de Córdoba ✔",
       "masinfo": "Realizar Inscripción 👈🏻",
-      "event": "/event5",
+      "event": "/crono",
       "maps": "https://maps.app.goo.gl/wbNw5nB1aWJ1yai19",
       "imagen1": "https://xfrancool.github.io/eventosacademy/5tr.jpg"
     }

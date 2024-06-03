@@ -7,12 +7,12 @@
 
       "title": "Estado de inscripción & Chess-Results",
 
-      "n1": "0",
-      "n2": "0",
+      "n1": "",
+      "n2": "",
       "n3": "",
       "n4": "",
       "n5": "",
-      "n6": "0",
+      "n6": "",
       "n7": "0",
 
       "in1": "✔",
@@ -21,22 +21,22 @@
       "in4": "❌",
       "in5": "✔",
       "in6": "✔",
-      "in7": "✔",
+      "in7": "❌",
 
-      "name1": "Infanto Eliskases 19/05 10am.",
-      "name2": "Abierto Eliskases 19/05 10am.",
+      "name1": "",
+      "name2": "",
       "name3": "",
       "name4": "",
       "name5": "",
-      "name6": "IRT Provincial Blitz 26/05 15pm.",
+      "name6": "",
       "name7": "IRT 60+30 válido Elo FIDE 1 y 2 de Junio 10am.",
 
-      "tr1": "https://chess-results.com/Tnr941353.aspx?lan=2",
-      "tr2": "https://chess-results.com/Tnr941360.aspx?lan=2",
+      "tr1": "",
+      "tr2": "",
       "tr3": "",
       "tr4": "",
-      "tr5": "https://chess-results.com/Tnr922222.aspx?lan=2",
-      "tr6": "https://chess-results.com/tnr922717.aspx?lan=2",
+      "tr5": "",
+      "tr6": "",
       "tr7": "https://chess-results.com/Tnr925126.aspx?lan=2",
 
       "descripcion": "Se realizará en la Sociedad Sirio Libanesa de Córdoba ✔",
@@ -61,6 +61,54 @@
       "img15": "https://lh3.googleusercontent.com/p/AF1QipPcPaLAkeCgLTtH4Lm4ks5rBQpG58CwtUeLRC-3=s680-w680-h510",
       "img16": "https://lh3.googleusercontent.com/p/AF1QipMA3mSMzGljVrD-ebRy25nh5TlCOrT7-eKaTszf=s680-w680-h510",
       "img17": "https://lh3.googleusercontent.com/p/AF1QipNVJfTCyBXghjbD6WIzZct00Lp1WP0E_QhH2iuf=s680-w680-h510"
+    },
+
+    {
+      "titulo": "Próximamente",
+      "fecha": "Cronograma",
+      "lugar": "Av. Brochero entre calles 4 y 6",
+
+      "title": "Estado de inscripción & Chess-Results",
+
+      "n1": "0",
+      "n2": "",
+      "n3": "",
+      "n4": "",
+      "n5": "",
+      "n6": "",
+      "n7": "",
+
+      "in1": "✔",
+      "in2": "✔",
+      "in3": "❌",
+      "in4": "❌",
+      "in5": "✔",
+      "in6": "✔",
+      "in7": "✔",
+
+      "name1": "Infanto - Juvenil 22/06 15pm.",
+      "name2": "",
+      "name3": "",
+      "name4": "",
+      "name5": "",
+      "name6": "",
+      "name7": "",
+
+      "tr1": "https://chess-results.com/Tnr945063.aspx?lan=2",
+      "tr2": "",
+      "tr3": "",
+      "tr4": "",
+      "tr5": "",
+      "tr6": "",
+      "tr7": "",
+
+      "descripcion": "Se realizará en el Salón Brochero / (Interior de Córdoba) Villa Parque Santa Ana ) ✔",
+      "masinfo": "Inscribirme al torneo 👈🏻",
+      "event": "/crono2",
+      "maps": "https://maps.app.goo.gl/8BCCUD9esugbuJXs7",
+
+      "img1": "https://xfrancool.github.io/eventosacademy/crono2.jpg",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipPN1Ox-RH2KxBin7fqxZG7DfyGEAaYZ3V76SH4d=s680-w680-h510"
     }
   ]
 }
