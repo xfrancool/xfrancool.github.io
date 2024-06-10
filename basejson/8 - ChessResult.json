@@ -1,0 +1,42 @@
+{
+  "eventos": [
+    {
+      "titulo": "Próximamente",
+      "fecha": "Cronograma",
+
+      "title": "Chess-Results",
+
+      "n1": "0",
+      "n2": "",
+      "n3": "",
+      "n4": "",
+      "n5": "",
+      "n6": "",
+      "n7": "0",
+
+      "in1": "✔",
+      "in2": "✔",
+      "in3": "❌",
+      "in4": "❌",
+      "in5": "✔",
+      "in6": "✔",
+      "in7": "✔",
+
+      "name1": "16/06/2024",
+      "name2": "",
+      "name3": "",
+      "name4": "",
+      "name5": "",
+      "name6": "",
+      "name7": "22/06/2024",
+
+      "tr1": "https://chess-results.com/Tnr945063.aspx?lan=2",
+      "tr2": "",
+      "tr3": "",
+      "tr4": "",
+      "tr5": "",
+      "tr6": "",
+      "tr7": "https://chess-results.com/Tnr954123.aspx?lan=2"
+    }
+  ]
+}
