@@ -22,6 +22,24 @@
       "success_img": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/jeshoots-com-632498-unsplash_1200x768.jpeg?VersionId=kKznYEvUJ1GqLDRjf065aG9C16Xghuk8",
       "logo_img": "https://xfrancool.github.io/unctorneo/logoround.png"
     },
+
+    "eventcopa": {
+      "nombre": "Torneo Copa Alfil-Dama",
+      "fecha": "06 de Julio 2024",
+      "lugar": "Facultad de Ciencias Exactas, Físicas y Naturales - Sede Ciudad Universitaria (Córdoba) ",
+      "hora": "10:00 am.",
+      "cierre": "",
+      "ritmo": " 6 Rondas de 10+5 en digitales o 15 a finish en analógicos.",
+      "categoria": "Categoría: Abierto.",
+      "precio": "",
+      "maps": "https://maps.app.goo.gl/NM5hoarsYDVYksch7",
+      "chessresults": "https://chess-results.com/Tnr955962.aspx?lan=2",
+      "eventimg": "https://xfrancool.github.io/eventosacademy/copa.jpg",
+      "canon": "",
+      "textcanon": "",
+      "calendar": "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDVuc2U5NXAwYXBiYXYwNHF1NDhsMGR1bGMgYWNhZGVtaWFkZWFqZWRyZXphbGZpbGRhbWFAbQ&tmsrc=academiadeajedrezalfildama%40gmail.com",
+      "premios": " Premios: 1:🏆 2:🏆 3:🏆"
+    },
     "event1": {
       "nombre": "Torneo Rápido",
       "fecha": "04 de Mayo del 2024",
