@@ -1,52 +1,124 @@
 {
   "eventos": [
     {
-      "titulo": "Último Clasificatorio",
+      "titulo": "Infantil",
 
-      "hora": "10:00 AM",
+      "hora": "15:00 Hs",
+      "lugar": "Córdoba 112",
+      "provincia": "( Jesús Maria - CBA )",
+
+      "date": "31",
+      "mes": "AGOSTO",
+      "modalidad": "(SUIZO 10+5) 6 Rondas",
+      "categoria": "Sub16",
+      "precio": "$3000 General $2000 Afiliados",
+      "arbitro": "AR Argento Elizabeth",
+
+      "org1": "",
+      "org2": "",
+      "org3": "https://xfrancool.github.io/unctorneo/logoround.png",
+      "maps": "https://maps.app.goo.gl/YMV55cs7ecURshVb6",
+      "flayer": "https://xfrancool.github.io/eventosacademy/7tr.jpg",
+
+      "event": "/event7",
+
+      "imglugar": "https://maps.app.goo.gl/qo3MekN3c2yy7G916"
+    },
+    {
+      "titulo": "Adultos",
+
+      "hora": "15:00 Hs",
+      "lugar": "Córdoba 112",
+      "provincia": "( Jesús Maria - CBA )",
+
+      "date": "31",
+      "mes": "AGOSTO",
+      "modalidad": "(SUIZO 10+5) 6 Rondas",
+      "categoria": "Abierto",
+      "precio": "$3000 General $2000 Afiliados",
+      "arbitro": "AR Argento Elizabeth",
+
+      "org1": "",
+      "org2": "",
+      "org3": "https://xfrancool.github.io/unctorneo/logoround.png",
+      "maps": "https://maps.app.goo.gl/YMV55cs7ecURshVb6",
+      "flayer": "https://xfrancool.github.io/eventosacademy/7tr.jpg",
+
+      "event": "/event10",
+
+      "imglugar": "https://maps.app.goo.gl/qo3MekN3c2yy7G916"
+    },
+    {
+      "titulo": "Adultos",
+
+      "hora": "15:00 Hs",
+      "lugar": "Salon Brochero Av.Brochero entre calle 4 y 6",
+      "provincia": "( Villa Parque Santa Ana - CBA )",
+
+      "date": "07",
+      "mes": "SEP",
+      "modalidad": "(SUIZO 10+5) 6 Rondas",
+      "categoria": "Abierto",
+      "precio": "$3000 General $2000 Afiliados AAD $2000 Alumnos Rey de Reyes.",
+      "arbitro": "AR Argento Elizabeth & AR Vargas Ezequiel",
+
+      "org1": "",
+      "org2": "",
+      "org3": "https://xfrancool.github.io/unctorneo/logoround.png",
+      "maps": "https://maps.app.goo.gl/Yv6EfeBNg3cSYMKM9",
+      "flayer": "https://xfrancool.github.io/eventosacademy/12tr.jpg",
+
+      "event": "/event11",
+
+      "imglugar": "https://www.google.com/maps/@-31.5908412,-64.3544577,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPN1Ox-RH2KxBin7fqxZG7DfyGEAaYZ3V76SH4d!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPN1Ox-RH2KxBin7fqxZG7DfyGEAaYZ3V76SH4d%3Dw86-h86-k-no!7i774!8i774?authuser=0&entry=ttu"
+    },
+    {
+      "titulo": "Infantil",
+
+      "hora": "15:00 Hs",
+      "lugar": "Salon Brochero Av.Brochero entre calle 4 y 6",
+      "provincia": "( Villa Parque Santa Ana - CBA )",
+
+      "date": "07",
+      "mes": "SEP",
+      "modalidad": "(SUIZO 10+5) 6 Rondas",
+      "categoria": "Sub16",
+      "precio": "$3000 General $2000 Afiliados AAD $2000 Alumnos Rey de Reyes.",
+      "arbitro": "AR Argento Elizabeth & AR Vargas Ezequiel",
+
+      "org1": "",
+      "org2": "",
+      "org3": "https://xfrancool.github.io/unctorneo/logoround.png",
+      "maps": "https://maps.app.goo.gl/Yv6EfeBNg3cSYMKM9",
+      "flayer": "https://xfrancool.github.io/eventosacademy/12tr.jpg",
+
+      "event": "/event12",
+
+      "imglugar": "https://www.google.com/maps/@-31.5908412,-64.3544577,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPN1Ox-RH2KxBin7fqxZG7DfyGEAaYZ3V76SH4d!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPN1Ox-RH2KxBin7fqxZG7DfyGEAaYZ3V76SH4d%3Dw86-h86-k-no!7i774!8i774?authuser=0&entry=ttu"
+    },
+    {
+      "titulo": "IRT Provincial Unificado AAPC-FAPC",
+
+      "hora": "15hs.",
       "lugar": "Ituzaingó 167",
       "provincia": "(Córdoba)",
 
-      "date": "16",
-      "mes": "JUNIO",
+      "date": "14",
+      "mes": "SEP",
       "modalidad": "(SUIZO 10+5) 6 Rondas",
       "categoria": "Abierto",
-      "precio": "$3000 General / Afiliados de la AAD: $2000 / Alumnos de Rey de Reyes: $2000",
-      "arbitro": "OR. Vargas Nicolás Ezequiel & AR Argento Elizabeth",
+      "precio": "$4000 General",
+      "arbitro": "AN Soto Dario & AR Argento Elizabeth",
 
       "org1": "https://xfrancool.github.io/unctorneo/coys.jpg",
       "org2": "https://xfrancool.github.io/unctorneo/sirio.png",
       "org3": "https://xfrancool.github.io/unctorneo/logoround.png",
       "maps": "https://maps.app.goo.gl/wbNw5nB1aWJ1yai19",
-      "flayer": "https://xfrancool.github.io/eventosacademy/6tr.jpg",
+      "flayer": "https://xfrancool.github.io/eventosacademy/9tr.jpg",
 
-      "event": "/event6",
+      "event": "/event9",
 
       "imglugar": "https://photos.google.com/share/AF1QipPRlZtZabp74a9crvI5wLbe3qDPKUl9jPn4I1q7E2PIZWicePMC7FiaQu3rwrbQMQ?pli=1&key=NjNJbUZWeFU4NDdCS0ZKdlNMc3VPQ3ZsVjZWcl9R"
-    },
-    {
-      "titulo": "Infanto-Juvenil",
-      "fecha": "22 de Junio, 2024",
-      "hora": "10:00 AM",
-      "lugar": "Av. Brochero entre calles 4 y 6",
-      "provincia": "(Interior de Córdoba) Villa Parque Santa Ana",
-
-      "date": "22",
-      "mes": "JUNIO",
-      "modalidad": "(SUIZO 10+5) 6 Rondas",
-      "categoria": "Sub16",
-      "precio": "$3000 General / Afiliados de la AAD: $2000 / Alumnos de Rey de Reyes: $2000",
-      "arbitro": "OR. Vargas Nicolás Ezequiel & AR Argento Elizabeth",
-
-      "org1": "https://xfrancool.github.io/unctorneo/reydereyes.png",
-      "org2": "https://xfrancool.github.io/unctorneo/logoround.png",
-      "org3": "",
-      "maps": "https://maps.app.goo.gl/8BCCUD9esugbuJXs7",
-      "flayer": "https://xfrancool.github.io/eventosacademy/10tr.jpg",
-
-      "event": "/event10",
-
-      "imglugar": "https://lh3.googleusercontent.com/p/AF1QipPN1Ox-RH2KxBin7fqxZG7DfyGEAaYZ3V76SH4d=s680-w680-h510"
     }
   ]
 }

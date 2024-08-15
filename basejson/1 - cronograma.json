@@ -1,21 +1,21 @@
 {
   "eventos": [
     {
-      "titulo": "Próximo IRT Pensado (Inscripciones Cerrdas)",
-      "fecha": "1 y 2 Junio, 2024",
+      "titulo": "Último Clasificatorio - (Copa)",
+      "fecha": "16 Junio, 2024",
       "lugar": "Ituzaingó 167",
 
-      "ritmo": "60+30",
-      "rondas": "6 (3 Rondas cada fecha)",
+      "ritmo": "10+5",
+      "rondas": "6",
       "categoria": "Abierto",
-      "precio": "$7000",
-      "arbitro": "AR Argento Elizabeth & AR Dario Soto (Organizador Pablo Jacobo)",
+      "precio": "$3000 General $2000 Afiliados AAD",
+      "arbitro": "AR Argento Elizabeth",
 
       "descripcion": "Se realizará en la Sociedad Sirio Libanesa de Córdoba ✔",
       "masinfo": "Realizar Inscripción 👈🏻",
-      "event": "/crono",
+      "event": "/event6",
       "maps": "https://maps.app.goo.gl/wbNw5nB1aWJ1yai19",
-      "imagen1": "https://xfrancool.github.io/eventosacademy/5tr.jpg"
+      "imagen1": "https://xfrancool.github.io/eventosacademy/6tr.jpg"
     }
   ]
 }
